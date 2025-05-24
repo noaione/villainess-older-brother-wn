@@ -611,7 +611,7 @@ satisfied with it, there was no need for me to press further.
 Afterward, Caron and the others joined us once their tasks were finished, and
 the peaceful time continued to flow by.
 
-○●○●○●○●
+---
 
 After school. As usual, we were conducting meditation training, but today we
 finished a little earlier than usual.

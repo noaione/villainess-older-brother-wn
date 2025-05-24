@@ -140,7 +140,7 @@ Caron, but my world has grown so much since then.
 All of them are my precious family. No matter who it is, I won’t let anyone
 destroy this happiness.
 
-○●○●○●○●
+---
 
 I had just returned to the estate and finished changing in my private room when
 the news arrived...

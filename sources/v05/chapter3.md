@@ -164,7 +164,7 @@ Thanks to the foolish actions of the succession candidates, the Sawaid issue has
 been resolved sooner than I expected. They probably acted out of desperation,
 but in that regard, I should at least be grateful for their idiocy.
 
-○●○●○●○●
+---
 
 After completing the paperwork to join the underdog Magical Piece Club, we
 headed to its clubroom.
