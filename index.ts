@@ -15,7 +15,7 @@ import {
   mdastToHast,
   prettifyHtml,
   prettifyXml,
-  splitContentAtImage,
+  splitMdastContents,
 } from './utils/markdown';
 import { Epub, type DcCreator } from '@smoores/epub';
 import {
@@ -41,7 +41,11 @@ if (!(await exists(finalFolder))) {
 
 function makeFileName(meta: ProjectMetaSchemaType, volumeNumber: number) {
   const paddedNumber = String(volumeNumber).padStart(2, '0');
-  return `${meta.title} v${paddedNumber} [${meta.publisher.name}] [${meta.translator.name}] [${meta.compiler.name}].epub`;
+  let baseName = `${meta.title} v${paddedNumber}`;
+  if (meta.publisher?.name) {
+    baseName += ` [${meta.publisher.name}]`;
+  }
+  return `${baseName} [${meta.translator.name}] [${meta.compiler.name}].epub`;
 }
 
 function coerceAuthorFileAs(originalName: string) {
@@ -364,7 +368,7 @@ async function processVolume(projectMeta: ProjectMetaSchemaType, volumeNumber: s
       }
       case 'chapter':
       case 'images': {
-        const splitByImages = splitContentAtImage(markdownParsed);
+        const splitByImages = splitMdastContents(markdownParsed);
 
         for (let i = 0; i < splitByImages.length; i++) {
           const split = splitByImages[i]!;
@@ -481,17 +485,6 @@ async function processVolume(projectMeta: ProjectMetaSchemaType, volumeNumber: s
 
   // Generate navigation file if requested the custom ones
   if (navigationFileMeta) {
-    console.log(` --]> Generating navigation file: ${navigationFileMeta.title}`);
-    const navFile = await prettifyHtml(autogenToC(meta, navContents, navigationFileMeta.title));
-    await epub.addManifestItem(
-      {
-        id: navigationFileMeta.filename,
-        href: `Text/${navigationFileMeta.filename}`,
-        mediaType: 'application/xhtml+xml',
-      },
-      navFile,
-      'utf-8',
-    );
     bookSpines[navigationFileMeta.filename] = {
       filename: navigationFileMeta.filename,
       title: navigationFileMeta.title,
@@ -528,21 +521,23 @@ async function processVolume(projectMeta: ProjectMetaSchemaType, volumeNumber: s
   }
 
   console.log(` --]> Generating full table of contents: ${meta.title}`);
-  const fullNav = await prettifyHtml(autogenToC(meta, navChildrenBase, 'Table of Contents'));
+  const navName = navigationFileMeta?.filename ?? 'navigation.xhtml';
+  const navTitle = navigationFileMeta?.title ?? 'Table of Contents';
+  const fullNav = await prettifyHtml(autogenToC(meta, navChildrenBase, navTitle));
+  await epub.addManifestItem(
+    {
+      id: navName,
+      href: `Text/${navName}`,
+      mediaType: 'application/xhtml+xml',
+      properties: ['nav'],
+    },
+    fullNav,
+    'utf-8',
+  );
   if (!navigationFileMeta) {
-    await epub.addManifestItem(
-      {
-        id: 'navigation.xhtml',
-        href: 'Text/navigation.xhtml',
-        mediaType: 'application/xhtml+xml',
-        properties: ['nav'],
-      },
-      fullNav,
-      'utf-8',
-    );
     fullSpines.push({
-      filename: 'navigation.xhtml',
-      title: 'Table of Contents',
+      filename: navName,
+      title: navTitle,
       type: 'backmatter',
     });
   }

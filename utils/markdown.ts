@@ -168,7 +168,17 @@ export function hastToHtml(
   }
 }
 
-export function splitContentAtImage(mdastRoot: MdastRoot): (MdastRoot & { fullImage?: boolean })[] {
+/**
+ * Automatically split the content of a mdast tree into multiple trees.
+ *
+ * The function will split the content at each image found OR if it finds a <!-- /split --> comment.
+ * To not split an image, add #nosplit to the end of the image src.
+ *
+ * @param mdastRoot The root node of the mdast tree
+ * @returns Multiple mdast trees, each separated by an image or <!-- /split -->
+ * @throws Error if mdastRoot is not a root node
+ */
+export function splitMdastContents(mdastRoot: MdastRoot): (MdastRoot & { fullImage?: boolean })[] {
   // Check if mdastRoot is root
   if (mdastRoot.type !== 'root') {
     throw new Error('mdastRoot is not a `root` node');
@@ -209,6 +219,20 @@ export function splitContentAtImage(mdastRoot: MdastRoot): (MdastRoot & { fullIm
         currentChildren = [];
         continue;
       }
+    } else if (child.type === 'html' && child.value.match(/<!--\s*\/split\s*-->/)) {
+      // If we find a <!-- /split -->, we need to split the children
+      if (currentChildren.length > 0) {
+        splitChildren.push({
+          type: 'root',
+          children: currentChildren,
+          position: {
+            start: currentChildren[0]!.position!.start,
+            end: currentChildren[currentChildren.length - 1]!.position!.end,
+          },
+        });
+      }
+      currentChildren = [];
+      continue;
     }
 
     currentChildren.push(child);

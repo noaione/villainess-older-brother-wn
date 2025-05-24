@@ -46,11 +46,13 @@ const VolumeFrontmatter = z.strictObject({
 
 const ProjectMetaSchema = z.strictObject({
   title: z.string(),
-  publisher: z.strictObject({
-    name: z.string(),
-    full_name: z.string().nullable().optional(),
-    country: z.string(),
-  }),
+  publisher: z
+    .strictObject({
+      name: z.string(),
+      full_name: z.string().nullable().optional(),
+      country: z.string(),
+    })
+    .optional(),
   author: z.strictObject({
     writer: z.string(),
     illustrator: z.string().optional(),

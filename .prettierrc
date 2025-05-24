@@ -9,7 +9,7 @@
             "files": "sources/**/*.md",
             "options": {
                 "parser": "markdown",
-                "proseWrap": "preserve",
+                "proseWrap": "always",
                 "printWidth": 80,
                 "semi": true,
                 "singleQuote": false,
