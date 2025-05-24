@@ -1,0 +1,31 @@
+{
+    "title": "My EPUB Book",
+    "publisher": {
+        "name": "Original Publisher",
+        "full_name": null,
+        "country": "Japan"
+    },
+    "author": {
+        "writer": "Author Name",
+        "illustrator": "Illustrator Name"
+    },
+    "translator": {
+        "name": "Translator Group",
+        "url": "https://translator-website.com",
+        "image": null
+    },
+    "compiler": {
+        "name": "Compiler Name",
+        "url": "https://github.com/noaione/ln-epub-generator"
+    },
+    "teams": [
+        {
+            "name": "My Name",
+            "role": "translator"
+        },
+        {
+            "name": "Other Name",
+            "role": "editor"
+        }
+    ]
+}

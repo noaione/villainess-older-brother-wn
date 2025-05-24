@@ -1,0 +1,126 @@
+diff --git a/index.cjs b/index.cjs
+index deaff18da40dfa4702fad2e3263e0e408f2c7989..9ad0de43b434ec824d67a3647be01dfa1233d58f 100644
+--- a/index.cjs
++++ b/index.cjs
+@@ -249,19 +249,19 @@ class Epub {
+    */ static async create({ title, language, identifier, date, subjects, type, creators, contributors }, additionalMetadata = []) {
+         const entries = [];
+         const encoder = new TextEncoder();
+-        const container = encoder.encode(`<?xml version="1.0"?>
+-<container>
+-  <rootfiles>
+-    <rootfile media-type="application/oebps-package+xml" full-path="OEBPS/content.opf"/>
+-  </rootfiles>
++        const container = encoder.encode(`<?xml version="1.0" encoding="utf-8"?>
++<container version="1.0" xmlns="urn:oasis:names:tc:opendocument:xmlns:container">
++    <rootfiles>
++        <rootfile full-path="OEBPS/content.opf" media-type="application/oebps-package+xml"/>
++    </rootfiles>
+ </container>
+ `);
+         entries.push(new EpubEntry({
+             filename: "META-INF/container.xml",
+             data: container
+         }));
+-        const packageDocument = encoder.encode(`<?xml version="1.0"?>
+-<package unique-identifier="pub-id" dir="${language.textInfo.direction}" xml:lang=${language.toString()} version="3.0">
++        const packageDocument = encoder.encode(`<?xml version="1.0" encoding="utf-8"?>
++<package version="3.0" unique-identifier="pub-id" dir="${language.textInfo.direction}" xml:lang="${language.toString()}">
+   <metadata>
+   </metadata>
+   <manifest>
+@@ -868,8 +868,9 @@ class Epub {
+             await this.addMetadata({
+                 type: "meta",
+                 properties: {
++                    property: "role",
+                     refines: `#${creatorId}`,
+-                    property: "role"
++                    scheme: "marc:relators"
+                 },
+                 value: creator.role
+             });
+@@ -878,8 +879,8 @@ class Epub {
+             await this.addMetadata({
+                 type: "meta",
+                 properties: {
+-                    refines: `#${creatorId}`,
+-                    property: "file-as"
++                    property: "file-as",
++                    refines: `#${creatorId}`
+                 },
+                 value: creator.fileAs
+             });
+@@ -889,8 +890,8 @@ class Epub {
+                 await this.addMetadata({
+                     type: "meta",
+                     properties: {
+-                        refines: `#${creatorId}`,
+                         property: "alternate-script",
++                        refines: `#${creatorId}`,
+                         "xml:lang": alternate.locale.toString()
+                     },
+                     value: alternate.name
+diff --git a/index.js b/index.js
+index 214ee946a5ca8304f01d86dcc969067e73bb9337..5d9df97698065014899e39063eead3137fb8ae5e 100644
+--- a/index.js
++++ b/index.js
+@@ -260,19 +260,19 @@ class EpubEntry {
+    */ static async create({ title, language, identifier, date, subjects, type, creators, contributors }, additionalMetadata = []) {
+         const entries = [];
+         const encoder = new TextEncoder();
+-        const container = encoder.encode(`<?xml version="1.0"?>
+-<container>
+-  <rootfiles>
+-    <rootfile media-type="application/oebps-package+xml" full-path="OEBPS/content.opf"/>
+-  </rootfiles>
++        const container = encoder.encode(`<?xml version="1.0" encoding="utf-8"?>
++<container version="1.0" xmlns="urn:oasis:names:tc:opendocument:xmlns:container">
++    <rootfiles>
++        <rootfile full-path="OEBPS/content.opf" media-type="application/oebps-package+xml"/>
++    </rootfiles>
+ </container>
+ `);
+         entries.push(new EpubEntry({
+             filename: "META-INF/container.xml",
+             data: container
+         }));
+-        const packageDocument = encoder.encode(`<?xml version="1.0"?>
+-<package unique-identifier="pub-id" dir="${language.textInfo.direction}" xml:lang=${language.toString()} version="3.0">
++        const packageDocument = encoder.encode(`<?xml version="1.0" encoding="utf-8"?>
++<package version="3.0" unique-identifier="pub-id" dir="${language.textInfo.direction}" xml:lang="${language.toString()}">
+   <metadata>
+   </metadata>
+   <manifest>
+@@ -879,8 +879,9 @@ class EpubEntry {
+             await this.addMetadata({
+                 type: "meta",
+                 properties: {
++                    property: "role",
+                     refines: `#${creatorId}`,
+-                    property: "role"
++                    scheme: "marc:relators"
+                 },
+                 value: creator.role
+             });
+@@ -889,8 +890,8 @@ class EpubEntry {
+             await this.addMetadata({
+                 type: "meta",
+                 properties: {
+-                    refines: `#${creatorId}`,
+-                    property: "file-as"
++                    property: "file-as",
++                    refines: `#${creatorId}`
+                 },
+                 value: creator.fileAs
+             });
+@@ -900,8 +901,8 @@ class EpubEntry {
+                 await this.addMetadata({
+                     type: "meta",
+                     properties: {
+-                        refines: `#${creatorId}`,
+                         property: "alternate-script",
++                        refines: `#${creatorId}`,
+                         "xml:lang": alternate.locale.toString()
+                     },
+                     value: alternate.name

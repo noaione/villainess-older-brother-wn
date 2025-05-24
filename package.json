@@ -1,0 +1,49 @@
+{
+  "name": "ln-epub-generator",
+  "module": "index.ts",
+  "type": "module",
+  "private": true,
+  "license": "MIT",
+  "version": "0.1.0",
+  "author": {
+    "name": "noaione",
+    "email": "noaione@n4o.xyz"
+  },
+  "scripts": {
+    "build": "bun run index.ts",
+    "format": "bunx prettier --write .",
+    "lint": "bunx prettier --check ."
+  },
+  "devDependencies": {
+    "@types/bun": "latest",
+    "@types/hast": "^3.0.4"
+  },
+  "peerDependencies": {
+    "typescript": "^5.0.0"
+  },
+  "dependencies": {
+    "@prettier/plugin-xml": "^3.4.1",
+    "@smoores/epub": "0.1.9",
+    "@types/mdast": "^4.0.4",
+    "gray-matter": "^4.0.3",
+    "hast-util-raw": "^9.1.0",
+    "hast-util-sanitize": "^5.0.2",
+    "hast-util-to-html": "^9.0.5",
+    "hast-util-to-string": "^3.0.1",
+    "hastscript": "^9.0.1",
+    "mdast-util-from-markdown": "^2.0.2",
+    "mdast-util-frontmatter": "^2.0.1",
+    "mdast-util-gfm-footnote": "^2.1.0",
+    "mdast-util-to-hast": "^13.2.0",
+    "micromark-extension-frontmatter": "^2.0.0",
+    "micromark-extension-gfm-footnote": "^2.1.0",
+    "prettier": "^3.5.3",
+    "rehype-sanitize": "^6.0.0",
+    "unist-builder": "^4.0.0",
+    "xml-formatter": "^3.6.6",
+    "zod": "^3.25.20"
+  },
+  "patchedDependencies": {
+    "@smoores/epub@0.1.9": "patches/@smoores%2Fepub@0.1.9.patch"
+  }
+}

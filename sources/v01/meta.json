@@ -1,0 +1,44 @@
+{
+    "title": "Project Title: Volume 1",
+    "volume": 1,
+    "identifier": "project-title-v01",
+    "cover": "Cover.png",
+    "year": 2025,
+    "version": "1.0.0",
+    "toc": [
+        {
+            "title": "Cover",
+            "type": "frontmatter",
+            "filename": "cover.md"
+        },
+        {
+            "title": "Contents",
+            "type": "frontmatter",
+            "filename": "toc.md",
+            "landmark": "toc",
+            "optional": true
+        },
+        {
+            "title": "Chapter 1",
+            "type": "chapter",
+            "filename": "chapter1.md",
+            "landmark": "bodymatter"
+        },
+        {
+            "title": "Afterword",
+            "type": "chapter",
+            "filename": "afterword.md"
+        },
+        {
+            "title": "Translation Notes",
+            "type": "backmatter",
+            "filename": "notes.md",
+            "optional": true
+        },
+        {
+            "title": "Colophon",
+            "type": "backmatter",
+            "filename": "colophon.md"
+        }
+    ]
+}
