@@ -1,31 +1,20 @@
 {
-    "title": "My EPUB Book",
-    "publisher": {
-        "name": "Original Publisher",
-        "full_name": null,
-        "country": "Japan"
-    },
+    "title": "I Was Reincarnated As The Older Brother Of A Villainess Destined to Die",
     "author": {
-        "writer": "Author Name",
-        "illustrator": "Illustrator Name"
+        "writer": "Yuuki Izumisato"
     },
     "translator": {
-        "name": "Translator Group",
-        "url": "https://translator-website.com",
-        "image": null
+        "name": "JP Translations for fun",
+        "url": "https://wntranslationsforfun.blogspot.com"
     },
     "compiler": {
-        "name": "Compiler Name",
-        "url": "https://github.com/noaione/ln-epub-generator"
+        "name": "nao",
+        "url": "https://github.com/noaione/villainess-older-brother-wn"
     },
     "teams": [
         {
-            "name": "My Name",
+            "name": "Darknight",
             "role": "translator"
-        },
-        {
-            "name": "Other Name",
-            "role": "editor"
         }
     ]
 }

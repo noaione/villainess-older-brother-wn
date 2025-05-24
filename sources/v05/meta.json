@@ -1,0 +1,80 @@
+{
+    "title": "I Was Reincarnated As The Older Brother Of A Villainess Destined to Die, So I Want To Change The Future By Raising My Younger Sister With My Own Hands: Volume 5",
+    "volume": 5,
+    "identifier": "villainess-older-brother-v05",
+    "cover": "Cover.jpg",
+    "year": 2025,
+    "version": "1.0.0",
+    "toc": [
+        {
+            "title": "Cover",
+            "type": "frontmatter",
+            "filename": "cover.md"
+        },
+        {
+            "title": "Table of Contents",
+            "type": "frontmatter",
+            "filename": "toc.md",
+            "landmark": "toc"
+        },
+        {
+            "title": "Chapter 1: Spy",
+            "type": "chapter",
+            "filename": "chapter1.md",
+            "landmark": "bodymatter",
+            "break": true
+        },
+        {
+            "title": "Chapter 2: Club Activities",
+            "type": "chapter",
+            "filename": "chapter2.md"
+        },
+        {
+            "title": "Chapter 3: Conditions for Survival",
+            "type": "chapter",
+            "filename": "chapter3.md"
+        },
+        {
+            "title": "Chapter 4: Training and Pursuit",
+            "type": "chapter",
+            "filename": "chapter4.md"
+        },
+        {
+            "title": "Chapter 5: Training Camp",
+            "type": "chapter",
+            "filename": "chapter5.md"
+        },
+        {
+            "title": "Chapter 6: Dreams are fleeting",
+            "type": "chapter",
+            "filename": "chapter6.md"
+        },
+        {
+            "title": "Chapter 7: Star Hammer",
+            "type": "chapter",
+            "filename": "chapter7.md"
+        },
+        {
+            "title": "Short Story: Atonement, Remorse, and Love",
+            "type": "chapter",
+            "filename": "shortstories.md"
+        },
+        {
+            "title": "Interludes",
+            "type": "chapter",
+            "filename": "interludes.md",
+            "numbering": "padzero"
+        },
+        {
+            "title": "Translation Notes",
+            "type": "backmatter",
+            "filename": "notes.md",
+            "break": true
+        },
+        {
+            "title": "Colophon",
+            "type": "backmatter",
+            "filename": "colophon.md"
+        }
+    ]
+}
