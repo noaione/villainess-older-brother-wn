@@ -674,7 +674,7 @@ But it was too late. Nina-san was already gone.
 In the end, I couldn’t catch up with her afterward, and since I really didn’t
 have any plans, our outing for tomorrow was set in stone.
 
-○●○●○●○●
+---
 
 The next day, as promised, I headed to the castle gate and found Nina-san
 already there. She wore a light cream-colored shirt paired with high-waisted
@@ -898,7 +898,7 @@ I smiled. “Let’s head back, then.”
 I felt a bit bad for her excitement about returning, because more basic training
 awaited her.
 
-○●○●○●○●
+---
 
 Having completed today’s quota, I brought Yurika to the tavern attached to the
 Adventurers’ Guild for dinner.
