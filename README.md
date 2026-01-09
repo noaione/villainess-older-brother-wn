@@ -4,6 +4,10 @@ Novelupdates: [Link](https://www.novelupdates.com/series/i-was-reincarnated-as-t
 
 Right now, I'm only starting from Volume 5 which is translated by [JP Translations for fun](https://wntranslationsforfun.blogspot.com/p/i-was-reincarnated-as-older-brother-of.html)
 
+## Download
+
+[EPUB files](https://shr.n4o.xyz/s/P6VHbCQcN3mKzL7m6CkWeJojKyPw6bOh)
+
 ## Generating the EPUB
 ### Requirements
 - Bun (https://bun.sh/)
@@ -29,10 +33,6 @@ Right now, I'm only starting from Volume 5 which is translated by [JP Translatio
 
 You can contact me at Discord: `@noaione`<br />
 Please send me a message immediately so it go through my Message Request.
-
-## Download
-
-1. [Volume 5](https://cdn.naoti.me/epub-archive/villainess-older-brother-wn/I%20Was%20Reincarnated%20As%20The%20Older%20Brother%20Of%20A%20Villainess%20Destined%20to%20Die%20v05%20[JP%20Translations%20for%20fun]%20[nao].epub)
 
 ## License
 
