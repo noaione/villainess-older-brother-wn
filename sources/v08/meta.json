@@ -1,0 +1,70 @@
+{
+    "title": "I Was Reincarnated As The Older Brother Of A Villainess Destined to Die, So I Want To Change The Future By Raising My Younger Sister With My Own Hands: Volume 8",
+    "volume": 8,
+    "identifier": "villainess-older-brother-v08",
+    "cover": "Cover.jpg",
+    "year": 2026,
+    "version": "1.0.0",
+    "toc": [
+        {
+            "title": "Cover",
+            "type": "frontmatter",
+            "filename": "cover.md"
+        },
+        {
+            "title": "Table of Contents",
+            "type": "frontmatter",
+            "filename": "toc.md",
+            "landmark": "toc"
+        },
+        {
+            "title": "Chapter 1: New System",
+            "type": "chapter",
+            "filename": "chapter1.md",
+            "landmark": "bodymatter",
+            "break": true
+        },
+        {
+            "title": "Chapter 2: New Students",
+            "type": "chapter",
+            "filename": "chapter2.md"
+        },
+        {
+            "title": "Chapter 3: A Distorted Power Dynamic",
+            "type": "chapter",
+            "filename": "chapter3.md"
+        },
+        {
+            "title": "Chapter 4: Encounter",
+            "type": "chapter",
+            "filename": "chapter4.md"
+        },
+        {
+            "title": "Chapter 5: Love’s Path",
+            "type": "chapter",
+            "filename": "chapter5.md"
+        },
+        {
+            "title": "Chapter 6: Successor and Merchant",
+            "type": "chapter",
+            "filename": "chapter6.md"
+        },
+        {
+            "title": "Epilogue: Turning the Past into Fuel for Dreams",
+            "type": "chapter",
+            "filename": "chapter7.md"
+        },
+        {
+            "title": "Interludes",
+            "type": "chapter",
+            "filename": "interludes.md",
+            "numbering": "padzero"
+        },
+        {
+            "title": "Colophon",
+            "type": "backmatter",
+            "filename": "colophon.md",
+            "break": true
+        }
+    ]
+}

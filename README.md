@@ -28,7 +28,7 @@ Right now, I'm only starting from Volume 5 which is translated by [JP Translatio
 
 ## Credits
 - Original translation from [JP Translations for fun](https://wntranslationsforfun.blogspot.com/p/i-was-reincarnated-as-older-brother-of.html)
-  - **Translator**: Darknight
+  - **Translator**: Darknight, MTPE (Machine Translation Post Editing, likely LLMs assisted)
 - **Everything elses**: nao (me)
 
 You can contact me at Discord: `@noaione`<br />
