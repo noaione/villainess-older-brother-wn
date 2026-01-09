@@ -82,7 +82,7 @@ entrust them with the task without worry.
 
 “You’re on standby, Minerva. Your magic hasn’t recovered yet,” I interrupted.
 
-“…Tch. You’re right, I suppose,” she admitted, her shoulders slumping in
+“...Tch. You’re right, I suppose,” she admitted, her shoulders slumping in
 frustration.
 
 As I pointed out, Minerva had nearly depleted her magic in the tournament’s
@@ -122,7 +122,7 @@ Cult, divided across four locations.
 
 I furrowed my brow.
 
-“…Four locations?”
+“...Four locations?”
 
 That wasn’t right. In the original story, the cult operated from a single site.
 Upon closer inspection, I detected what seemed to be the ritual’s catalyst at
@@ -347,7 +347,7 @@ swaying as she tilted her head.
 “Plans changed. I need to focus on constructing a spell, so I’m counting on you
 to keep watch.”
 
-“No problem, but… a spell that even you need to focus on?” she asked, curious.
+“No problem, but... a spell that even you need to focus on?” she asked, curious.
 
 “It’s one I’m not particularly suited for, and it’s tricky to use. But it’s
 useful for this situation,” I explained.
@@ -378,7 +378,7 @@ and operates according to its own logic.
 
 Akatsuki’s answer was strikingly concise: “Magic exists because mana does.”
 
-…Well, that’s probably true. But it didn’t satisfy me. If magic arises from
+...Well, that’s probably true. But it didn’t satisfy me. If magic arises from
 mana, then where does mana come from? I understood the process of absorbing
 ambient magical essence and converting it into mana via 【Coloring】, but the
 origin remained a mystery.
@@ -460,7 +460,7 @@ yield even greater power?”
 No time to waste. I began experimenting to deepen this contract with the world.
 It was no easy feat, taking a full year to manifest.
 
-But I succeeded. One side… remains unstable, but I undoubtedly awakened a new
+But I succeeded. One side... remains unstable, but I undoubtedly awakened a new
 power.
 
 That power is the Magic Eye. A force that steps into the truths of the world. A
@@ -470,7 +470,7 @@ I opened my closed eyes.
 
 The world before me remained unchanged, but my right eye had transformed.
 
-“Whoa, what’s with your eye, Master\!?” Noma, who had been keeping watch, let
+“Whoa, what’s with your eye, Master\?!” Noma, who had been keeping watch, let
 out a startled yelp.
 
 She must have glanced over, drawn by the surge of mana, and been shocked by the
@@ -497,7 +497,7 @@ bloodline, but I’d have preferred something more versatile.
 
 “It’s fine. Nothing serious,” I reassured her.
 
-“If you say so…” Noma replied, her concern lingering.
+“If you say so...” Noma replied, her concern lingering.
 
 Blood dripping from my eye would worry anyone. Best to wrap this up quickly.
 
@@ -510,7 +510,7 @@ My detection was complete. Now, it was time to act.
 
 At that moment, white flames erupted across the academy.
 
-“What the—\!?” Noma exclaimed in astonishment.
+“What the—\?!” Noma exclaimed in astonishment.
 
 It was simple: every demon was ablaze.
 
@@ -536,7 +536,7 @@ As I pondered, I sensed someone approaching.
 
 “Master\!” Noma noticed it too.
 
-The mana signature suggested…
+The mana signature suggested...
 
 Soon, the figure revealed itself.
 
@@ -628,7 +628,7 @@ Septem eyed me suspiciously.
 
 “Oh, yeah. Took one down while hunting a witch,” I said casually.
 
-“…I see. You’re no ordinary foe,” he replied, his aura intensifying.
+“...I see. You’re no ordinary foe,” he replied, his aura intensifying.
 
 My offhand mention of defeating a demon—likely one using possession—had
 heightened his caution. Defeating a demon, even a scheming one, was no small
@@ -643,7 +643,7 @@ Septem, the First Sword Kead of the Great Light Magic Administrator
 Gruewen-sama. Far stronger than the demon you claim to have defeated. Face me
 with resolve\!”
 
-“…Huh?”
+“...Huh?”
 
 Wait, what was that introduction? It was completely different from what I knew.
 
@@ -738,7 +738,7 @@ Five slashes in a second. The remnants of 【Magic Envelopment】 traced five
 lines in the air. The lances stalled briefly upon contact before dissipating
 into mist, not a shred of their mana reaching me.
 
-—Wait, what\!?
+—Wait, what\?!
 
 That was too much\! I’d overdone the reinforcement and ended up intercepting
 them outright. Deflecting was better than annihilation, but I’d still chosen the
@@ -792,7 +792,7 @@ Inwardly satisfied, I maintained a calm exterior.
 
 “I propose a deal. Accept, and I’ll let you go this time.”
 
-“…I’m listening,” he replied.
+“...I’m listening,” he replied.
 
 “Answer my questions. I can discern truth from lies, so don’t try to deceive
 me.”
@@ -834,7 +834,7 @@ the protagonist grew stronger, nor did any other trainable characters.
 “I don’t know the details. But those who become Magic Administrators transcend
 humanity,” he said.
 
-“Transcend humanity…” I muttered.
+“Transcend humanity...” I muttered.
 
 This was getting murky. He claimed ignorance, and further probing about Magic
 Administrators seemed fruitless for now.
@@ -858,7 +858,7 @@ I couldn’t argue.
 Light magic wasn’t limited to recovery; it included potent offensive spells,
 like Caron’s 【Perennial Radiance | Amaterasu】.
 
-So… our enemy is a light magic master? Is that why the Saintess, a light magic
+So... our enemy is a light magic master? Is that why the Saintess, a light magic
 user, was chosen to seal them?
 
 No, don’t rush to conclusions. This was based solely on Septem’s words. I needed

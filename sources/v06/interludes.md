@@ -28,7 +28,7 @@ Lady Caroline and I had been eliminating the members of the Demon king's Church
 guarding this place, sharing the task between us. I thought we had dispatched
 them fairly quickly, but it turned out we were done at the same time. I was
 surprised that Lady Caroline managed to keep up, especially since indoor combat
-wasn’t her strong suit… She was growing stronger by the day.
+wasn’t her strong suit... She was growing stronger by the day.
 
 Looking over at Lady Caroline, I noticed she was the only one left standing. She
 had likely obliterated the enemy without a trace. Since there was no need for
@@ -250,7 +250,7 @@ As I observed their expressions, I pondered whether I should take action.
 
 However, before I could make a move, the situation changed.
 
-“Haah…”
+“Haah...”
 
 It was Lady Caroline’s sigh that broke the painful silence.
 
@@ -284,7 +284,7 @@ Lady Caroline pressed one hand against her ample chest.
 directed elsewhere. Thanks to your comments, I’ve come to realize that those
 feelings are greater than I had assumed.”
 
-“B-but why won’t you take my hand\!? With my cooperation, you can obtain what
+“B-but why won’t you take my hand\?! With my cooperation, you can obtain what
 you desire\!”
 
 The demon, breaking free from his shock, shouted with a high-pitched voice. His
@@ -306,7 +306,7 @@ small-time demon would be futile.
 jealousy, I also care for everyone. I cherish the time we all spend together
 here. Therefore, I won’t take the hand of someone who claims to disrupt that.”
 
-“Lady Caroline…”
+“Lady Caroline...”
 
 To my surprise, I was moved by Caroline’s words.
 
@@ -319,7 +319,7 @@ affection toward us as well.
 “That being said, I must ask you to leave. My brother has explicitly stated that
 you must be eliminated.”
 
-“Tch…”
+“Tch...”
 
 With that merciless proclamation, Lady Caroline unleashed her magic. Eight
 glowing pillars of light, each about five meters long, appeared and lunged
@@ -453,7 +453,7 @@ first-year matches are at a playtime level.”
 “You’ve heard about Zex-sama from me, haven’t you? This year’s first-years are
 distinctly different from previous years.”
 
-“…Hah.”
+“...Hah.”
 
 As I laughed, Hermes let out a small sigh.
 
@@ -475,7 +475,7 @@ absolutely must extract the details of those techniques\!
 
 While I was overwhelmed with emotion, my son Hermes appeared dazed.
 
-"My… common sense is… crumbling…"
+"My... common sense is... crumbling..."
 
 He seemed to be clutching his head and muttering to himself.
 
@@ -494,7 +494,7 @@ reached us abruptly.
 "A mysterious monster has appeared throughout the royal capital and has begun
 attacking the city\!"
 
-"What\!?"
+"What\?!"
 
 Receiving this alarming report, I questioned the messenger for more details.
 What exactly is this monster? What is the enemy's strength? Which organization
@@ -632,7 +632,7 @@ found pleasure in watching me run away in terror, which was why it was taking
 its time to chase me. It wanted to keep watching my pathetic escape and was
 holding back from attacking.
 
-What had I done to deserve this\!? I just wanted to live a normal life, so why
+What had I done to deserve this\?! I just wanted to live a normal life, so why
 was I subjected to this?
 
 My feelings of self-pity and helplessness surged up from the depths of my being.
@@ -670,8 +670,8 @@ However, the pain I expected never came.
 
 Given the nature of that vile demon, I thought it would take its time and eat me
 starting from my extremities, but had it actually killed me in one swift bite?
-…No, that wasn’t it. I could still feel the pain from my scraped hands and feet.
-I was alive.
+...No, that wasn’t it. I could still feel the pain from my scraped hands and
+feet. I was alive.
 
 Cautiously, I lifted my closed eyelids.
 
@@ -702,7 +702,7 @@ distance.
 
 "Yes, yes, I understand. I'll adjust my tone. Is this good enough?"
 
-"…Let’s consider it acceptable."
+"...Let’s consider it acceptable."
 
 "Fwaaaaaaah. Just barely made it—should be right on time."
 
@@ -750,7 +750,7 @@ some reason, my mouth wouldn’t cooperate. It was frustrating and pitiful.
 But there was no time to wallow in self-pity. After all, these were my
 lifesavers, and I needed to show my sincerity.
 
-"I-I will definitely repay you for this…"
+"I-I will definitely repay you for this..."
 
 As I stumbled over my words, I managed to finish my thanks, and the three of
 them exchanged puzzled glances.
@@ -766,12 +766,12 @@ Your gratitude alone is more than enough."
 
 The other servant added, reinforcing her point.
 
-The last one seemed to agree as well, nodding vigorously. …Wait, was she
-actually sleeping? In this situation\!?
+The last one seemed to agree as well, nodding vigorously. ...Wait, was she
+actually sleeping? In this situation\?!
 
 “Marron, wake up.”
 
-“It hurts…”
+“It hurts...”
 
 Ah, the servant who had been taking notes smacked the head of the one who had
 been dozing off—Marron. What is this, a comedy sketch?
@@ -780,11 +780,11 @@ They seemed completely devoid of tension. Given what had just happened, I
 assumed there would be a horde of demons appearing, but was the situation really
 not that serious?
 
-Feeling a bit uneasy, I decided to ask, “Um…”
+Feeling a bit uneasy, I decided to ask, “Um...”
 
 “What is it?”
 
-“Is it okay to just be… lounging around in a place like this?”
+“Is it okay to just be... lounging around in a place like this?”
 
 “Ah.”
 
@@ -835,11 +835,11 @@ training to catch up with him, but having such a clear reward in sight
 transformed my motivation. Though I felt anxious about training under Zex’s
 direct supervision, I was determined to do my best.
 
-Training was truly… truly grueling. The content was so different from the steady
-training I was used to that I found my spirit breaking several times. Yet, I
-persevered. I continued to push myself while dreaming of school life with Zex. I
-believe it was also thanks to the encouragement of everyone else. With the
-support of my feelings for him and my friends, I managed to see my training
+Training was truly... truly grueling. The content was so different from the
+steady training I was used to that I found my spirit breaking several times.
+Yet, I persevered. I continued to push myself while dreaming of school life with
+Zex. I believe it was also thanks to the encouragement of everyone else. With
+the support of my feelings for him and my friends, I managed to see my training
 through to the end.
 
 My efforts did not betray me. I improved my skills below intermediate level and
@@ -897,7 +897,7 @@ As I was psyching myself up in my mind, Yudai-kun suddenly spoke.
 
 “I’m not saying this to be mean, but you should forfeit this match.”
 
-“…”
+“...”
 
 His words made me furrow my brow. However, I quickly shook my head.
 
@@ -928,11 +928,11 @@ defeat Yudai-kun. However, I couldn’t just turn my back without fighting.
 “Yudai-kun, I’m not going to be a weak girl forever. I’m going to fight to prove
 that.”
 
-“Why…?”
+“Why...?”
 
 “I want you to recognize my feelings for Zex.”
 
-“…”
+“...”
 
 As I expected, topics related to Zex were clearly something he didn’t want to
 touch. He fell silent, looking displeased.
@@ -1001,7 +1001,7 @@ dodged all my attacks.
 Before I knew it, the distance between us had shrunk to about five meters,
 putting me within range for close combat, where he excelled.
 
-“Marina…”
+“Marina...”
 
 “No\!”
 
@@ -1030,7 +1030,7 @@ my dagger, imbued with water magic, landed squarely on Yudai-kun’s abdomen.
 The ring protected him from injury, but the damage still registered. I had
 definitely drained some of his magic power.
 
-“What\!?”
+“What\?!”
 
 Yudai-kun instinctively retreated, his eyes wide in disbelief.
 
@@ -1038,7 +1038,7 @@ With my dagger poised, I smirked defiantly.
 
 “How about that? Am I still a weak girl?”
 
-“…You’ve learned not just magic, but dagger techniques too?”
+“...You’ve learned not just magic, but dagger techniques too?”
 
 “Yeah. I trained hard for this.”
 
@@ -1056,7 +1056,7 @@ After a few seconds, he let out a sigh.
 “Yudai-kun\!”
 
 “I really don’t want to. It’s hard for me to accept that my little sister is a
-noble’s lover… Sigh.”
+noble’s lover... Sigh.”
 
 Yudai-kun let out a deep sigh, clearly disgusted. I knew he didn’t like it, but
 he seemed to have a strong aversion to Zex. His expression of disdain was more
@@ -1082,7 +1082,7 @@ since we were kids.”
 
 “That’s not true—this is my line\!”
 
-““……””
+““......””
 
 “Pfft, ha ha ha ha\!”
 
@@ -1340,7 +1340,7 @@ us to live in fear.
 "The best course of action would have been to draw him into our inner circle
 through an engagement, but that is no longer feasible."
 
-"The Second Prince, then…"
+"The Second Prince, then..."
 
 "Yes. That incident has effectively closed off any chance of Foranada opening
 his heart to the Holy Royal Family."
@@ -1367,7 +1367,7 @@ Yet, I understood how she would respond.
 
 "I appreciate your concern. However, if we wish for the nation to prosper, his
 territory is far too dangerous. If he valued the survival of the kingdom, that
-would be one thing… but given his nature, he would not hesitate to destroy the
+would be one thing... but given his nature, he would not hesitate to destroy the
 nation if pressed. Such individuals cannot be left unchecked."
 
 Princess Aria, a proponent of rationalism, prioritized risk management—not her
@@ -1379,7 +1379,7 @@ She let out a wry smile.
 eliminate him. If I can put a collar on him, there’s no need to resort to
 hostility. That would be irrational."
 
-"…As you wish, Princess."
+"...As you wish, Princess."
 
 As her sword and shield, I could not strongly oppose her declaration to pursue
 that path.
@@ -1448,12 +1448,12 @@ seen the sea, I’m quite curious about it.
 
 In response, Zara furrows her brows and tilts her head.
 
-“Hmm… not much has changed, I guess. It’s still the same old quaint little
+“Hmm... not much has changed, I guess. It’s still the same old quaint little
 town.”
 
 It seems there wasn’t anything noteworthy to mention. Since it’s their hometown,
 they probably can’t share much unless there’s a significant change. I wouldn’t
-know how to respond if asked about Foranada either… though I can’t say I have
+know how to respond if asked about Foranada either... though I can’t say I have
 nothing to share. Thanks to my brother and Noma, new things have been in
 abundance there. Although things have settled down recently, I’m still often
 surprised. Just the other day, they developed something called “Living Cleaner”
@@ -1474,7 +1474,7 @@ Then Ivette speaks up.
 
 “Ah, Foranada is inland, right?”
 
-“Still, for us, the sea is something familiar, so how can we explain it…?”
+“Still, for us, the sea is something familiar, so how can we explain it...?”
 
 “Right? How do you convey something to someone who’s never seen it before?”
 
@@ -1492,7 +1492,7 @@ experiences.’”
 
 “Yes, I want to know about the sea as you see it.”
 
-“Well, if that’s the case…”
+“Well, if that’s the case...”
 
 From there, we spent the remaining time before class excitedly discussing the
 sea. I hope to visit it one day with my brother and the others.
@@ -1546,14 +1546,14 @@ conversation.
 
 “The fact that they react this way shows just how far apart Caron-san’s strength
 is from everyone else’s. To be honest, I was quite surprised during the
-tournament myself. And…”
+tournament myself. And...”
 
 “And?”
 
 “Caron-san uses high-powered, wide-area magic to annihilate her foes, doesn’t
 she? That’s what makes her feared, like a Demon king from a story.”
 
-“A d-Demon king…?”
+“A d-Demon king...?”
 
 Ivette-san’s words left me in shock.
 
@@ -1592,10 +1592,10 @@ true.”
 
 “That’s right\! After all, my brother is the strongest in the world\!”
 
-“The strongest… With that kind of performance, it’s certainly a plausible
+“The strongest... With that kind of performance, it’s certainly a plausible
 claim.”
 
-Not “plausible,” but a fact; he truly is the strongest… Well, I can understand
+Not “plausible,” but a fact; he truly is the strongest... Well, I can understand
 why it might be hard to believe, so I won’t press the issue. Besides, it seems
 my brother wasn’t even serious when he fought Minerva, so I can’t blame them.
 
@@ -1610,7 +1610,7 @@ They exchanged glances and let out a wry smile.
 
 Then Zara-san made a shocking statement.
 
-“Um… Actually, we’ve already met him.”
+“Um... Actually, we’ve already met him.”
 
 I widened my eyes in surprise.
 
@@ -1618,7 +1618,7 @@ I widened my eyes in surprise.
 
 “When we were separated from you, we were guided by that maid over there.”
 
-“Shion\!?”
+“Shion\?!”
 
 When I turned to look at Shion standing behind me, she merely bowed with a
 composed expression. The fact that she didn’t deny it confirmed that it was
@@ -1629,7 +1629,7 @@ At that moment, Ivette-san added an explanation.
 “The Count of Foranada is the current head of his house, so he’s not someone a
 mere noble girl can meet casually, even if they’re both students.”
 
-“Well, that’s…”
+“Well, that’s...”
 
 I recalled that my brother had made a similar statement when discussing friends
 with Minerva before.
@@ -1657,14 +1657,15 @@ So for now,
 “I think it’s time to interrogate you both about why you kept this meeting a
 secret from me.”
 
-“Huh\!?”
+“Huh\?!”
 
 Zara-san and Ivette-san gaped in surprise.
 
 What are they so shocked about? The secret meeting was arranged on my brother's
 side, so there was no need for them to hide that fact from me.
 
-Moreover, their current reaction… It’s suspicious. I’ll make sure they confess\!
+Moreover, their current reaction... It’s suspicious. I’ll make sure they
+confess\!
 
 That day, it was said that the screams of two female students echoed throughout
 the academy, or perhaps they didn’t.

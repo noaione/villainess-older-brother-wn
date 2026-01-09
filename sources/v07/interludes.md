@@ -13,14 +13,14 @@ _Timeline: Immediately following the conclusion of this volume_
 I found myself stepping into the secret chamber connected to my private
 quarters, a place I hadn’t visited in quite some time.
 
-This sanctuary was crafted by _that person_… and fortified with their spells,
+This sanctuary was crafted by _that person_... and fortified with their spells,
 rendering it impervious even to Foranada’s finest intelligence operatives. If I
 recall correctly, they described it as “a blinding light of intense magical
 power that obscures all perception.”
 
 Thanks to nearly seven years of keeping a low profile, the scrutiny directed at
 me has noticeably diminished. Combined with the concealment granted by _that
-person_… there’s no way I’d be discovered so easily.
+person_... there’s no way I’d be discovered so easily.
 
 As I waited alone in silence, a sudden burst of light materialized. A radiant
 source, too intense to keep my eyes open, enveloped the entire room.
@@ -36,7 +36,7 @@ downward.
 As I glanced at her neck and prepared to ask a certain question, something else
 caught my attention.
 
-“That boy…?”
+“That boy...?”
 
 Beside the girl stood a slightly older child. Unlike her, everything about him
 was shabby—likely an orphan. His unfocused eyes were concerning, but I had no
@@ -56,7 +56,7 @@ I furrowed my brow.
 “No worries, no worries\! My light blinds everything. This boy’s existence has
 already vanished from everyone’s memories.”
 
-“…Good.”
+“...Good.”
 
 What a terrifying power—to erase a person’s existence so effortlessly. And not
 just people—anything she chooses can be wiped from human perception. Truly
@@ -106,7 +106,7 @@ trail led back, but against Foranada, I wanted to be extra cautious.
 It so happened that the girl had business in the area, so she agreed to my
 request.
 
-However…
+However...
 
 “The Earl of Foranada got to him first,” she reported.
 
@@ -120,7 +120,7 @@ She, on the other hand, remained infuriatingly calm, laughing lightly.
 “No worries, no worries. Our existence is obscured from their memories. Mere
 humans can’t break through.”
 
-“But we’re talking about _the_ Earl of Foranada…”
+“But we’re talking about _the_ Earl of Foranada...”
 
 True, she’s a being of extraordinary power, but that accursed earl is a monster
 in his own right. Anything could happen.
@@ -131,11 +131,11 @@ The girl merely shrugged.
 Peering into memories is tricky, sure, but that relies on reading a person’s
 perception. My magic alters perception itself, so it’s unbreakable.”
 
-“…You’re certain?”
+“...You’re certain?”
 
 “I’ll swear it. There’s no way we’ll be exposed.”
 
-“Ha… fine.”
+“Ha... fine.”
 
 My heart was still racing.
 
@@ -236,7 +236,7 @@ A faint headache began to form.
 
 “For now, we’re heading back to my room for a lecture.”
 
-“Ehh\!?”
+“Ehh\?!”
 
 Suppressing a sigh, Shion and I left the garden behind.
 
@@ -249,14 +249,14 @@ With a touch of pressure in my tone, I posed a question.
 “Shion, let me ask you: who spends the most time with Onii-sama in a single
 day?”
 
-“Uh…”
+“Uh...”
 
 The unexpected question seemed to catch her off guard, a flicker of confusion
 crossing her face. But true to her role as Onii-sama’s secretary, she composed
 herself in under two seconds.
 
 “That would be me, I suppose. I’m at his side during most work hours. Outside of
-that… especially at the academy, other servants take over, but it’s on a
+that... especially at the academy, other servants take over, but it’s on a
 rotation. Their individual time with him is minimal. Caroline-sama and Nina
 spend a fair amount of time with him, but that’s mostly in private settings.”
 
@@ -266,13 +266,13 @@ Indeed, Shion is the one who spends the most time with Onii-sama. It’s a
 regrettable truth that it isn’t me, but work hours are the bottleneck. I can’t
 meddle in the affairs of the head of the house without good reason.
 
-But to return to the point…
+But to return to the point...
 
 As I’ve said, Shion shares the most time with Onii-sama. That means she has more
 opportunities than anyone to deepen their bond. Even during work, there are
 surely ways to make use of that time.
 
-Yet, despite being in such an enviable position, Shion…
+Yet, despite being in such an enviable position, Shion...
 
 “Shion, are you even trying to advance your relationship with Onii-sama?
 Fainting over something as simple as a hug is, frankly, a bit much.”
@@ -287,10 +287,10 @@ between you and Onii-sama warms the hearts of those watching. But settling for
 the status quo is unacceptable. At your current pace, it’ll be decades before
 you even think of having children.”
 
-“C-C-Children\!?”
+“C-C-Children\?!”
 
 Shion, who had been blushing slightly and looking sheepish during my lecture,
-turned beet red at the mention of children. Just how naive can she be…?
+turned beet red at the mention of children. Just how naive can she be...?
 
 Normally, she’s the epitome of a “cool-headed, capable secretary,” but when it
 comes to matters of the heart—or anything involving Onii-sama—she turns utterly
@@ -299,7 +299,7 @@ take decades. That simply won’t do. I want both Onii-sama and Shion to find tr
 happiness.
 
 As I pondered what to do, Shion spoke up, her face still flushed. “If I may,
-Caroline-sama…”
+Caroline-sama...”
 
 She adopted a defensive stance, ready to counter.
 
@@ -313,7 +313,7 @@ I hadn’t heard of any developments between them. This was intriguing.
 At my question, Shion fidgeted with her index fingers, her gaze darting sideways
 in embarrassment. After a long pause, she finally spoke.
 
-“…We held hands.”
+“...We held hands.”
 
 “Ha.”
 
@@ -390,7 +390,7 @@ good doesn’t come along often. Throwing it away over something as vague as a
 
 Plus, there’s the matter of _him_ still not giving me the time of day. That
 stings my pride as a woman. At the very least, I want to figure out why before I
-leave. With my skills… I should be able to handle whatever comes.
+leave. With my skills... I should be able to handle whatever comes.
 
 We walked in silence for a while until we arrived at one of the guest rooms.
 Since it wasn’t a private chamber, I couldn’t tell who had summoned me. Given
@@ -405,7 +405,7 @@ were calling me in, they’d have taken precautions against detection.
 I shrugged. “Pretty cold, huh? You could at least tell me who’s waiting. We’re
 friends, aren’t we?”
 
-“…”
+“...”
 
 Neither of them responded, standing firm and silent.
 
@@ -455,7 +455,7 @@ his tone almost reflective.
 source of Caron’s fated obstacle—the ‘Western Witch’—then I have no choice but
 to question you.”
 
-“\!?”
+“\?!”
 
 That sealed it. For him to mention the “Western Witch” in my presence meant my
 true identity was exposed.
@@ -468,7 +468,7 @@ noticing, it had transformed into a vast, empty space with nothing in it.
 
 I knew this place.
 
-“No way… the dungeon’s deepest level?” I muttered, stunned.
+“No way... the dungeon’s deepest level?” I muttered, stunned.
 
 The scene was unmistakable, a place I couldn’t confuse with anywhere else.
 
@@ -494,15 +494,15 @@ escape was a lost cause.
 “No need to look so grim. Answer my questions honestly, and I won’t harm you. In
 fact, I’ll guarantee you can continue your life here as before.”
 
-“…What do you want to know?”
+“...What do you want to know?”
 
 I’d served him for nearly three years. I knew he wasn’t the type to make empty
 promises. While I searched for a way out, I decided to hear him out.
 
-“First, let’s confirm: you’re the witch Leviathan… or rather, Leviathan Luschwe,
-the Blue Magic Administrator, correct?”
+“First, let’s confirm: you’re the witch Leviathan... or rather, Leviathan
+Luschwe, the Blue Magic Administrator, correct?”
 
-“…Yes.”
+“...Yes.”
 
 That’s right. I’m an ancient being, feared by the world as a witch. One of the
 seven seats of color, a seeker of magical truths.
@@ -529,14 +529,14 @@ But his response was beyond anything I could’ve imagined.
 
 “I knew you were Leviathan the moment you knocked on Foranada’s door.”
 
-“Wha\!?”
+“Wha\?!”
 
 I let out an undignified yelp.
 
 It wasn’t very ladylike, but who could blame me? To think he’d known since I
 applied for the job—who could’ve seen that coming?
 
-“H-How…?”
+“H-How...?”
 
 I don’t like to brag, but I’m a notorious witch. I’ve sunk entire nations into
 the sea and trapped regions in endless rainy seasons—deeds that’ll echo for
@@ -607,7 +607,7 @@ He answered casually, as if it were nothing. “I’ve restricted this space so 
 one can use magic without my permission. That’s how I set up this \[Alternate
 World: Baule de Tesoro\].”
 
-“H-How did you manage barrier magic in a dungeon…?”
+“H-How did you manage barrier magic in a dungeon...?”
 
 “You think I’d leave a weakness unaddressed forever?”
 
@@ -623,21 +623,21 @@ applied the latter to the dungeon.”
 
 “Exactly. Barrier and similar magics don’t work in dungeons because this is a
 god’s domain. Seizing control isn’t easy, and doing so would collapse the
-dungeon. Think of it like… a glass filled to the brim with water, representing
+dungeon. Think of it like... a glass filled to the brim with water, representing
 the dungeon, and my magic as a separate piece of ice. Dropping the ice in would
 make the water overflow, right?”
 
 So, he used transparency to prevent the “water” from spilling when adding the
-“ice”? That makes no sense. That’s beyond the scope of non-attribute magic… it’s
-something else entirely. It’s almost like—
+“ice”? That makes no sense. That’s beyond the scope of non-attribute magic...
+it’s something else entirely. It’s almost like—
 
-“A white mage…” I whispered.
+“A white mage...” I whispered.
 
 No, that’s not right. His magic feels like it transcends even color magic. White
 magic specializes in mental effects, but his “transparency” doesn’t fit that
 mold. It’s not “white.” If anything, it’s “null”—an eighth form of magic.
 
-Zex-sama turned a smile on me. “So, Garuna… or rather, Leviathan. Care to tell
+Zex-sama turned a smile on me. “So, Garuna... or rather, Leviathan. Care to tell
 me everything you know?”
 
 “With pleasure.”
@@ -659,8 +659,8 @@ royal capital, taking it easy.
 Yuri—Yurika—was one of them. Or rather, in Yurika’s case, she hadn’t gone back
 to her hometown even once. There wasn’t much to do there anyway.
 
-…But her hometown wasn’t the issue right now. What mattered was the conversation
-she was about to have with the girl standing before her.
+...But her hometown wasn’t the issue right now. What mattered was the
+conversation she was about to have with the girl standing before her.
 
 “N-Nina-san,”
 
@@ -683,7 +683,7 @@ Despite the suspicious glares from the other adventurers, Nina tilted her head
 curiously. “Yurika? What’re you doing in a place like this?”
 
 “U-Um, I needed to talk to you, Nina. I went to the mansion, but they said you’d
-be here…”
+be here...”
 
 “I see.”
 
@@ -731,7 +731,7 @@ you?”
 
 “You mean, like, training to improve a skill or something?”
 
-“Yes… I mean, is there any other kind of training?”
+“Yes... I mean, is there any other kind of training?”
 
 “Not really,” Nina said, tilting her head in confusion.
 
@@ -739,7 +739,7 @@ She must’ve been wondering what Yurika had come to discuss. The curiosity tugg
 at Yurika, but she pushed it aside to avoid derailing the conversation.
 
 Reiterating her request, she said, “I want you to train me in close-quarters
-combat. Is that… okay?”
+combat. Is that... okay?”
 
 “It’s not a problem, but why?”
 
@@ -754,7 +754,7 @@ her own right.
 
 But Yurika had a reason she needed to get stronger.
 
-“…I can’t forgive myself. I just can’t,”
+“...I can’t forgive myself. I just can’t,”
 
 She was referring to an incident from about two weeks ago, when a magical beast
 far stronger than their aptitude level had attacked her group in the dungeon.
@@ -820,7 +820,7 @@ Nina’s voice softened. “Alright.”
 
 Her reply was as casual as if she were agreeing to hang out with a friend.
 
-Yurika’s head shot up. “Really\!?”
+Yurika’s head shot up. “Really\?!”
 
 “Yup. I respect your determination, Yurika. I’ll lend you a hand. But my
 training’s tough.”
@@ -866,9 +866,9 @@ seat in a quiet corner of the venue, nibbling while I reflected. “This castle�
 lively.”
 
 You might think that’s obvious for a party, but it felt different somehow. What
-was the word… warm, maybe?
+was the word... warm, maybe?
 
-“…Yeah, it’s like home.”
+“...Yeah, it’s like home.”
 
 The Cheyni viscount branch family. We weren’t wealthy by noble standards, but
 our family was close. We respected and supported each other, living like an
@@ -896,7 +896,7 @@ so sorry for not noticing you sooner\!”
 “No need to be so formal,” he said. “This is a casual event, and we’re the same
 age, you know.”
 
-“B-But I can’t just…”
+“B-But I can’t just...”
 
 “It’s fine, I’m giving you permission. It might be tough to drop the formalities
 completely, but you can relax your tone a bit. Honestly, I’d prefer it.”
@@ -924,7 +924,7 @@ Orca-sama blinked, tilting his head briefly. Then, as if realizing something, he
 gave a wry smile. “No special reason. I just thought it’d be nice to chat with
 you, Skia-san, since we’re here.”
 
-“I see…”
+“I see...”
 
 Over the past two months, I’d gotten a sense of the people in Foranada.
 Orca-sama’s outgoing nature meant he’d take the time to check on someone as
@@ -949,7 +949,7 @@ toward talking about Zex-sama, our shared connection.
 
 And that’s when I noticed—no, confirmed—something. Orca-sama is head over heels
 for Zex-sama. Not in a familial way, but the kind of feelings you’d have for
-someone of the opposite sex… well, same sex, in this case.
+someone of the opposite sex... well, same sex, in this case.
 
 I mean, the way his eyes sparkled when he talked about Zex-sama\! Especially
 when he mentioned, “He praised me for taking charge during the recent stampede.”
@@ -965,7 +965,7 @@ own feelings. Despite how obvious it is, he mistakes it for normal sibling
 affection. It’s baffling. He has two older brothers, so you’d think he’d notice
 the difference.
 
-…Maybe I should step in?
+...Maybe I should step in?
 
 The thought crossed my mind for a split second before I dismissed it.
 
@@ -982,7 +982,7 @@ are right, I think they’ve got a shot. Though, that’s just my fangirl intuit
 from reading too much fiction, so it’s not exactly reliable.
 
 In any case, I decided to root for Orca-sama. The realization of my ultimate Zex
-x Orca ship might be closer than I think… maybe.
+x Orca ship might be closer than I think... maybe.
 
 <!-- /split -->
 
@@ -1112,14 +1112,14 @@ I deflected her gleaming blade with Charul, but in my unbalanced state, I
 couldn’t fully fend off a master’s technique. Several hits landed. Thanks to the
 ring, I avoided injury, but my mana was steadily draining.
 
-…If I’ve been cornered this far, I have no choice. I wanted to refine it further
-before revealing it, but I’d rather use it than lose by holding back.
+...If I’ve been cornered this far, I have no choice. I wanted to refine it
+further before revealing it, but I’d rather use it than lose by holding back.
 
 “Charul, \[Autonomous Action: Marionette\],” I commanded.
 
 “_Yes, Master_,” it replied.
 
-“\!?”
+“\?!”
 
 Charul responded with a mechanical voice.
 
@@ -1228,7 +1228,7 @@ light spell \[Saint Wall\].
 
 But it was far too late.
 
-“Ah…”
+“Ah...”
 
 Before I realized it, I was down on one knee. My vision warped, and I lacked the
 strength to stand.
@@ -1290,7 +1290,7 @@ Honestly, I think it has more books than the capital’s library.
 The sheer volume of books is thanks to Zex-nii’s policy. He once said, “Even
 knowledge that seems useless can prove incredibly valuable depending on the
 situation,” and so he’s collected books and materials from every imaginable
-genre. The cost? Well… I’ve seen the budget before, and let’s just say the
+genre. The cost? Well... I’ve seen the budget before, and let’s just say the
 numbers were staggering. It’s not just the purchase price—maintaining the books
 costs a fortune too.
 
@@ -1301,7 +1301,7 @@ slightly large residence. But the inside is a different story. Thanks to
 Zex-nii’s invention, 【Spatial Expansion】, the interior boasts more than double
 the apparent space. The moment you pass through the entrance, the scenery warps
 with a _whoosh_. I still haven’t gotten used to that sensation. It doesn’t make
-me dizzy or cause any side effects, but it’s just… weird.
+me dizzy or cause any side effects, but it’s just... weird.
 
 I gave a quick greeting to the servant at the reception desk and stepped inside.
 
@@ -1329,7 +1329,7 @@ two people present.
 
 “Oh, Nina-chan and Skia-san.”
 
-“…? Oh, Orca. Good work,” Nina said.
+“...? Oh, Orca. Good work,” Nina said.
 
 “O-o-o-oh, g-good work, d-d-desu\!” Skia stammered.
 
@@ -1365,8 +1365,8 @@ In response to my question, Nina-chan and Skia-san nodded.
 
 “I-I’m reading _The Forbidden Garden_, d-desu,” Skia added.
 
-“Voyage, huh? So, something about the sea? And Skia-san’s book… oh, that’s your
-usual type,” I said.
+“Voyage, huh? So, something about the sea? And Skia-san’s book... oh, that’s
+your usual type,” I said.
 
 Nina-chan aside, Skia-san is easy to read. The moment I brought up books, her
 eyes lit up like crazy. It’s a little scary, honestly.
@@ -1374,7 +1374,7 @@ eyes lit up like crazy. It’s a little scary, honestly.
 “Wait, hold on, don’t start ranting\! I know I said I’m not in a rush, but I
 don’t have _that_ much time\!” I quickly interjected.
 
-“…That’s a shame,” Skia said, deflating.
+“...That’s a shame,” Skia said, deflating.
 
 Skia-san was about to launch into a passionate spiel, so I hurriedly stopped
 her.
@@ -1414,7 +1414,7 @@ It seems like the book she’s holding is a real favorite.
 
 “Yup. This is my fifth reread,” she replied.
 
-“_Fifth_ reread\!?”
+“_Fifth_ reread\?!”
 
 When I raised my voice in surprise, Nina-chan tilted her head. And not just
 her—Skia-san did too.
@@ -1425,7 +1425,7 @@ her—Skia-san did too.
 
 “Yeah, right?” Nina agreed.
 
-“Whaaat\!?”
+“Whaaat\?!”
 
 Bookworm doesn’t even begin to cover it—this is book addiction\! Or is it normal
 for book lovers to reread that many times? Ugh, there’s no way I could do that.

@@ -89,7 +89,7 @@ others.
 That said, standing around like this was also a bit problematic. After all,
 Merla-sensei was currently glaring intensely in my direction.
 
-…Ah, it seemed she was getting impatient; she was striding toward me with
+...Ah, it seemed she was getting impatient; she was striding toward me with
 determination.
 
 She fixed me with a cold gaze and asked,
@@ -151,7 +151,7 @@ not I understand their fighting style will change how I approach the situation.
 Therefore, Merla-sensei’s practical class is very beneficial, and I see value in
 attending it. Is that reasoning insufficient?”
 
-“…Just don’t disturb the other students.”
+“...Just don’t disturb the other students.”
 
 “Yes.”
 
@@ -227,7 +227,7 @@ understood it.
 Just then,
 
 “By the way, Zex—Zex-sama can’t use attribute magic, right? I totally forgot,
-considering how strong he is…”
+considering how strong he is...”
 
 Marina chimed in with a carefree tone.
 
@@ -288,7 +288,7 @@ Though she seemed somewhat dissatisfied, Shion responded affirmatively.
 It’s hard to believe just how much I’m loved. It feels a bit
 self-congratulatory, but there’s no denying it.
 
-I genuinely wish to respond to their affections as quickly as possible… while
+I genuinely wish to respond to their affections as quickly as possible... while
 also being careful to overturn Caron’s fate of death. That’s my earnest hope.
 
 The second semester had started a few days ago. Life at the academy flowed along
@@ -364,7 +364,7 @@ Since I needed a little more time to organize my thoughts, I internally gave a
 thumbs-up and thought, “Nice timing,” as I prompted Marina to continue.
 
 “Why do the other students have doubts? I heard that the academy’s grades are
-measured by absolute skill…”
+measured by absolute skill...”
 
 Given the academy's founding principles, even the Holy Royal Family cannot
 engage in unfair practices. There is no favoritism based on status; the true
@@ -393,10 +393,10 @@ confusion.
 
 “Is that a lot?”
 
-“Well… would it help if I said they’re wealthier than any other noble in the
+“Well... would it help if I said they’re wealthier than any other noble in the
 country?”
 
-“Wait, they’re wealthier than the king!?”
+“Wait, they’re wealthier than the king?!”
 
 “Yeah. Immediately after clashing with the Holy Royal Family, they had nearly
 two-fifths of the country’s wealth, but that would cause the economy to
@@ -471,14 +471,14 @@ causing you worry for a while.”
 “IAre you okay?.”
 
 “W-Well, in my case, there have already been various rumors circulating about
-me…”
+me...”
 
 The five students each offered reassuring responses.
 
 They really are good kids. Their kindness warms my heart.
 
 In that case, I need to respond to their concern. Well, there’s a
-straightforward way to do that… but what should I do?
+straightforward way to do that... but what should I do?
 
 After that, while having lunch, I continued to contemplate my plans for the
 future.
@@ -506,7 +506,7 @@ turned back to me.
 There are maps placed around the library as well, so you don’t need to worry
 about getting lost. It’s hard to imagine you getting lost, but just in case.
 Also, remember to check out books at the front desk. The librarian can answer
-most questions, too. After that…”
+most questions, too. After that...”
 
 “You seem quite familiar with this place.”
 
@@ -565,7 +565,7 @@ After navigating through the shelves for a few minutes, I finally arrived at my
 destination. Just to be safe, I peeked over the bookshelf to observe the person
 in question.
 
-“If I remember correctly, she is…”
+“If I remember correctly, she is...”
 
 There she was, a familiar figure to me. Although we had never met, I knew her
 from one-sided knowledge.
@@ -671,7 +671,7 @@ apologized.
 At that, Skia immediately began to fluster.
 
 “Ah, ah, ah! Y-you don’t have to worry about that! I-I’m not someone of such
-value to be apologized to by a c-c-count like you… No, rather, I should be the
+value to be apologized to by a c-c-count like you... No, rather, I should be the
 one to thank you first! I-I’m so sorry!”
 
 She spoke while stammering quite a bit. This girl was even worse than Marina or
@@ -693,12 +693,12 @@ conversation.
 “There’s no need for you to apologize either. There was certainly a better way
 to handle this.”
 
-“B-but…”
+“B-but...”
 
 “Let’s do this. We’ll consider it mutual fault and call it even. How does that
 sound?”
 
-“Uh, um…”
+“Uh, um...”
 
 When I asked with a smile, Skia’s eyes darted around in a rather amusing way.
 
@@ -714,7 +714,7 @@ After a minute or two of her fidgeting, Skia finally nodded.
 task, right? It would be unfortunate if you fell again, so I’ll help you carry
 them.”
 
-“Oh, my books! …Wait, they’re floating!?”
+“Oh, my books! ...Wait, they’re floating?!”
 
 Perhaps because she had been focusing on me, she hadn’t noticed the books
 hovering around us.
@@ -724,7 +724,7 @@ Leaving her in confusion, I continued speaking.
 “You're carrying a lot of books, right? Then you must want some help. Please
 don’t hesitate to rely on me.”
 
-“W-well, that’s a bit… too much for me to ask…”
+“W-well, that’s a bit... too much for me to ask...”
 
 I nodded inwardly.
 
@@ -808,7 +808,7 @@ That said,
 “The scene where Ed and Al first meet is so wonderful, and the detail in this
 description captures the essence of the story and the author’s unique touch. It
 reflects the scenes and their emotions in my mind so vividly. Also, the tragic
-moment when these two confront each other has been foreshadowed right here…”
+moment when these two confront each other has been foreshadowed right here...”
 
 Watching her talk animatedly, seemingly like a different person, made me
 hesitate about hiring her. No doubt she was a valuable asset, but still.
@@ -892,7 +892,7 @@ Skia looked puzzled at our sudden halt in an empty area, but I paid it no mind.
 I opened a [Phase Connection] beneath us and instantly teleported us both. Our
 destination was the reception room of Foranada Castle.
 
-“…Huh?”
+“...Huh?”
 
 The sudden change in scenery left Skia completely frozen. It seemed she would
 take some time to reboot, so I took that opportunity to prepare.
@@ -926,7 +926,7 @@ Still looking somewhat bewildered, she fidgeted and asked, “Um, where is this?
 
 “It’s Foranada Castle. I teleported us here.”
 
-“Foranada…?”
+“Foranada...?”
 
 At my response, Skia’s eyes widened in surprise. It seemed her confusion
 deepened.
@@ -971,7 +971,7 @@ caught the book using the materialization of magic—she deduced that I manipula
 magic itself.
 
 When it comes to magic, she possesses an intellect that rivals Orca’s. It’s a
-shame that a character with such talent doesn’t appear in the original game…
+shame that a character with such talent doesn’t appear in the original game...
 Well, even if she did, I doubt she would shine. Skia’s shortcomings in magic use
 likely wouldn’t be enough to handle the protagonists.
 
@@ -984,8 +984,8 @@ buffing or debuffing others requires a more delicate touch than other forms of
 magic, and [Gunshot] cannot be activated within a living being’s body. The more
 intricate the original spell, the higher the chance of resistance.
 
-Considering that, the peculiarity of mental magic becomes clear… but that’s not
-relevant right now.
+Considering that, the peculiarity of mental magic becomes clear... but that’s
+not relevant right now.
 
 “The second point is that, in order to gather physical information, I will
 inevitably be peeking into your privacy. I apologize in advance for that.”
@@ -1028,7 +1028,7 @@ However, the main event was just beginning.
 I looked directly at Skia and continued earnestly, “However, it has been
 revealed that you have a serious illness.”
 
-“W-W-W-W-What do you mean, ‘illness’!?”
+“W-W-W-W-What do you mean, ‘illness’?!”
 
 To her, it was likely a bolt from the blue. My flat tone may have contributed to
 her shock.
@@ -1054,7 +1054,7 @@ I deliberately ignored Skia’s feelings and continued my explanation.
 “It’s not a physical illness. There’s a congenital abnormality in your magical
 power.”
 
-“C-Congential abnormality in my magic…?”
+“C-Congential abnormality in my magic...?”
 
 “Exactly. The reason you can’t use magic at all is due to this congenital
 illness. The name is ‘Congenital Magical Power Counteracting Diminution
@@ -1069,7 +1069,7 @@ other, significantly reducing the total magical power. In her case, the magical
 powers of light and darkness are canceling each other out.
 
 Skia asked, still looking doubtful, “B-But there are lots of people who possess
-opposing magical powers. I’ve never heard of such a name…”
+opposing magical powers. I’ve never heard of such a name...”
 
 “The conditions for developing Counteracting Syndrome are quite specific. First,
 you must have only two types of magical affinities. If you have three or more,
@@ -1110,7 +1110,7 @@ Back to the topic at hand.
 “There’s no established treatment yet, but I actually have a way to cure it. If
 you’re interested, would you like to try the treatment?”
 
-“…”
+“...”
 
 When I proposed this last point, her reaction wasn’t very positive. She exuded a
 strong aura of skepticism.
@@ -1149,7 +1149,7 @@ offer.”
 Skia looked utterly bewildered, her expression reflecting even more skepticism
 for some reason.
 
-…Why is that?
+...Why is that?
 
 As I tilted my head in confusion, Sebas, who had been silent until now,
 communicated with me via telepathy.
@@ -1159,7 +1159,7 @@ magic. It would be quite difficult for her to even find a job. For her, a
 position in Foranada would be a windfall.”
 
 “Is that so? I thought it would be a fair trade to bind her to a job that would
-allow her to be free of that handicap. I thought it was enough of a trade…”
+allow her to be free of that handicap. I thought it was enough of a trade...”
 
 “In that case, suitable positions would be something like working in a coal
 mine.”
@@ -1183,21 +1183,21 @@ I represent Foranada means binding her to a position would only be advantageous.
 Because I was envisioning the worst-case scenario of the resurrection of the
 Demon King in the west, I had slightly misaligned my understanding with reality.
 
-Should I tell her the truth? …No, it’s still a matter of the “worst-case
+Should I tell her the truth? ...No, it’s still a matter of the “worst-case
 scenario.” While it’s acceptable to reveal the dangers, it would be unwise to
 frighten her unnecessarily. More importantly, I felt that would be less
 credible.
 
 Choosing my words carefully, I finally spoke.
 
-“Umm… there is a possibility you might face a life-threatening situation. The
+“Umm... there is a possibility you might face a life-threatening situation. The
 training after employment will also be strict. Please take that into
 consideration.”
 
-“I-I see…”
+“I-I see...”
 
-“Well, there’s no need to decide immediately. Let’s say… I’ll wait until spring
-of next year. Please think it over until then.”
+“Well, there’s no need to decide immediately. Let’s say... I’ll wait until
+spring of next year. Please think it over until then.”
 
 Though it ended up being somewhat muddled, I concluded my offer.
 
@@ -1429,7 +1429,7 @@ students to shine, matches are also a matter of chance. If you’re going to
 scrutinize the pairings so closely, then it’s fundamentally wrong to hold a
 tournament at all.”
 
-“Uh, umm…”
+“Uh, umm...”
 
 Under the relentless assault of her arguments, the principal was visibly
 flustered.
@@ -1456,8 +1456,8 @@ type to operate in the shadows.
 What benefit could there possibly be for her to push so hard for me to join?
 
 The first thought that crossed my mind was that she wanted to gauge my true
-strength. But it was clear I wouldn’t be fighting seriously against students… I
-was at a loss.
+strength. But it was clear I wouldn’t be fighting seriously against students...
+I was at a loss.
 
 “If we miss this opportunity, the prestige of the academy may decline,”
 Ariarnorth stated.
@@ -1484,7 +1484,7 @@ go awry, he may wield even greater influence than the royal family. If that’s
 perceived as favoritism in grading to avoid upsetting him, it could lead to
 serious problems.”
 
-“…So you’re suggesting that we sacrifice this individual tournament to prove
+“...So you’re suggesting that we sacrifice this individual tournament to prove
 that the academy's grading is valid?”
 
 “I believe that would ensure that neither party suffers losses,” she replied.

@@ -102,10 +102,10 @@ stranger.
 “You okay? Feeling off or something?” I asked, rising slightly from the sofa and
 leaning toward her to check her complexion.
 
-Startled by my approach—she hadn’t noticed me move—she let out a shrill “Hya\!?”
+Startled by my approach—she hadn’t noticed me move—she let out a shrill “Hya\?!”
 and practically jumped.
 
-“N-n-n-no, I’m perfectly fine\!” she stammered. “I just… made a rather
+“N-n-n-no, I’m perfectly fine\!” she stammered. “I just... made a rather
 unbelievable discovery, and it threw me off. That’s all\! Nothing’s wrong\!”
 
 “You’re freaking out like crazy,” I said, my tone slipping into casual bluntness
@@ -120,9 +120,9 @@ of my authority, I’ll grant whatever convenience you desire\!”
 She rattled off the essentials in a rapid, almost desperate torrent, as if she
 couldn’t wait to end this meeting.
 
-…Huh? Wait a second. For just a moment, I caught a familiar emotion from her—
+...Huh? Wait a second. For just a moment, I caught a familiar emotion from her—
 
-“Any objections\!?” she shouted, cutting off my attempt to pinpoint it.
+“Any objections\?!” she shouted, cutting off my attempt to pinpoint it.
 
 We’re in the middle of negotiations; I can’t afford to ignore that. I refocused
 and met her gaze. “About that ‘convenience’—can we discuss it later? I can’t
@@ -231,14 +231,14 @@ Garuna at once.
 That said, she’s not dead. I deliberately chanted aloud, giving her time to
 defend.
 
-“Are you _trying_ to kill me\!?” Garuna screamed, standing unscathed.
+“Are you _trying_ to kill me\?!” Garuna screamed, standing unscathed.
 
 As expected, she had enough strength to protest loudly while firing ten \[Hydro
 Arrows\] at me. I blocked them with a magical barrier.
 
 In return, I fired ten \[Gunshots\].
 
-“Wah, yo, fah\!?” Garuna yelped, dodging frantically.
+“Wah, yo, fah\?!” Garuna yelped, dodging frantically.
 
 She hadn’t anticipated a no-look shot, but as expected, opponents with high
 magic perception—like her or Marina, who’s contracted with Maimu—are harder to
@@ -323,10 +323,10 @@ As I used the spell to share my mana, Garuna’s wounds healed before our eyes.
 Since Magic Administrators are beings of pure mana, their injuries mend as their
 mana increases. Quite convenient in moments like this.
 
-“Haa\!?” Garuna gasped, her eyes wide with disbelief at the phenomenon
+“Haa\?!” Garuna gasped, her eyes wide with disbelief at the phenomenon
 unfolding.
 
-“What did you do, Zex-sama\!?” she exclaimed, her voice tinged with shock.
+“What did you do, Zex-sama\?!” she exclaimed, her voice tinged with shock.
 
 “What do you mean? Just a \[Mana Transfer\],” I replied, tilting my head.
 
@@ -334,7 +334,7 @@ Why was she so surprised? \[Mana Transfer\] is a widely recognized spell, after
 all.
 
 “That’s not the point\!” she shouted. “Why is there no conversion loss with your
-\[Mana Transfer\]\!?”
+\[Mana Transfer\]\?!”
 
 “Oh, that,” I said, nodding in understanding.
 
@@ -353,7 +353,7 @@ difficulty skyrocketed.
 
 When I explained this, Garuna’s shoulders trembled with indignation.
 
-“Are you a monster\!?” she cried.
+“Are you a monster\?!” she cried.
 
 “That’s rude,” I shot back. “I’m human.”
 
@@ -408,7 +408,7 @@ As I grumbled about this cheating nonsense, Garuna let out an exasperated sigh.
 
 “I think _you’re_ the unfair one, Zex-sama,” she said. “How do you even break
 through immunity resistance? It makes me want to look up the definition of
-‘immune’…”
+‘immune’...”
 
 “I’ve been researching countermeasures for a while,” I explained. “Analyzing
 that sealed thing gave me a grasp of immunity resistance’s mechanics, and now I
@@ -432,10 +432,10 @@ Whatever. Garuna’s critique is more important right now.
 
 “How long would it take to defeat one?” I pressed.
 
-“Hmm…” She paused, thinking. “Depends on your fighting style, Zex-sama, but I’d
-estimate at least an hour. Grue-chan’s a Gold Magic user, after all.”
+“Hmm...” She paused, thinking. “Depends on your fighting style, Zex-sama, but
+I’d estimate at least an hour. Grue-chan’s a Gold Magic user, after all.”
 
-“…I’d need to account for their recovery, then,” I muttered.
+“...I’d need to account for their recovery, then,” I muttered.
 
 “Yeah,” she confirmed. “Plus, Grue-chan’s fighting style involves creating
 minions to fight for them.”
@@ -444,7 +444,7 @@ minions to fight for them.”
 
 “Pretty much,” she nodded.
 
-“Got it…” I said, rubbing my chin.
+“Got it...” I said, rubbing my chin.
 
 Knowing the enemy’s hand is huge, but the problems are piling up. Spending an
 hour on a fight, even with efforts to minimize collateral damage, could still
@@ -545,7 +545,7 @@ accepted, as the countdown hadn’t begun.
 
 “Nina,” I called out.
 
-“…Zex,” she replied, her voice laced with irritation.
+“...Zex,” she replied, her voice laced with irritation.
 
 Whoa. For someone usually so expressionless to show this much emotion, she must
 be seriously pissed. What did this guy say?
@@ -571,7 +571,7 @@ it fitting that my first match is against someone with an epithet?”
 
 As Kobol’s smugness grew, Nina’s temple twitched with a visible vein.
 
-…Got it. He’s underestimating her strength, and that’s why she’s furious.
+...Got it. He’s underestimating her strength, and that’s why she’s furious.
 Honestly, anyone would snap at that attitude.
 
 Please don’t tell me all the problem first-years are like this. That’d be
@@ -581,7 +581,7 @@ be the exception.
 Ignoring his self-aggrandizing ramble, I turned to Nina. “Nina, I’ve got a
 request.”
 
-“…What?” she said, her brow furrowing slightly, sensing trouble.
+“...What?” she said, her brow furrowing slightly, sensing trouble.
 
 She’s sharp.
 
@@ -628,7 +628,7 @@ he began, likely about to say, I’ll let you go first.
 
 But he never finished.
 
-“…Enough already. Come at me,” Nina snapped, her voice dripping with intense
+“...Enough already. Come at me,” Nina snapped, her voice dripping with intense
 anger, radiating a pressure that overwhelmed Kobol.
 
 The sheer will of someone who’s broken their limits carries physical force, and
@@ -660,7 +660,7 @@ forgoing counterattacks.
 Kobol’s magical onslaught continued, but nothing got through. Nina blocked
 everything.
 
-“Zee… haa…” Kobol panted.
+“Zee... haa...” Kobol panted.
 
 His lanky frame betrayed his low stamina. Barely ten minutes in, he was already
 gasping.
@@ -678,10 +678,10 @@ disappointment at his weakness.
 Her words made Kobol flush red, his pride still towering.
 
 He clicked his tongue and muttered, “Guess I have to use _that_. I wanted to
-save it in front of Earl Foranada, but…”
+save it in front of Earl Foranada, but...”
 
 What the hell? Talking about holding back despite the massive gap in their
-strength? Oh, Nina’s anger is reigniting…
+strength? Oh, Nina’s anger is reigniting...
 
 “Take this—my ultimate technique\! \[Lightning Meteor\]\!” Kobol shouted.
 
@@ -707,7 +707,7 @@ Kobol, however, only has aptitudes for fire and earth. No matter his skill,
 there’s no way he should be able to use this spell. What he did defies the laws
 of the world.
 
-“…No, wait,” I muttered.
+“...No, wait,” I muttered.
 
 I looked at Kobol again with \[Magic Vision\]. His mana now carried traces of
 wind, which weren’t there before.
@@ -808,9 +808,9 @@ coordinated with Wiemlay, and they’ll be transferred to a surveillance hospita
 when the time comes—the same one we sent Laurel to, used for criminals, where
 further research on “Outer” will be conducted.
 
-“…And that’s the gist of it,” I said, leaning back on the sofa.
+“...And that’s the gist of it,” I said, leaning back on the sofa.
 
-“…I see,” the Principal replied softly.
+“...I see,” the Principal replied softly.
 
 We were face-to-face in the Principal’s office again, this time for me to report
 on the “Outer” incident.
@@ -830,7 +830,7 @@ Still, no amount of reasoning would lift her spirits. She’s a born educator.
 It’s not about her responsibility—she’s pained by her inability to save
 promising students. I could tell that much without reading her emotions. Though
 we’ve known each other for less than a year, dealing with incidents together has
-built enough of a rapport to understand her character. …Not that I wanted to
+built enough of a rapport to understand her character. ...Not that I wanted to
 know about her perversions, mind you.
 
 I spoke gently, softening my tone. “I won’t tell you not to feel down, but this
@@ -848,7 +848,7 @@ they were perfect marks.
 “No one got hurt, and—sorry for them—only twenty-seven out of about 130,000
 students were affected. The academy’s barely been impacted,” I added.
 
-“Even so, I couldn’t protect those twenty-seven students…” she murmured, her
+“Even so, I couldn’t protect those twenty-seven students...” she murmured, her
 voice heavy with guilt.
 
 “Then consider this: you protected the other 400,000-plus,” I countered.
@@ -876,7 +876,7 @@ I knew it wasn’t the kindest thing to say to someone feeling low, but still.
 She may look like a ten-year-old girl, but she’s a witch who’s lived for
 centuries. She stood up to my baptism; I’d be troubled if this made her buckle.
 
-She gave a wry smile. “That’s true, but…”
+She gave a wry smile. “That’s true, but...”
 
 “If you need to vent, I’ll listen a bit,” I offered. “I’ve already seen your
 pathetic side, after all.”
@@ -896,15 +896,15 @@ she acting all maidenly?
 
 The sudden sweet atmosphere left me bewildered.
 
-There’s no… romantic emotion in her. Just pure fondness. So, what—her witch days
-were spent in solitude, and as Principal, she’s always been on the front lines,
-with no one to lean on? Then I, a powerhouse, show up, and she starts letting
-her guard down?
+There’s no... romantic emotion in her. Just pure fondness. So, what—her witch
+days were spent in solitude, and as Principal, she’s always been on the front
+lines, with no one to lean on? Then I, a powerhouse, show up, and she starts
+letting her guard down?
 
 How cliché, I thought, wondering if it was rude to think so.
 
 If this keeps up, she might actually fall for me. But cutting ties or changing
-course now would be tough…
+course now would be tough...
 
 “What happens, happens,” I muttered under my breath.
 

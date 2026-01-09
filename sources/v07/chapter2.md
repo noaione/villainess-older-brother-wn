@@ -102,7 +102,7 @@ I used one hand to throw Akatsuki-sensei off of me, then quickly used a fake
 Orichalcum wire to entangle him. I infused it with my magic, so he wouldn’t be
 able to escape easily. It should buy me some time.
 
-"Whoa, what is this? I can’t get out\!?"
+"Whoa, what is this? I can’t get out\?!"
 
 It was noisy and chaotic, but at least I could get my work done without further
 interruption. I wasn’t sure how long the wire would hold, so I needed to wrap
@@ -183,7 +183,7 @@ expectations. I was hoping to surprise him.
 However, his gesture of holding his head immediately stopped. It seemed he
 sensed something, and he suddenly looked up.
 
-"Wait a minute. This feeling... no way, you can’t be serious\!?"
+"Wait a minute. This feeling... no way, you can’t be serious\?!"
 
 Akatsuki-sensei locked eyes with me, then grabbed both my shoulders with
 tremendous force. Way too close.
@@ -237,7 +237,7 @@ mock battle came at a perfect time.
 But something seemed off with Akatsuki-sensei. His eyes darted around, and beads
 of sweat ran down his forehead.
 
-"A-actually… maybe we should save this mock battle for another day—"
+"A-actually... maybe we should save this mock battle for another day—"
 
 "Haha, you’re not getting away."
 
@@ -300,7 +300,7 @@ Akatsuki-sensei gasped and began breathing heavily.
 Ah, I guess the pressure was so intense that he couldn’t breathe properly. This
 spell has that kind of offensive potential, huh. I should remember that.
 
-“Damn it… I lost. I told you, time manipulation is cheating\!”
+“Damn it... I lost. I told you, time manipulation is cheating\!”
 
 While still muttering something odd, Akatsuki-sensei revived and jumped up,
 stomping his feet in frustration.
@@ -335,7 +335,7 @@ those non-humans advance a step further, it becomes meaningless.
 ...Wait a minute. Did Akatsuki-sensei ever use a technique like divine
 enhancement in the original story?
 
-“……………”
+“.........”
 
 It's not like the Saintess would ever actually challenge Akatsuki-sensei in the
 real world, so there's no need to worry. He’d probably hold back anyway. Yeah,
@@ -381,7 +381,7 @@ heard of the Great Magic Administrator is because I’ve roamed the world long
 enough. From what I gathered, All the Great Magic Administrators vanished
 without a trace one day, long ago.”
 
-“I see…”
+“I see...”
 
 I had hoped Akatsuki-sensei would know something, but it looks like I was out of
 luck this time.
@@ -394,7 +394,7 @@ Besides, at least I’d learned that the Magic Administrator existed in an era
 before Akatsuki-sensei’s arrival—around the time of the Demon Lord of the West’s
 sealing. I’d just have to focus on searching for records from that period.
 
-“Oh yeah, speaking of that…”
+“Oh yeah, speaking of that...”
 
 Suddenly, Akatsuki-sensei seemed to remember something.
 
@@ -452,9 +452,9 @@ I let out a sigh without thinking, and Akatsuki-sensei gave a wry smile.
 "Dungeons are a pain, yeah. Even we think so, so it’s no surprise humanity
 hasn’t figured it out yet, right?"
 
-"…I think I get what you're trying to say. If it's a place untouched by anyone,
-under divine dominion, there might be a chance of learning something about those
-'who have reached the truth of magic,' like those grandiose 'Magic
+"...I think I get what you're trying to say. If it's a place untouched by
+anyone, under divine dominion, there might be a chance of learning something
+about those 'who have reached the truth of magic,' like those grandiose 'Magic
 Administrator.' Is that what you mean?"
 
 "Exactly\!"
@@ -497,7 +497,7 @@ heightened. With no soldiers to spare, the knights were unavailable.
 There was apparently some debate over this, but in the end, it didn’t take long
 for the escort to be decided. Volunteers had stepped forward.
 
-So, who were these volunteers…?
+So, who were these volunteers...?
 
 “Starting today, for the next ten days, we’ll be in your care, boss\!”
 
@@ -579,7 +579,7 @@ Aurelia immediately dropped to one knee.
 The sight of her, usually so dignified, trembling with emotion was quite the
 contrast. As expected, the classmates around us were starting to make noise.
 
-“Brother…”
+“Brother...”
 
 “As expected of Zex, always so quick.”
 
@@ -588,7 +588,7 @@ contrast. As expected, the classmates around us were starting to make noise.
 “You gave permission, but isn’t the rate at which you’re adding them a bit too
 fast?”
 
-“Haha…”
+“Haha...”
 
 Meanwhile, Caron, Orca, Nina, Minerva, and even Marina seemed to be
 misunderstanding something. I swear, there’s nothing going on between me and
@@ -604,7 +604,7 @@ might have guessed, he was her younger brother. He had just graduated from the
 academy last year, but having received my training, he was strong. With him
 around, I figured he would be able to keep his sister in check. I felt relieved.
 
-“Thanks, Sadias. Well… do your best.”
+“Thanks, Sadias. Well... do your best.”
 
 Without needing to say it outright, he seemed to understand that I was asking
 him to look after his sister. He smiled wryly and nodded.
@@ -782,7 +782,7 @@ more than twenty tatami mats in size. I settled onto the sofa in the middle of
 the room, leaning my weight into the backrest. It seemed to be a quality piece
 of furniture, giving a gentle, comfortable response as I sank into it.
 
-“Phew…”
+“Phew...”
 
 I let out a small sigh.
 
@@ -915,7 +915,7 @@ like that.
 “Also, just in case, I’ll call for the intelligence division, but prioritize
 assisting Caron.”
 
-“…Are you sure about this?”
+“...Are you sure about this?”
 
 “It’s fine. It’s just a feeling, but I have a bad premonition.”
 
@@ -1022,7 +1022,7 @@ With those words, Count Roeme’s eyes sparkled with excitement.
 
 “I have a matter I’d like to discuss with you. Would that be alright?”
 
-“…A discussion, you say? It depends on the topic.”
+“...A discussion, you say? It depends on the topic.”
 
 “It’s not such a difficult matter. I simply wish to observe the unknown magic
 that Baron Foranada wields. You see, I have been conducting my own research on
@@ -1655,7 +1655,7 @@ Finally, Yudai and Rina, both wearing complex expressions, slowly approached.
 "Don't mention it... though, I suppose I can't say that. I'll accept your
 thanks. For now, let's retreat quickly."
 
-"…Ah, understood."
+"...Ah, understood."
 
 Yudai’s expression clearly showed frustration—not directed at me, but at his own
 inability. It was the anger of someone who hated their own weakness.

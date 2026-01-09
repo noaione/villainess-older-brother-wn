@@ -33,7 +33,7 @@ family, whose case had been on hold.
 The penalty includes execution for all family members within two degrees of
 relation to the head, except for Shion, and confiscation of their assets.
 
-Their charges are unjustified use of force against other families and treason…
+Their charges are unjustified use of force against other families and treason...
 
 The first charge is one thing, but the treason charge stems from the reason why
 the next head candidates suddenly tried to invade Foranada.
@@ -73,10 +73,10 @@ here a few days earlier for her treatment. The plain white interior was
 unremarkable, save for the large bed in the center.
 
 But one thing had changed since my last visit. The patient who had previously
-been sleeping was now sitting up in bed. She… had regained consciousness, which
-is why I’d made a point to come.
+been sleeping was now sitting up in bed. She... had regained consciousness,
+which is why I’d made a point to come.
 
-“How are you feeling, Laurel…?”
+“How are you feeling, Laurel...?”
 
 Yes, the patient isolated in this hospital room is Laurel. After falling into a
 deep sleep from the backlash of the curse, she was rushed here for emergency
@@ -113,7 +113,7 @@ So, the one who actually healed Laurel this time was—
 
 “Caron took care of it. Light magic is the perfect remedy for curses.”
 
-“C... Caroline-san did…?”
+“C... Caroline-san did...?”
 
 Truthfully, I’d wanted to handle her treatment myself, but after what happened
 with Marina, it wasn’t feasible.
@@ -142,7 +142,7 @@ She seemed to be listening at least, so I went on.
 it’s almost certain. If proceedings go as expected, you’ll likely be sentenced
 to death.”
 
-“…”
+“...”
 
 She didn’t respond.
 
@@ -150,12 +150,12 @@ But her expression spoke volumes. She furrowed her brows sadly, but her eyes
 held a look of quiet resolve. She’d already prepared herself for death when she
 accepted the curse’s backlash.
 
-Suppressing a sigh, I continued, “However…”
+Suppressing a sigh, I continued, “However...”
 
 “At the suggestion of His Highness, First Prince Wiemlay, if you agree to
 undertake a certain mission, your death sentence will be revoked.”
 
-“...What!?”
+“...What?!”
 
 Laurel leaned forward in astonishment, clearly caught off guard by this turn of
 events.
@@ -163,18 +163,18 @@ events.
 Of course, it was no ordinary situation—being charged with high treason yet
 given a chance to avoid death.
 
-“What… what kind of job would that be?” she asked, her voice trembling.
+“What... what kind of job would that be?” she asked, her voice trembling.
 
 It seemed she knew that, given the Holy Royal Family’s proposal, there was only
 one choice here. She looked at me, half-expecting an impossible demand.
 
-There was no need for that much fear, though… calling it a difficult task
+There was no need for that much fear, though... calling it a difficult task
 wouldn’t be inaccurate.
 
 “You’ll dedicate yourself entirely to the study of curses at a government
 research facility.”
 
-“Study… curses?”
+“Study... curses?”
 
 Laurel’s mouth dropped open in surprise.
 
@@ -211,7 +211,7 @@ results within a certain timeframe, the offer may be revoked.”
 
 I finished explaining, including some of the more delicate details.
 
-“I see…”
+“I see...”
 
 That was all Laurel said in response.
 

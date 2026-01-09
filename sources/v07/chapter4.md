@@ -80,9 +80,9 @@ awakened as a light magic user, she could not shy away from such situations.
 This was especially true if she was to be part of Foranada. Onii-sama is quite
 the Spartan, after all.
 
-Even so…
+Even so...
 
-“Where could Onii-sama and the others be…?”
+“Where could Onii-sama and the others be...?”
 
 As I watched Skia-san begin treating another patient, I murmured the words under
 my breath.
@@ -107,7 +107,7 @@ As I dwelled on such trivial—yet to me, profoundly important—thoughts, the a
 outside the clinic suddenly grew noisy.
 
 The words weren’t clear enough to discern details, but it didn’t seem like a
-minor disturbance. …Yes, there was a familiar sensation. It was something akin
+minor disturbance. ...Yes, there was a familiar sensation. It was something akin
 to the prelude to war.
 
 “Caroline-sama\! Skia-sama\!”
@@ -144,7 +144,7 @@ I offered the priest a gentle smile.
 
 “Thank you for informing us. However, we will not evacuate.”
 
-“Why\!?” he exclaimed, his eyes widening in shock at my unexpected response.
+“Why\?!” he exclaimed, his eyes widening in shock at my unexpected response.
 
 I continued in a calm tone, explaining patiently.
 
@@ -287,7 +287,7 @@ Sensing Shion hurrying toward me, I addressed the children.
 They nodded vigorously. To be safe, I cast \[Diagnosis\], confirming they were
 indeed uninjured. What a relief.
 
-“Caroline-sama, please warn me before you rush off like that…” Shion said,
+“Caroline-sama, please warn me before you rush off like that...” Shion said,
 landing behind me with a reproachful tone.
 
 I offered an apologetic smile. “My apologies. It was a time-sensitive
@@ -508,14 +508,14 @@ hardships.
 If that’s the case, she’s as good as family. As a member of Foranada, I would
 never abandon family.
 
-“Ugh, uhh…”
+“Ugh, uhh...”
 
 It seemed Maimu-chan had regained consciousness. She let out a pained groan.
 
 I wouldn’t waste the final chance Zex-sama had given me. Steel myself, I faced
 my contracted spirit.
 
-“Marina-neechan…?”
+“Marina-neechan...?”
 
 Maimu-chan woke up.
 
@@ -535,7 +535,7 @@ But the situation wasn’t so kind.
 Without warning, Maimu-chan let out a piercing scream. Her incoherent cries
 echoed as her entire body trembled violently.
 
-“Maimu-chan\!?” I exclaimed.
+“Maimu-chan\?!” I exclaimed.
 
 Her reaction seemed excessive, even if she was lamenting the events of her
 rampage. All she had done was drain my magic wastefully; she hadn’t directed her
@@ -552,7 +552,7 @@ enough to hold a conversation.
 “What happened all of a sudden? If you’re okay with it, could you tell me what’s
 going on?” I asked.
 
-“…”
+“...”
 
 When I inquired about the reason for her distress, she kept her lips tightly
 sealed. She responded to other topics, so there must be something she found
@@ -603,12 +603,12 @@ locking eyes with her.
 
 As she tried to look away, averting her gaze, I continued to watch her closely.
 
-Her voice trembling slightly, Maimu-chan asked, “Why… why are you trying so hard
-to help me?”
+Her voice trembling slightly, Maimu-chan asked, “Why... why are you trying so
+hard to help me?”
 
 “Because you’re my one and only partner in this world,” I answered immediately.
 
-“Part…ne..r?” she repeated, puzzled.
+“Part...ne..r?” she repeated, puzzled.
 
 “Yes, partner. We made a contract, didn’t we? That makes us partners,” I
 explained.
@@ -625,11 +625,11 @@ To do that, I wanted to support Maimu-chan through her struggles.
 “The person I love,” I continued, “will solve any problem for those he considers
 family.”
 
-“The one with… the scary magic?” she asked.
+“The one with... the scary magic?” she asked.
 
 “Yes, that’s him,” I confirmed.
 
-“…”
+“...”
 
 I couldn’t help but giggle at the incredulous look on her face. I knew she could
 see Zex-sama’s magic and was intimidated by it, but her reaction was so blatant
@@ -641,13 +641,13 @@ Clearing my throat, I steered the conversation back.
 times of need. I don’t have any special powers, but I still want to try. That’s
 why I want to help you, my partner.”
 
-“Me… family?” Maimu-chan asked, her eyes widening in surprise.
+“Me... family?” Maimu-chan asked, her eyes widening in surprise.
 
 “Yes, family,” I said, nodding firmly and meeting her gaze again.
 
 Our eyes locked.
 
-“…Okay. I’ll talk,” she murmured after a long silence.
+“...Okay. I’ll talk,” she murmured after a long silence.
 
 Thanking her, I listened intently to what she had to say.
 
@@ -668,7 +668,7 @@ While stroking her head, I clenched my other fist.
 “It’s okay. From now on, I’m with you. You’re not alone. If that ‘something’
 tries to take you over, we’ll fight it off together\!”
 
-“That’s…”
+“That’s...”
 
 She trailed off, likely wanting to say it was impossible.
 
@@ -690,7 +690,7 @@ Maimu-chan gazed at me with wavering eyes.
 
 After a long moment of staring, she spoke up.
 
-“If I’m with Marina-neechan… I’ll try. I want to get stronger too\!”
+“If I’m with Marina-neechan... I’ll try. I want to get stronger too\!”
 
 Her voice was firm, and the fear had vanished from her expression.
 
@@ -736,7 +736,7 @@ from that weapon would likely cleave me in two in an instant.
 
 And—
 
-“It’s strong…” I murmured.
+“It’s strong...” I murmured.
 
 The boss exuded an aura similar to what Caron-chan and the others radiated when
 fighting seriously. I’m not skilled at gauging strength, but the sheer hostility
@@ -770,11 +770,11 @@ Perhaps sensing our intent, the White Knight, which had been utterly still,
 sprang into motion. With a clank of heavy armor, it readied its weapons in both
 hands.
 
-“…”
+“...”
 
-“…”
+“...”
 
-“…”
+“...”
 
 Silence fell among the three.
 
@@ -787,7 +787,7 @@ But it was shattered in an instant.
 We seized the initiative. At my signal, Maimu-chan unleashed a barrage of water
 arrows. Each arrow, rivaling high-tier magic, surged toward the White Knight.
 
-If they hit, even a superior foe wouldn’t escape unscathed. …Well, they didn’t
+If they hit, even a superior foe wouldn’t escape unscathed. ...Well, they didn’t
 hit, of course.
 
 The White Knight swayed its upper body slightly—and vanished. No, that wasn’t
@@ -910,7 +910,7 @@ We were injured, but so was the enemy. That meant we still had a chance to win.
 
 “Maimu-chan\!”
 
-“…”
+“...”
 
 “Maimu-chan?”
 
@@ -919,7 +919,7 @@ When I called out to plan our next move, there was no response from my partner.
 Fearing she might have been hurt in the last attack, I hurriedly glanced at her
 on my right shoulder.
 
-“\!?”
+“\?!”
 
 I gasped. She wasn’t injured. Maimu-chan was unharmed. But the situation was far
 graver. She was on the verge of going berserk again.
@@ -1021,7 +1021,7 @@ began to fade.
 But—just before darkness claimed me, I saw two lights: one red, one blue,
 shining brightly.
 
-“Where… am I?”
+“Where... am I?”
 
 When I came to, I was standing in a pitch-black void. Looking up, down, left, or
 right, everything was shrouded in darkness, with not a single object in sight.
@@ -1111,8 +1111,8 @@ suddenly poured into me.
 
 First came intense anger. But it didn’t stop there. Mixed within were concern,
 regret, and even hope—not entirely negative emotions. It was hard to describe,
-but it felt like… parental overprotectiveness? The clumsy affection of a parent
-overly cautious for their child.
+but it felt like... parental overprotectiveness? The clumsy affection of a
+parent overly cautious for their child.
 
 “Huh?”
 
@@ -1144,7 +1144,7 @@ Had she not done that, I wouldn’t have misunderstood her intentions.
 Another wave of emotions flowed from the fire spirit. Though hard to articulate,
 concern and hope dominated.
 
-“…You’re not going to say it was to train Maimu-chan, are you?”
+“...You’re not going to say it was to train Maimu-chan, are you?”
 
 —_Nod_.
 
@@ -1183,7 +1183,7 @@ conveyed to me. Maimu-chan must be completely confused.
 
 I adjusted my hold on her, turning her to face the fire spirit.
 
-“Eek, Neechan\!?”
+“Eek, Neechan\?!”
 
 She panicked at the sudden movement.
 
@@ -1199,8 +1199,8 @@ Gently, I explained, “That fire spirit is the one who got mixed into you.”
 truth.
 
 “She’s been trying her hardest to protect you. She fought in your place when
-danger arose, and the flames she directed at you were… like scolding, a plea for
-you to get stronger.”
+danger arose, and the flames she directed at you were... like scolding, a plea
+for you to get stronger.”
 
 “Huh?”
 
@@ -1233,7 +1233,7 @@ The fire spirit nodded so vigorously I thought her head might fly off. Her
 gesture, coupled with the sincere emotions I felt from her, convinced me she was
 truthful.
 
-“…Okay,” Maimu-chan said after a moment of silent contemplation.
+“...Okay,” Maimu-chan said after a moment of silent contemplation.
 
 “You were worried about me, right? Then I’ll forgive you. Or rather, I’m sorry
 for being so scared of you all this time.”
@@ -1245,15 +1245,15 @@ The fire spirit smiled joyfully in response, her expression bursting with
 delight as flames flared to express her happiness. Hastily, she bowed her head
 in return.
 
-“Well then, let’s get along from now on. Um…” I paused. “By the way, what’s your
-name?”
+“Well then, let’s get along from now on. Um...” I paused. “By the way, what’s
+your name?”
 
 She couldn’t speak, but perhaps we could communicate as we had before?
 
 As I pondered, the fire spirit suddenly directed flames at me. Before I could
 react, my body was engulfed in fire.
 
-Was everything she said a lie\!? I panicked, but quickly realized it was a false
+Was everything she said a lie\?! I panicked, but quickly realized it was a false
 alarm. The flames weren’t hot at all. Instead, they felt as comforting as a
 spring day’s warmth.
 
@@ -1274,7 +1274,7 @@ filling the entire space with radiant brilliance.
 
 ---
 
-“Hah\!?”
+“Hah\?!”
 
 When I opened my eyes, I was back in the dungeon’s hundredth-floor boss chamber.
 No longer in the dark void, I was in the painfully white room.
@@ -1332,7 +1332,7 @@ me. Maimu-chan must have protected me.
 When the steam cleared, only scattered fragments of white armor remained where
 the White Knight had stood.
 
-“We… won…”
+“We... won...”
 
 My magic was completely depleted. I was at my limit.
 

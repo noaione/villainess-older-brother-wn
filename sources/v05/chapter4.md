@@ -92,7 +92,7 @@ but his personal items were still scattered around.
 
 Shion and I split up to search the room.
 
-Hopefully, we’ll find something that leads us to what’s really going on here…
+Hopefully, we’ll find something that leads us to what’s really going on here...
 
 All I found were torn clothes and trash. It seemed true that he had been living
 in poverty. The more I investigated, the clearer it became that Gesh wasn’t
@@ -149,7 +149,7 @@ leaving such an important clue in her hands.
 
 Her cheeks puffed out in protest.
 
-“Even I wouldn’t damage a piece of evidence… probably.”
+“Even I wouldn’t damage a piece of evidence... probably.”
 
 But as she spoke, her confidence seemed to waver, and her last words were less
 than reassuring.
@@ -175,8 +175,8 @@ I let out a sigh of relief.
 
 “I told you so. Stop giving me heart attacks.”
 
-“I-I’m terribly sorry…” Shion’s face turned bright red. It wasn’t just because I
-pointed out her clumsiness, but because she was currently cradled in my arms,
+“I-I’m terribly sorry...” Shion’s face turned bright red. It wasn’t just because
+I pointed out her clumsiness, but because she was currently cradled in my arms,
 pressed up against my chest. Given her lack of experience with physical contact
 between men and women, it was only natural for her to be embarrassed.
 
@@ -353,7 +353,7 @@ their eyes started darting around.
 “We’ll continue for as long as we have time. It’ll be the same as the training
 you usually do.”
 
-“S-same…?”
+“S-same...?”
 
 As I answered while wondering about her suspicious behavior, Nina was staring
 blankly at the ceiling.
@@ -386,7 +386,7 @@ quietly, each in their own relaxed posture.
 
 I walked up behind Laurel and Yurika and suddenly said, “Here goes!”
 
-““Ouchhhhh!!!???””
+““Ouchhhhh?!?!!!””
 
 I struck their shoulders with a flat wooden stick.
 
@@ -409,7 +409,7 @@ effective.
 
 “I get that, but it hurts way more than it looks!”
 
-“I felt pain all over…”
+“I felt pain all over...”
 
 “Well, that’s because it’s designed to do just that.”
 
@@ -434,7 +434,7 @@ Seeing Laurel still unconvinced, I added, “You want to become stronger to keep
 the club going, right? You won’t get anywhere if you can’t handle this
 training.”
 
-“Guh… Fine! If it’s come to this, I’ll just have to tough it out!”
+“Guh... Fine! If it’s come to this, I’ll just have to tough it out!”
 
 The survival of the club was a powerful motivator for Laurel. She scratched her
 head in frustration and plopped down to resume her meditation.
@@ -779,7 +779,7 @@ Caron.
 
 "Caron, let’s go."
 
-"…Yes."
+"...Yes."
 
 She nodded quietly, wearing a slightly awkward expression.
 
@@ -848,7 +848,7 @@ worry about it."
 
 "Don’t say that. The fact is, you saved me."
 
-"…I understand. I’ll accept your gratitude."
+"...I understand. I’ll accept your gratitude."
 
 Though there was still a hint of awkwardness, the two exchanged smiles and
 nodded at each other.
@@ -859,7 +859,7 @@ For now, it seemed we had reached a temporary resolution.
 carefully. I had a general idea, but hearing the details from her would provide
 more accurate information.
 
-"Well, that’s…"
+"Well, that’s..."
 
 In response, she wore a complex expression, hesitating as she spoke.
 
@@ -877,12 +877,12 @@ Acknowledging our assurance, Laurel scratched her cheek, looking somewhat
 uncomfortable.
 
 "Well, it’s not that serious of a matter. It’s just that talking about it feels
-a bit embarrassing…"
+a bit embarrassing..."
 
 "I don’t think there’s anything to be embarrassed about now. You were making a
 fool of yourself during training, after all."
 
-"Ah… that’s true.”Laurel slumped her shoulders in disappointment at my retort.
+"Ah... that’s true.”Laurel slumped her shoulders in disappointment at my retort.
 She had been trying to act all senior-like, so my comment clearly hit home. But
 since it was the truth, I had no intention of taking it back.
 
@@ -936,7 +936,7 @@ With her fists clenched, my little sister declared her enthusiasm.
 
 Encouraged by her momentum, Laurel faltered, looking uncertain.
 
-"But, but… the ones who will shine in the match will definitely be you and
+"But, but... the ones who will shine in the match will definitely be you and
 Caron. There’s no way I can keep up."
 
 "That’s not true!"
@@ -961,7 +961,7 @@ light, she heals the hearts of others.
 No one could remain unmoved by such unadulterated affection. Indeed, Laurel’s
 eyes were visibly shaken.
 
-"…Do you think I can really fight?"
+"...Do you think I can really fight?"
 
 "Yes! Let’s do our best together!"
 
@@ -1117,7 +1117,7 @@ you’ve captured?”
 
 “They’re being interrogated. Don’t worry, I won’t let them suffer too much.”
 
-…Probably.
+...Probably.
 
 “Didn’t you just add an unnecessary qualifier?”
 
@@ -1136,7 +1136,7 @@ drugs were smuggled onto the grounds,” I stated, redirecting the conversation.
 Since it was an important matter, the headmaster was skillfully led. She placed
 a hand on her mouth, deep in thought.
 
-“True… Under normal circumstances, outsiders shouldn’t be able to infiltrate,
+“True... Under normal circumstances, outsiders shouldn’t be able to infiltrate,
 and we should have been able to prevent the entry of illegal goods.”
 
 “Given the kidnapping incident, I can’t trust the security measures completely.”
@@ -1330,7 +1330,7 @@ the conversation go smoothly. We were lucky.
 
 "We are here on official business."
 
-"Eh…” The sister had been smiling cheerfully, but the moment I produced a
+"Eh...” The sister had been smiling cheerfully, but the moment I produced a
 certain item, her expression froze. Then, in a trembling voice, she murmured,
 
 "The Imperial Guard..."

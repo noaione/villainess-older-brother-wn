@@ -27,7 +27,7 @@ Today, just like always, I finished up at the academy and rode the carriage back
 to our townhouse in the royal capital.
 
 There’s a saying, "When three women gather, it gets noisy." Well, right now
-there are six… no, five women in the carriage. Even though most of them are
+there are six... no, five women in the carriage. Even though most of them are
 noble ladies raised to be prim and proper, the confined space made things quite
 lively.
 
@@ -45,8 +45,8 @@ academy. Her pale blue-violet eyes glistened with unshed tears as she clung to
 the girl sitting next to her.
 
 When she does that, certain parts of her well-endowed figure end up in quite
-the… situation. I’d better look away. If I stare, I’ll definitely be called out
-by the others.
+the... situation. I’d better look away. If I stare, I’ll definitely be called
+out by the others.
 
 The girl Marina was clinging to is Minerva, my fiancée. With her black
 twin-tailed hair and petite figure, she has an incredibly cute appearance. As
@@ -124,9 +124,9 @@ brown eyes. Ever since she proposed to me a month ago, Nina’s displays of
 affection have become quite intense. It’s obvious to anyone watching that she’s
 in love with me.
 
-Because of that, I’ve earned a fair bit of resentment… but there’s nothing I can
-do about it. Even though I haven’t given her a formal answer yet, I’ve already
-decided to accept her.
+Because of that, I’ve earned a fair bit of resentment... but there’s nothing I
+can do about it. Even though I haven’t given her a formal answer yet, I’ve
+already decided to accept her.
 
 “No, it’s nothing,” I replied with a smile to the two women giving me curious
 looks.
@@ -375,9 +375,10 @@ The elf feigned outrage, a transparent act to hide his partner’s preparations.
 I pretended to go along with the conversation, all the while observing the other
 one’s actions closely.
 
-They were channeling magic into the ground… Ah, I see. It wasn’t the elf’s doing
-but the work of an earth spirit. They were likely trying to seize control of the
-terrain. That was something I’d already learned through my work with Noma.
+They were channeling magic into the ground... Ah, I see. It wasn’t the elf’s
+doing but the work of an earth spirit. They were likely trying to seize control
+of the terrain. That was something I’d already learned through my work with
+Noma.
 
 It didn’t seem like they were going to do much more preparation. I suppose they
 couldn’t afford to spend too much time setting things up right in front of me.
@@ -459,7 +460,7 @@ With a single short sword, I slashed through every stone projectile headed my
 way. Then, I released a burst of magic energy, dispelling the tornado in an
 instant.
 
-"What!?"
+"What?!"
 
 The elves’ eyes widened in perfect unison. Their momentary lapse in focus
 delayed their next move.
@@ -505,9 +506,9 @@ must have been hiding in the shadows of their contractors’ bodies until now.
 
 "You two, the spirits over there."
 
-"What!? You can see us!?"
+"What?! You can see us?!"
 
-"N-No way!?"
+"N-No way?!"
 
 The spirits were utterly shocked when I addressed them.
 
@@ -536,7 +537,7 @@ display? Even Noma had lost his mind when I was far weaker.
 
 The reactions of these two would be predictable.
 
-"We… w-we’re sorryyyyyyy!!!!!!!!!"
+"We... w-we’re sorryyyyyyy!!!!!!!!!"
 
 After binding them with a contract spell, the [Alternate World] dissipated, and
 the two spirits flew off in a frenzy. Judging by the way they left, I doubted
@@ -593,7 +594,7 @@ Foranada are truly elves.”
 “Whether they are elves or not, the fact remains that there was an incursion.
 That's why we’re here discussing it. Why don’t you use your head for a change?”
 
-“Are you mocking me!?”
+“Are you mocking me?!”
 
 The royal castle’s conference room, which was the size of a tennis court, echoed
 with the noisy bickering of nobles. It could be generously described as a lively
@@ -738,7 +739,7 @@ had served any purpose at all, someone suddenly called out to me.
 
 “Count Foranada.”
 
-“…And you are?”
+“...And you are?”
 
 I briefly wondered if it was one of those who had just been throwing insults my
 way, but that wasn’t the case. Standing before me, of all people, was Viscount
@@ -768,8 +769,8 @@ intelligence division. He wasn’t someone I could afford to take lightly.
 
 As I stood on guard, Viscount Sawaid gave a wry smile.
 
-“There’s no need to be so wary… though, I suppose it’s unreasonable of me to say
-that. But rest assured, this contact has been reported to His Majesty
+“There’s no need to be so wary... though, I suppose it’s unreasonable of me to
+say that. But rest assured, this contact has been reported to His Majesty
 beforehand.”
 
 In other words, the royalists had given their tacit approval of the situation.
@@ -821,7 +822,7 @@ resentment toward me. After all, I had taken down her kin and the next heir to
 their clan. Even if her feelings were misplaced, I couldn’t dismiss her internal
 struggles.
 
-I didn’t think she would do something foolish like poison the tea… but just to
+I didn’t think she would do something foolish like poison the tea... but just to
 be safe, I’d take precautions.
 
 Once the maid finished serving the tea and left the room, it was finally just
@@ -922,7 +923,7 @@ I tilted my head in curiosity.
 
 “What is it?”
 
-“There is one piece of advice… no, rather, an apology I must offer.”
+“There is one piece of advice... no, rather, an apology I must offer.”
 
 “An apology?”
 
@@ -985,7 +986,7 @@ Yet, the fact that he chose to share it with me suggests one conclusion: his
 heirs were out of control and might attempt to make contact with us without his
 consent.
 
-“…”
+“...”
 
 The viscount remained silent. His silence was tantamount to affirmation.
 

@@ -60,7 +60,7 @@ The others didn't seem opposed either.
 
 "There are exactly 102,037 listed," Shion chimed in.
 
-"…Shion, you're way too prepared."
+"...Shion, you're way too prepared."
 
 "No way, that's way too many!"
 
@@ -163,9 +163,9 @@ Suppressing a wry smile, I made her an offer.
 
 “Huh?”
 
-“You know… I might be a distraction if I barge into the Cooking Club uninvited.
-But being alone is kind of boring, so I thought I’d drag my fiancée along for
-company.”
+“You know... I might be a distraction if I barge into the Cooking Club
+uninvited. But being alone is kind of boring, so I thought I’d drag my fiancée
+along for company.”
 
 Close one. I got so caught up in trying to help Minerva that I didn’t properly
 think through why we’d split off. The excuse I came up with was a bit
@@ -275,13 +275,13 @@ It was Marina, who had been standing with the rest of us but had quietly moved
 up to the club president’s side. With a warm, friendly grin, she pulled the
 corners of her own mouth up with her fingers and said, "Smi~le" again.
 
-"Y-You are…?"
+"Y-You are...?"
 
 "My name’s Marina. I’m one of the students here to visit the club, just like
 Caron and the others. Oh, and I’m a commoner. I love cooking, so I wanted to
 check this place out."
 
-"I-I see…"
+"I-I see..."
 
 The club president, overwhelmed by nerves, seemed at a loss for how to respond
 to Marina’s sudden introduction.
@@ -301,7 +301,7 @@ After pausing for a brief moment, she spoke again.
 commoner like me and even accepted my invitation to visit. So, please don’t be
 scared of them. You wouldn’t want someone to dislike you for no reason, right?"
 
-"Well…"
+"Well..."
 
 "It’s just for today, but I’d be really happy if we could all get along."
 
@@ -343,23 +343,23 @@ However, since it was Orca’s first time cooking, everyone around him was shock
 by how well he did. People were murmuring things like, "This guy’s a hidden
 talent," and "If she hones this skill, she’ll be the perfect wife material!"
 
-I missed my chance to correct them, but… Orca’s a guy, you know?
+I missed my chance to correct them, but... Orca’s a guy, you know?
 
-Meanwhile, Caron and Minerva…
+Meanwhile, Caron and Minerva...
 
 “Hmm, why does it keep burning?”
 
-“…Sigh.”
+“...Sigh.”
 
 Caron was tilting her head in confusion, staring at the inedible mess she had
-created, while Minerva let out a long sigh as she examined the solid lump of…
+created, while Minerva let out a long sigh as she examined the solid lump of...
 something in her hands. Beside them, the club member who had been guiding them
 looked utterly defeated.
 
 I decided to keep my mouth shut. If I said anything here, this entire kitchen
 might end up in ashes.
 
-Well, Minerva is at least somewhat aware of her own shortcomings, but Caron…
+Well, Minerva is at least somewhat aware of her own shortcomings, but Caron...
 Caron should never be allowed near a kitchen again. If she ever tries to
 surprise me with a “homemade” gift, I’m pretty sure it’ll end up being a deadly
 poison. I’ll have to make sure everyone is aware of this.
@@ -420,7 +420,7 @@ Impressed by Marina’s judgment, I turned to the remaining four.
 
 “Alright, then. You four, go ahead and have fun.”
 
-“I feel a bit bad about leaving you behind, Onii-sama, but… I understand. I
+“I feel a bit bad about leaving you behind, Onii-sama, but... I understand. I
 shall go now.”
 
 “I’ll definitely win, so watch me!”
@@ -471,7 +471,7 @@ spectators.
 As I observed the serious atmosphere around Orca and his opponent, Marina, who
 didn’t really understand the game, nodded in amazement.
 
-“Wow… I don’t really get it, but I can tell it’s impressive,” she said.
+“Wow... I don’t really get it, but I can tell it’s impressive,” she said.
 
 “As expected of Orca,” I replied.
 
@@ -558,7 +558,7 @@ As she said, all the club members were engaged with someone or another. Unless
 they forcibly cleared a seat, no one would be available to play against
 Arianorth.
 
-“There’s an empty chessboard, though… Ah! Zex!”
+“There’s an empty chessboard, though... Ah! Zex!”
 
 Arianorth said, her expression brightening.
 
@@ -610,7 +610,7 @@ I followed her lead and prepared to take my seat.
 
 Just then,
 
-“O-Oh, Your Highness…”
+“O-Oh, Your Highness...”
 
 Marina, who had been silent and reading the atmosphere, spoke up with an anxious
 tone.
@@ -651,7 +651,7 @@ Arianorth suddenly murmured during my turn.
 
 “By the way, it seems that ‘Leaf’ has made its way into the capital.”
 
-“…”
+“...”
 
 I felt my eyebrows twitch involuntarily.
 
@@ -715,7 +715,7 @@ almost infectious, and when she was sad, she displayed such profound sorrow that
 it invoked sympathy. Her emotional nuances were completely impeccable, ideal
 even.
 
-…But such a thing was impossible. In the realm of human emotions, where
+...But such a thing was impossible. In the realm of human emotions, where
 contradictions abound, there could be no such thing as ideal or perfect.
 
 Initially, I had been thoroughly deceived, but as we met more frequently, I
@@ -738,7 +738,7 @@ calm.
 
 “Zex, you are truly an interesting person. I find you incredibly fascinating.”
 
-“That’s… quite an honor,” I replied.
+“That’s... quite an honor,” I replied.
 
 “Since you’ve entertained me so well, allow me to express my gratitude with a
 small gift.”
@@ -765,7 +765,7 @@ Forest Kingdom. Rumor has it that things have been quite chaotic in that region
 lately. If I recall correctly, the merchant who brought ‘Leaf’ came from that
 direction.”
 
-“…”
+“...”
 
 She had set a preventive line beforehand, and her basis was indeed flimsy.
 However, just her suggestion alone gave me a sense that this was more than just
@@ -863,7 +863,7 @@ But I digress.
 In response to my reaction, the three who recommended the Magical Piece Club
 wore sheepish expressions.
 
-“W-well, since it’s a chance to play with outsiders…”
+“W-well, since it’s a chance to play with outsiders...”
 
 “It gets boring if it’s just our own people.”
 
@@ -887,7 +887,7 @@ At that question, Shion replied.
 the teachers. Currently, it's growing rapidly, almost rivaling the Swordsmanship
 Club in the number of members.”
 
-“Seriously!?”
+“Seriously?!”
 
 I stared in astonishment.
 
@@ -984,7 +984,7 @@ her own parents, whom she had also disliked for similar reasons.
 
 “Calm down; it’s just a trial membership.”
 
-“Yes…”
+“Yes...”
 
 I gently patted Caron’s back, encouraging her to relax.
 
@@ -1029,12 +1029,12 @@ Since this was a basic rule set, it meant they would fight until one side was
 completely defeated—a classic format. They would be using full teams as well. It
 was a straightforward set of rules for beginners.
 
-There were exactly five people… so Caron and the others should be fine.
+There were exactly five people... so Caron and the others should be fine.
 
 “Well then, Shion and I will move to the spectator seats. Do your best,
 everyone.”
 
-“Wait, Onii-sama, er, you’re not participating!?”
+“Wait, Onii-sama, er, you’re not participating?!”
 
 As I called out to them, Caron exclaimed in surprise.
 
@@ -1046,7 +1046,7 @@ join in, the balance would be completely thrown off.”
 Caron, Orca, Nina, Minerva, and Marina made a complete five. There was no reason
 for me to step in.
 
-“Muu…”
+“Muu...”
 
 Confronted with my logic, Caron couldn't say anything more. I figured she
 realized that my participation could ruin the fun for the others. I was pleased
@@ -1071,7 +1071,7 @@ However, there was one person left out of the conversation.
 
 That was Marina. She had no experience with Magical Piece yet.
 
-“Um… I’m a beginner, so I’d appreciate it if you could consider that. I only
+“Um... I’m a beginner, so I’d appreciate it if you could consider that. I only
 know the basic rules.”
 
 With a hesitant tone, she managed to interject into the enthusiastic discussion.
@@ -1463,14 +1463,14 @@ in a gesture of submission.
 
 “I’m begging you! Please, please join our club! I’m begging you!”
 
-“Uh, um… please?”
+“Uh, um... please?”
 
 To make matters more surprising, next to this desperate individual stood a
 familiar face: a beast girl with straight, rabbit-ear-tipped hair in a shade of
 light blue—my classmate, Yurika Whirlav Dashpoons, was looking flustered as she
 found herself in the midst of this situation.
 
-A countess making a commoner bow down in public… This was an utterly
+A countess making a commoner bow down in public... This was an utterly
 embarrassing scene. What on earth was she thinking? I couldn’t help but think
 that she’d deserve to be punished for this.
 
@@ -1495,7 +1495,7 @@ well.
 
 “Six of you, right this way!” the bowing girl announced excitedly.
 
-“Uh-huh…”
+“Uh-huh...”
 
 “I-I’m so sorry!” Yurika stammered, apologizing nervously.
 
@@ -1545,7 +1545,7 @@ Laurel bowed her head again.
 “I’m really sorry about earlier! I forced Yurika to come with me, so please
 forgive her!”
 
-“President Laurel!?”
+“President Laurel?!”
 
 Hmm. So she was willing to take responsibility.
 
@@ -1558,7 +1558,7 @@ reckless.”
 
 “Ugh, I’m sorry.”
 
-“I’m really sorry…”
+“I’m really sorry...”
 
 Both of them bowed their heads in unison.
 
@@ -1585,7 +1585,7 @@ any progress. At a loss for what to do, she remembered our existence.
 “Why us?” I tilted my head in confusion, prompting Yurika to speak up
 hesitantly.
 
-“You said we could count on you in times of trouble… I-I’m so sorry!”
+“You said we could count on you in times of trouble... I-I’m so sorry!”
 
 Had she thought she would be scolded again? She shrank back as she apologized.
 
@@ -1600,7 +1600,7 @@ It couldn’t be helped.
 
 “Alright. I’ll join this club.”
 
-“Really!?” both of them exclaimed in unison.
+“Really?!” both of them exclaimed in unison.
 
 Laurel and Yurika leaned forward eagerly.
 

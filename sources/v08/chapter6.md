@@ -1166,14 +1166,14 @@ Alright, the plan is set.
 _“Maintain the status quo and get Eclara to reveal information,”_ I told Orca.
 “_Stay on standby until you’re in immediate danger.”_
 
-_“…If possible, I’d like this to be resolved peacefully,”_ Orca said.
+_“...If possible, I’d like this to be resolved peacefully,”_ Orca said.
 
 “_That depends on her actions,” I replied._
 
 _“Yeah, I get that,”_ Orca said. _“If it’s possible, that’s all I mean. If it’s
 a burden on you, Zex-nii, don’t hold back for my sake.”_
 
-_“…I’ll do what I can,”_ I said.
+_“...I’ll do what I can,”_ I said.
 
 It’s a request from my adorable little brother. Normally, I’d agree instantly,
 but this time it’s tricky. People like Eclara tend to take actions that close
@@ -1230,7 +1230,7 @@ malevolent.
 “I’d like to start negotiations, but I think neither of us has fully grasped the
 situation,” she said. “Shall we exchange information?”
 
-“…Fine,” I replied.
+“...Fine,” I replied.
 
 I desperately suppressed my urge to jump at the offer and gave a neutral
 response.
@@ -1254,7 +1254,7 @@ When I agreed, Eclara continued.
 “Then we’ll start by sharing,” she said. “You probably don’t trust us, so what
 would you like to know?”
 
-“Let’s see… Eclara-jou, you were originally bought as a test subject for this
+“Let’s see... Eclara-jou, you were originally bought as a test subject for this
 facility, correct?” I asked.
 
 “Yes, that’s correct,” Eclara answered. “After being exploited and worn down in
@@ -1270,8 +1270,9 @@ hard to imagine the severe internal damage she’d sustained.
 
 “By crushing your lower organizations,” I replied.
 
-“There wasn’t a single report… Oh, Foranada’s shadow operations are exceptional,
-aren’t they?” Eclara said, momentarily puzzled before nodding in understanding.
+“There wasn’t a single report... Oh, Foranada’s shadow operations are
+exceptional, aren’t they?” Eclara said, momentarily puzzled before nodding in
+understanding.
 
 As I suspected, they were unaware of their lower organizations’ destruction.
 That makes it even stranger—why did she rush to press Orca for an answer? There
@@ -1283,13 +1284,13 @@ Keeping my suspicions to myself, we continued our question-and-answer exchange.
 
 “When I escaped this facility, I met him along the way,” Eclara said. “I needed
 his help, and he wanted my power. We built a mutually beneficial relationship.
-From your question, I assume Kiteros-sama has already…?”
+From your question, I assume Kiteros-sama has already...?”
 
 “He’s been captured. Alive,” I said.
 
 “Haa,” Eclara sighed, exasperated. “He only had one shadow. He said excessive
 forces were a waste of resources. His final moves were sloppy, to say the
-least…”
+least...”
 
 Her tone showed no concern for Kiteros. Based on her earlier response, their
 relationship was purely transactional. Once the benefits dried up, that was the
@@ -1298,7 +1299,7 @@ end of it.
 “My turn,” I said. “Eclara-jou, what’s your goal? What did you want to achieve
 by creating ‘Outer’?”
 
-“…”
+“...”
 
 She paused for a beat at the more probing question.
 
@@ -1357,7 +1358,7 @@ with underage students.
 Still—
 
 “A Magic Eye with white magical power and ‘Outer,’ which artificially adds
-magical aptitudes… What a vile story,” I said, grimacing.
+magical aptitudes... What a vile story,” I said, grimacing.
 
 “You noticed, did you?” Eclara said, chuckling lightly. “Foranada-haku is quite
 knowledgeable about magical research.”
@@ -1377,7 +1378,7 @@ As I chose my words carefully, Eclara spoke up without reservation.
 transplantation of magical aptitudes. My Magic Eye and ‘Outer’ were products of
 that research.”
 
-“Transplantation of magical aptitudes… Transplantation\!?” Orca exclaimed.
+“Transplantation of magical aptitudes... Transplantation\?!” Orca exclaimed.
 
 At first, Orca tilted his head, but he quickly grasped the meaning, his eyes
 widening as his face paled.
@@ -1412,7 +1413,7 @@ Eclara laughed maniacally. “Hahaha, you understand, don’t you? Yes, ‘Outer
 made from human blood and flesh. It’s a drug extracted by mixing the bodies of
 killed slaves with chemicals. Truly, a medicine packed with human souls.”
 
-“So, Eclara, you…” Orca began, stunned but pressing forward.
+“So, Eclara, you...” Orca began, stunned but pressing forward.
 
 Eclara answered with a smile. “Oh, I’m a prototype, so it’s even more primitive.
 I’d lost my eyes before coming here, so they transplanted these ones as a
@@ -1435,8 +1436,8 @@ his dying wish\!”
 Her emotions overflowed like a broken fountain, a dark, almost repulsive love.
 Calling it love feels wrong—it’s more like an obsessive, repellent madness.
 
-“Haha, it’s my turn to ask,” she said. “I’ve grasped most of the situation, but…
-Do you intend to let me go?”
+“Haha, it’s my turn to ask,” she said. “I’ve grasped most of the situation,
+but... Do you intend to let me go?”
 
 “No,” I said flatly.
 
@@ -1534,7 +1535,7 @@ Eclara was too wary to make a move.
 
 “Can I make a selfish request?” Orca said.
 
-“Depends on the request…” I replied.
+“Depends on the request...” I replied.
 
 Even as a doting brother, I don’t make promises lightly. I believe a good older
 brother firmly refuses requests that could have negative consequences.
@@ -1545,7 +1546,7 @@ Orca gave a wry smile. “Can you leave this to me?”
 
 “No,” he said. “I want to take on everyone here.”
 
-“…” I fell silent, stunned.
+“...” I fell silent, stunned.
 
 It was an uncharacteristically bold proposal from Orca.
 
@@ -1556,7 +1557,7 @@ eija as well. Normally, he’d choose the safest, most certain approach.
 Orca pressed on. “It’s okay. I’ve got a solid plan to win. I want to be the one
 to put an end to her.”
 
-“…Alright. It’s yours,” I said.
+“...Alright. It’s yours,” I said.
 
 My hesitation was brief. Seeing the unwavering resolve in Orca’s eyes, I
 couldn’t dismiss his determination.
@@ -1568,7 +1569,7 @@ With that in mind, I relaxed my shoulders and shifted to spectator mode.
 to stop you.”
 
 Eclara’s eyes flicked toward me, not Orca. “I was bracing myself for what you’d
-do, but… entrusting everyone to Orca alone? Are you mocking me?” she said, her
+do, but... entrusting everyone to Orca alone? Are you mocking me?” she said, her
 words directed at me, the strongest person present.
 
 I didn’t respond. I’d already handed the stage to Orca. Now, it was just a
@@ -1632,7 +1633,7 @@ The moment this spell was unleashed, the battle was decided.
 
 In the next instant, every eija disintegrated into dust. And—
 
-“…” Eclara collapsed, unconscious, without even a chance to scream. Her limbs
+“...” Eclara collapsed, unconscious, without even a chance to scream. Her limbs
 were torn apart, her eyes crushed.
 
 Fortunately, the heat from the needles had cauterized her wounds, preventing her
@@ -1646,7 +1647,7 @@ the fight. His expression was, as expected, one of deep sorrow.
 I approached him, gave him a light hug, and ruffled his hair. “You did great,” I
 said.
 
-“…Yeah,” he replied, his voice trembling slightly.
+“...Yeah,” he replied, his voice trembling slightly.
 
 I pretended not to notice the quiver in his voice. He’s a boy with his pride,
 after all.

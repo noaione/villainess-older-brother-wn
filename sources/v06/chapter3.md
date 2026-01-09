@@ -81,8 +81,8 @@ is _incredibly_ dense.”
 
 I couldn’t agree more.
 
-For her to remain oblivious despite Yudai’s blatant attitude… I felt just a tiny
-bit of sympathy for him. Really, just a smidge.
+For her to remain oblivious despite Yudai’s blatant attitude... I felt just a
+tiny bit of sympathy for him. Really, just a smidge.
 
 It was baffling. Caron was usually so perceptive about others’ feelings, yet
 when it came to romance, she turned utterly clueless, rivaling the densest
@@ -129,7 +129,7 @@ Just before leaving the classroom, I glanced at Yudai.
 His jaw dropped in shock, exuding a profound sense of pathos. He’d been the
 center of attention, only to be left out in the cold. Understandable.
 
-…Yeah, as a fellow guy, I genuinely felt for him. Stay strong, hero. Your true
+...Yeah, as a fellow guy, I genuinely felt for him. Stay strong, hero. Your true
 heroine is out there somewhere.
 
 After school, having finished my business with the principal, I was walking
@@ -260,13 +260,13 @@ Seizing the opportunity, I channeled mana into the wires and tossed them at the
 brawling students. Pre-programmed with [Design], the threads autonomously bound
 all six. Caught off guard, they couldn’t resist.
 
-“What the hell is this!?”
+“What the hell is this?!”
 
 “Damn it, I can’t break free!”
 
 “Ow, it’s cutting into my arm!”
 
-“My magic’s not working—what’s going on!?”
+“My magic’s not working—what’s going on?!”
 
 “Damn, damn, damn!!”
 
@@ -303,13 +303,13 @@ Soon, the group, including those three, arrived.
 
 “Ugh,” Yudai blurted, his face twisting in distaste.
 
-His reaction mirrored mine from moments ago… and quietly, I vowed to reconsider
-my attitude toward him going forward.
+His reaction mirrored mine from moments ago... and quietly, I vowed to
+reconsider my attitude toward him going forward.
 
 “Until the matter is settled, you six will be detained by the student council.
 Understood?”
 
-“Yes…”
+“Yes...”
 
 The six students responsible for the incident nodded meekly at Arianorth’s icy
 tone.
@@ -407,7 +407,7 @@ Good. As [Scan] suggested, he’d grown. I felt a bit reassured.
 “What’s your business, Hero?” I asked, ignoring the intrigued looks from
 Arianorth and the others.
 
-Yudai replied earnestly, “I want… to fight you.”
+Yudai replied earnestly, “I want... to fight you.”
 
 “A mock battle, you mean?”
 
@@ -504,7 +504,7 @@ I sighed.
 
 “Fine. I accept your challenge.”
 
-“Really!?”
+“Really?!”
 
 “Yes. My word is final.”
 
@@ -636,7 +636,7 @@ he toppled face-first to the ground.
 
 “Lie there dawdling, and you’ll get crushed,” I taunted.
 
-“!?”
+“?!”
 
 My warning spurred Yudai to roll away, creating distance.
 
@@ -671,7 +671,7 @@ I’d held back, but the impact might’ve cracked a bone or two.
 With a casual thought, I watched Yudai sprawled on the ground. With [Body
 Enhancement] active, he shouldn’t be unconscious from that.
 
-“Guh…”
+“Guh...”
 
 As expected, he was still conscious, groaning in pain as he struggled to rise.
 
@@ -699,7 +699,7 @@ One last push.
 opponent,” I said, lacing my tone with a hint of mockery, knowing his
 personality would turn it into motivation.
 
-“!?”
+“?!”
 
 As expected, he tensed further, his fighting spirit flaring as he gritted his
 teeth.
@@ -795,7 +795,7 @@ So, it was natural for them to visit the library at this time.
 The timing, however, was less than ideal. At this rate, they’d run into Minerva,
 who was already back at the reading area.
 
-…Wait.
+...Wait.
 
 “No, maybe that’s fine,” I reconsidered after a brief moment of thought.
 
@@ -831,9 +831,9 @@ flinched at my voice, eyes widening.
 
 “Oh, it’s you. Greetings,” the Saintess said.
 
-“—!? G-Greetings,” Zigrald stammered.
+“—?! G-Greetings,” Zigrald stammered.
 
-Both quickly relaxed and responded, but… was it my imagination, or was the
+Both quickly relaxed and responded, but... was it my imagination, or was the
 Saintess’s reaction a bit excessive?
 
 “Earl Foranada, please, call me Seira. I may be the Saintess, but I’m just a
@@ -855,7 +855,7 @@ felt oddly jarring. I’d have to get used to it.
 “No need for formalities either. I understand my position, but at least in the
 academy, I’d prefer to be treated casually.”
 
-“…Alright. Is this better?”
+“...Alright. Is this better?”
 
 “Yes!” Seira beamed brightly.
 
@@ -930,7 +930,7 @@ It was cute, but not the best reaction for the setting.
 
 “Minerva, this is a library,” I reminded her.
 
-“Oh… S-Sorry,” she said.
+“Oh... S-Sorry,” she said.
 
 Libraries demand silence worldwide.
 
@@ -998,21 +998,21 @@ Exchanging a glance with Seira, we each restrained our companions.
 
 “Zigrald-kun, please calm down. This isn’t like you,” Seira urged.
 
-“Mgh…”
+“Mgh...”
 
 Both still had enough sense to recognize the situation. They quieted down,
 though their glares still clashed. It was better than shouting.
 
 As silence returned, Seira spoke up. “I think we should tell them.”
 
-“Seira!?” Zigrald exclaimed, eyes wide with surprise.
+“Seira?!” Zigrald exclaimed, eyes wide with surprise.
 
 Unfazed, she raised both hands and continued, “One’s the top student of our
 year, and the other’s the daughter of the Loramber dukedom. They surely have
 wisdom we lack. Doesn’t passing up this chance go against your goal,
 Zigrald-kun?”
 
-“Guh… Nngh.”
+“Guh... Nngh.”
 
 Unable to counter her logic, Zigrald fell silent.
 
@@ -1084,7 +1084,7 @@ foolish. Research is about exploring the unknown and making it known.”
 
 Minerva flashed a fearless smile, radiant enough to dispel dark clouds.
 
-“You… believe me?” Zigrald asked hesitantly.
+“You... believe me?” Zigrald asked hesitantly.
 
 “Not yet. I’ll believe it once it’s verified and proven. That’s what research is
 for, right?”
@@ -1097,7 +1097,7 @@ But the once-tense conversation had neatly resolved.
 
 “Hehe, we’ve got new allies, Zigrald-kun,” Seira said with a smile.
 
-“…Yeah. Thanks to your advice, Seira,” he replied, returning her smile.
+“...Yeah. Thanks to your advice, Seira,” he replied, returning her smile.
 
 Oh, wow. It seemed we’d been used to boost their rapport. Whether Seira realized
 it or not, she was quite adept at seizing opportunities.

@@ -25,7 +25,8 @@ The locations were at the farthest western and eastern borders of the territory.
 The knights present at each location managed to subdue the attackers after
 approximately ten minutes of combat.”
 
-“The fight took longer than I expected, but… Ah, it was that trick, wasn’t it?”
+“The fight took longer than I expected, but... Ah, it was that trick, wasn’t
+it?”
 
 “Yes. Several of the attackers exploded mid-battle, so the knights had to switch
 their tactics. That delay accounts for the longer combat duration.”
@@ -42,7 +43,7 @@ minutes.
 As I began to brainstorm potential improvements, I turned to the biggest issue
 at hand.
 
-“And… among the attackers was a candidate to be the next head of the Sawaid
+“And... among the attackers was a candidate to be the next head of the Sawaid
 family, right?”
 
 “Exactly.”
@@ -94,7 +95,7 @@ Since it could be triggered remotely, I analyzed and removed it as soon as she
 joined us. Luckily, because the mark was magic-based, it was relatively easy to
 erase.
 
-“Z-Zex-sama…”
+“Z-Zex-sama...”
 
 Shion, clearly embarrassed by my direct statement, couldn’t maintain her usual
 cool demeanor. Her cheeks flushed red, and she bit her lip in a display of
@@ -119,7 +120,7 @@ moves on them.”
 “I completely agree.”
 
 Shion nodded in agreement with my frown but quickly followed up with a
-“However…”
+“However...”
 
 “Knowing the inner workings of their family, I can’t say I’m surprised. They’ve
 built their status solely on their espionage skills, so their pride is
@@ -194,7 +195,7 @@ what I meant, tilting her head in bewilderment.
 But after a few seconds, her brain seemed to catch up, and she pushed her way
 through the overcrowded room to confront me.
 
-“W-what do you mean!?”
+“W-what do you mean?!”
 
 Clearly blindsided, her eyes spun with panic as she questioned me.
 
@@ -299,7 +300,7 @@ Rather than explaining it all, it’d be faster to just show them.
 
 "Well, whether it’s reckless or not, we’ll find out once we try."
 
-"Huh? Wait, you mean we’re going now!?"
+"Huh? Wait, you mean we’re going now?!"
 
 Laurel, dumbfounded for a moment, raised her voice in surprise when she saw us
 preparing to leave the room.
@@ -310,7 +311,7 @@ Of course we were. The sooner, the better.
 
 "W-Wait for us, please!"
 
-"W-Wait, are you serious!?"
+"W-Wait, are you serious?!"
 
 Ignoring the two as they scrambled to their feet, Caron and I confidently made
 our way toward the top club’s room.
@@ -522,7 +523,7 @@ need for excessive apologies."
 
 "Thank you for your magnanimity."
 
-"…You’re acting quite differently compared to yesterday."
+"...You’re acting quite differently compared to yesterday."
 
 I couldn’t help but point out the striking difference in his behavior.
 
@@ -536,7 +537,7 @@ underestimated nor overestimated his abilities, viewing himself simply as
 someone competent. While that might come across as arrogant, it seemed he could
 still accept that there were those above him.
 
-Hmm, who does this remind me of…?
+Hmm, who does this remind me of...?
 
 "Oh."
 
@@ -545,7 +546,7 @@ My eyes caught a glimpse of Minerva in the corner of the room.
 That's right—Minerva had a similar mindset. She, too, had absolute confidence in
 herself, yet possessed the grace to recognize someone superior. Unlike Jet, she
 wasn’t as full of herself, but the core of their personalities was quite
-similar. …Though if she heard me say that, I’m sure she’d vehemently deny it.
+similar. ...Though if she heard me say that, I’m sure she’d vehemently deny it.
 
 While I was lost in thought, Minerva spoke up.
 
@@ -705,7 +706,7 @@ reason. I calmed the fiery Laurel and urged him to continue.
 
 Jet indicated Yurika and Marina.
 
-This selection… I see.
+This selection... I see.
 
 I understood immediately.
 
@@ -764,7 +765,7 @@ club, and it had gone off relatively smoothly.
 
 <br/>
 
-“Are you advancing the conversation without me!?”
+“Are you advancing the conversation without me?!”
 
 As soon as we returned to the dilapidated clubroom, Laurel confronted me
 angrily.
@@ -799,7 +800,7 @@ would suffice.”
 “Then—”
 
 Laurel attempted to follow up on my agreement, but I raised my hand to halt her,
-continuing with, “But…”
+continuing with, “But...”
 
 “Such a minor achievement wouldn’t guarantee the club’s survival. Especially
 with the current student council president being that kind of person.”
@@ -822,7 +823,7 @@ explanation with that clarification.
 
 As I spoke, Laurel gradually lost her earlier fervor and sank to all fours.
 
-“You’re kidding… If club reductions are implemented, we’d be the first to go.”
+“You’re kidding... If club reductions are implemented, we’d be the first to go.”
 
 “I’m glad you understand the current situation. So let’s discuss how we’ll
 approach the match against the top club.”
@@ -839,7 +840,7 @@ sword, and a brown shield lay on the table, capturing everyone’s attention.
 
 Laurel gasped in astonishment.
 
-“Those are role cards, aren’t they!? Where on earth did you get them?”
+“Those are role cards, aren’t they?! Where on earth did you get them?”
 
 “Since we’re a Magical Piece Club and have none of the related equipment, I
 prepared them on my own.”
@@ -856,7 +857,7 @@ approach for the three.
 
 Surprisingly, the first to raise her hand was Yurika.
 
-“I’d like to be a ‘Green Mage.’ My specialty is close combat using my legs…”
+“I’d like to be a ‘Green Mage.’ My specialty is close combat using my legs...”
 
 She seemed to understand her own strengths. Although she had been trembling in
 silence until now, she could express her opinion when it mattered. What a
@@ -901,7 +902,7 @@ I found myself impressed and decided to ask Marina for her preference.
 
 “Do you have any preferences, Marina?”
 
-“Um, um…”
+“Um, um...”
 
 Still socially awkward around me, she took a moment to gather her words.
 
@@ -921,7 +922,7 @@ still deep in thought.
 “Still can’t decide?”
 
 “D-Don’t rush me! I’m just a failure, so I don’t have confidence in any of the
-roles…”
+roles...”
 
 “Then at least decide whether or not you want to be a magic user. I can adjust
 everything else from there.”
@@ -987,7 +988,7 @@ training for the match. Let’s get pumped up!”
 
 “W-What?!”
 
-“Wait, why are you leaving me, the captain, out of this!?”
+“Wait, why are you leaving me, the captain, out of this?!”
 
 While Caron and Marina eagerly joined in my call, the remaining two seemed
 disjointed.
@@ -996,4 +997,4 @@ disjointed.
 
 <br/>
 
-…It might be best to start by getting everyone in sync first.
+...It might be best to start by getting everyone in sync first.

@@ -59,7 +59,7 @@ same-sex attraction, but it’s not my preference. More importantly, I don’t w
 to harbor those feelings toward my brother. At least, not unless Orca himself
 wishes it, like Caron might.
 
-…That sounded suspiciously like a flag. Orca’s got a bit of a brother complex,
+...That sounded suspiciously like a flag. Orca’s got a bit of a brother complex,
 but I’d like to believe it won’t lead to _that_. It’ll be fine, right?
 
 Suppressing a vague unease, I glanced at Orca while sorting through documents.
@@ -80,7 +80,7 @@ Cute—no, wait.
 
 “Nah, I was just thinking it’s about time for a break,” I said.
 
-“Already? …Oh, looks like we’ve been at it for about two hours,” he replied,
+“Already? ...Oh, looks like we’ve been at it for about two hours,” he replied,
 checking a stopwatch-like magical device on his desk and nodding in realization.
 
 Thanks to my deliberately calm response, I managed to deflect smoothly.
@@ -101,7 +101,7 @@ It seemed he hadn’t sensed her presence. Shion’s stealth skills were impress
 but failing to notice her for two hours suggested Orca needed more training. I’d
 have to add that to his regimen.
 
-“…I feel like I just dug my own grave,” Orca muttered, his expression sour.
+“...I feel like I just dug my own grave,” Orca muttered, his expression sour.
 
 No big deal, I thought, shifting my attention to Shion. I didn’t want to take my
 eyes off her, and here’s why—
@@ -136,7 +136,7 @@ flirt, I can step out, you know.”
 
 “Sorry, sorry,” I said with a wry chuckle.
 
-“F-Flirt—\!?” Shion froze in embarrassment, but I ignored it—standard reaction.
+“F-Flirt—\?!” Shion froze in embarrassment, but I ignored it—standard reaction.
 If I indulged her, Orca might stay sulky.
 
 A few minutes later, after some minor chaos, Orca and I finally took a break.
@@ -343,7 +343,7 @@ path.
 
 “You went quiet all of a sudden. What’s wrong?” Minerva added.
 
-“Huh? …Oh, sorry. I was lost in thought,” I said, snapping back to reality.
+“Huh? ...Oh, sorry. I was lost in thought,” I said, snapping back to reality.
 
 That was careless. I’d let myself get absorbed in strategizing. Such thoughts
 were better saved for another time. Neglecting the two I love was unacceptable.
@@ -376,7 +376,7 @@ A fair point. Our year, filled with the game’s main characters, boasts the
 nation’s highest potential. A slight edge in magical skill wouldn’t cut it. With
 us hyper-enhanced students occupying the top five spots, the bar is sky-high.
 
-Plus, Dan and Miria’s academics are… well, let’s just say lacking.
+Plus, Dan and Miria’s academics are... well, let’s just say lacking.
 
 “Even so, Tara must’ve worked incredibly hard,” Minerva said. “She outscored the
 Third Prince, after all. Some magical knowledge has been gradually disseminated
@@ -468,16 +468,16 @@ Orca said, turning from his spot in front of us.
 
 I nodded. “That’s the one.”
 
-Pleased with his correct guess, Orca’s cheeks flushed as he smiled bashfully…
+Pleased with his correct guess, Orca’s cheeks flushed as he smiled bashfully...
 
 Calm down, he’s your adoptive brother. Stay calm.
 
 Maintaining my composure, I noticed others joining the discussion, drawn by the
 topic.
 
-“Magic tools for the academy… Magic Pieces?” ventured Nina Goshirane Harneus, a
-wolf-type beastman. Her brown hair was woven into a single braid, and her tall,
-striking figure marked her as one of my fiancées.
+“Magic tools for the academy... Magic Pieces?” ventured Nina Goshirane Harneus,
+a wolf-type beastman. Her brown hair was woven into a single braid, and her
+tall, striking figure marked her as one of my fiancées.
 
 Yes, fiancées. She insists, _“If a fiancée is someone you promise to marry, I’m
 your fiancée’s fiancée because I reserved my engagement.”_ It’s an eccentric
@@ -581,7 +581,7 @@ was dramatic.
 
 Her eyes widened as if they might pop out. “_You’re saying that_?”
 
-…Oops, I hadn’t been clear.
+...Oops, I hadn’t been clear.
 
 Hastily, I explained that falling from scholarship status would cut her funding.
 That seemed to satisfy Nina.
@@ -699,7 +699,8 @@ assistance, turn to him or other designated faculty.”
 The wristbands were then distributed.
 
 Once everyone had equipped them, Bruce spoke again. “Now, let’s test these
-wristbands with some mock battles in pairs… but that’s too ordinary and boring.”
+wristbands with some mock battles in pairs... but that’s too ordinary and
+boring.”
 
 He turned his gaze toward us, grinning mischievously.
 
@@ -886,8 +887,8 @@ immobilized and subjected to a merciless facial onslaught would make most people
 lose their nerve. Look, even our classmates are horrified. Heck, everyone but
 Nina is recoiling.
 
-…Well, he’s a Rank A adventurer with a title. Let’s believe his mental fortitude
-matches.
+...Well, he’s a Rank A adventurer with a title. Let’s believe his mental
+fortitude matches.
 
 Eventually, Bruce’s HP gauge depleted, cementing his defeat. Having fainted from
 sheer terror, he was carried off on a stretcher.

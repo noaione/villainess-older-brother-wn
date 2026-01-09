@@ -90,7 +90,7 @@ an initial impression of “adorable,” but she was undeniably a beauty.
 I tried to observe her cautiously, but she spoke first.
 
 “Well, well,” she said, her tone self-absorbed. “Nie was so paranoid about you,
-I got curious and came to see… Hmm, hmm.”
+I got curious and came to see... Hmm, hmm.”
 
 Her words weren’t directed at me—a soliloquy, more like self-questioning.
 
@@ -162,7 +162,7 @@ Her phrasing confused me. Is she using some kind of perception-blocking magic? I
 didn’t feel resistance to any spell, nor did I sense mana movement indicating
 one.
 
-…No, wait. She mentioned her “mana light blinding eyes.” Does her mana itself
+...No, wait. She mentioned her “mana light blinding eyes.” Does her mana itself
 have a perception-blocking effect?
 
 Now that she mentions it, her mana does feel somewhat dazzling.
@@ -174,7 +174,7 @@ Did she hide it from other Magic Administrators, or is it a side effect of her
 seal? Either way, I need to rethink my strategy against her. It may not affect
 me much, but if it works on others, she could run rampant. What a pain.
 
-If I could deal with her now, I wouldn’t need to rethink anything… but we’ll
+If I could deal with her now, I wouldn’t need to rethink anything... but we’ll
 see.
 
 For now, I’ll isolate her.
@@ -354,7 +354,7 @@ overconfidence, and it worked better than expected.
 I was rattled by the sudden boss fight, but the results were solid. Now, I’ll
 review the intel and work on countermeasures.
 
-“…Time to head back,” I muttered.
+“...Time to head back,” I muttered.
 
 Physically and magically, I’ve got plenty left, but the mental fatigue is real.
 I need to get home and let Caron and the others heal me.
@@ -409,8 +409,8 @@ intelligence division, making her essential for this discussion.
 After a brief exchange, I pulled a table and chairs for three from \[Phase
 Concealment\]. Sitting down, I gestured for them to do the same.
 
-…Might as well serve tea. I’m pretty sure I stored some freshly brewed stuff in
-\[Phase Concealment\].
+...Might as well serve tea. I’m pretty sure I stored some freshly brewed stuff
+in \[Phase Concealment\].
 
 After quickly setting up, I cut to the chase. With this group, small talk was
 unnecessary.
@@ -437,7 +437,7 @@ would’ve ended by now.
 I gave a wry smile. “The Demon King sealed in the west of the Holy Kingdom,
 reinforced every century by a saintess chosen by God. That one.”
 
-“Oh…” Shion sighed, slumping as if hoping it was a misunderstanding.
+“Oh...” Shion sighed, slumping as if hoping it was a misunderstanding.
 
 Garuna chimed in. “For real, it was Gruewen?”
 
@@ -463,11 +463,11 @@ After all, a malevolent, top-tier human threat had resurfaced.
 
 Having shared that the “Western Demon King” was out, I detailed the encounter.
 
-“…So, I focused on gathering intel and sent her packing,” I concluded.
+“...So, I focused on gathering intel and sent her packing,” I concluded.
 
-“Wow, just…” Garuna trailed off.
+“Wow, just...” Garuna trailed off.
 
-“As expected of Zex-sama…” Shion said, her tone weary.
+“As expected of Zex-sama...” Shion said, her tone weary.
 
 Huh? Why were they giving me exasperated looks?
 
@@ -524,7 +524,7 @@ it. If it was broken, the curse fallout would be everywhere.”
 “Exactly,” I said. “If the seal were broken, the world wouldn’t be this calm. I
 confirmed just now—the Demon King’s still sealed.”
 
-“When did you…?” Shion asked.
+“When did you...?” Shion asked.
 
 “I’ve got \[Phase Connection Gate\],” I said.
 
@@ -793,7 +793,7 @@ _New magic_?
 
 “Understood,” she said.
 
-“What—can’t move\!?” he shouted. “You guys—what—mmph\!”
+“What—can’t move\?!” he shouted. “You guys—what—mmph\!”
 
 Shion bound him with faux mithril wires, silencing him before he could make a
 scene. Complete shutdown.
@@ -834,7 +834,7 @@ Since it genuinely boosts strength, a rumor’s spread among the town’s
 adventurers that “only those with heroic potential are chosen.” The adventurer
 guild doesn’t seem to care much about it either.
 
-…Are they idiots? A random merchant handing out drugs would normally be too
+...Are they idiots? A random merchant handing out drugs would normally be too
 sketchy to touch. Fine, the young, inexperienced adventurers who took it might
 get a pass, but why aren’t the others suspicious?
 

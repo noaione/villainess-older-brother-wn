@@ -46,7 +46,7 @@ someone this noisy boy is wary of.
 To think I’d stay quiet after hearing about him is absurd. Everyone under me
 knows I’m a bundle of curiosity.
 
-…Oh, right. It’s only been half a year since I met this boy, hasn’t it? That
+...Oh, right. It’s only been half a year since I met this boy, hasn’t it? That
 explains it.
 
 “Sorry, I forgot,” I said casually.
@@ -138,8 +138,8 @@ it’s best to observe.
 
 Being a background player doesn’t suit my radiant self, but I’m already sealed,
 so what’s the difference? I’ll leave the tedious tasks to my subordinates and
-wait patiently until the last moment. …Oh, maybe developing a new spell would be
-fun.
+wait patiently until the last moment. ...Oh, maybe developing a new spell would
+be fun.
 
 Compared to the centuries I spent sealed, this is nothing. I doubt there’s even
 a year left. I can endure that much.
@@ -188,7 +188,7 @@ That said, due to my aptitude, I can only use a fraction of mental magic. Things
 like calming agitation or slightly reading others’ emotions. Compared to the
 depth of mental magic, I’ve only scratched the surface.
 
-…Maybe that’s for the best, since mastering it all might burden me with
+...Maybe that’s for the best, since mastering it all might burden me with
 unnecessary trouble.
 
 I mean, Zex-san, who uses emotion-reading magic constantly, is a monster. Even
@@ -334,7 +334,7 @@ strategy, we were assigned as his attendants in place of Shion-senpai.
 I asked if there was another reason, but Garuna insisted there wasn’t.
 
 “Hmm,” I murmured, pondering. Was the difference because she’s a Magic
-Administrator? But Shion-senpai said that wasn’t it…
+Administrator? But Shion-senpai said that wasn’t it...
 
 Lost in thought, my hand stilled over my meal, when Maron suddenly spoke up.
 
@@ -345,7 +345,7 @@ Lost in thought, my hand stilled over my meal, when Maron suddenly spoke up.
 “It’s simple\!” she replied breezily. “Garuna was only looking at Zex-sama,
 right?”
 
-“We were too… Wait, only?” I said, catching on to her phrasing.
+“We were too... Wait, only?” I said, catching on to her phrasing.
 
 “Exactly\!” Garuna confirmed, nodding enthusiastically.
 
@@ -377,7 +377,7 @@ left behind, that’s putting the cart before the horse, right?”
 
 “Guh,” I muttered, unable to retort.
 
-To think I’d be outdone by Garuna… Have I grown senile?
+To think I’d be outdone by Garuna... Have I grown senile?
 
 “I feel like I’m being totally mocked\!” Garuna whined.
 
@@ -413,7 +413,7 @@ training.
 “Oh, come on,” I said. “I’m not saying you need to be as serious as me, but a
 little more diligence wouldn’t hurt.”
 
-“I’ll… try,” Garuna muttered.
+“I’ll... try,” Garuna muttered.
 
 Ugh, that’s the response of someone who won’t follow through.
 
@@ -485,7 +485,7 @@ of power? It’s baffling.
 Lying flat on our backs, we sat up almost simultaneously.
 
 Ugh, why do we sync like that? It’s why Zex and the others tease us about being
-too alike…
+too alike...
 
 Still, complaining here would stall the conversation. I’m not foolish enough to
 repeat mistakes I’ve learned from.
@@ -495,7 +495,7 @@ For the next hour or so, Caroline and I exchanged thoughts on our tactics.
 “Look, stop being stubborn and hand it over,” I said, exasperated. “If your hair
 gets damaged, Zex will hate you.”
 
-“…Fine,” Caroline relented.
+“...Fine,” Caroline relented.
 
 After washing off sweat in the training ground’s shower, I was drying Caroline’s
 hair.
@@ -546,7 +546,7 @@ to six can be a handful. Some are precocious, too.”
 
 “They try to touch my chest or butt,” she said.
 
-“Oh…” I muttered.
+“Oh...” I muttered.
 
 Well, she _is_ unnecessarily endowed. That’s a sentiment I can’t relate to.
 
@@ -616,15 +616,15 @@ It’s a bit embarrassing, though.
 
 Hearing my answer, Caroline gazed into space, deep in thought.
 
-“I see…” she murmured. “Orca was saying recently that he’s decided on his dream
-too. I suppose I should figure something out as well.”
+“I see...” she murmured. “Orca was saying recently that he’s decided on his
+dream too. I suppose I should figure something out as well.”
 
 “No need to rush, but having a dream or goal definitely gives life more
 purpose,” I said.
 
 “You’re right,” she agreed. “I’ll think it over carefully.”
 
-“Good idea,” I said. “And… done drying.”
+“Good idea,” I said. “And... done drying.”
 
 The conversation wrapped up just as I finished. Heh, nice work if I do say so
 myself. Caroline’s blonde hair looked even more radiant now.
@@ -635,13 +635,13 @@ this well myself.”
 “You’re welcome,” I replied. “It’s nice to be praised, but you really should
 learn to do it yourself.”
 
-“…I’ll try,” she said.
+“...I’ll try,” she said.
 
 “That’s the ‘I won’t do it’ response, isn’t it?” I said, exasperated.
 
 We both burst out laughing.
 
-It felt so… youthful.
+It felt so... youthful.
 
 A moment I thought I’d never have, given my position, has enriched my life.
 
@@ -667,7 +667,7 @@ appeared.
 I was so stunned by the abruptness that it took me a full minute to snap out of
 it.
 
-“…Huh?” I muttered.
+“...Huh?” I muttered.
 
 But it was too late. Nina-san was already gone.
 
@@ -681,7 +681,7 @@ already there. She wore a light cream-colored shirt paired with high-waisted
 black tailored shorts—a look that exuded both freshness and vitality. Combined
 with her tall frame, she looked incredibly cool.
 
-_Wow, she’s really dressed up…_ I thought.
+_Wow, she’s really dressed up..._ I thought.
 
 It’s a bit rude to admit, but I was a little surprised. My image of Nina-san was
 always of someone fighting, so I hadn’t expected her to dress so stylishly.
@@ -718,8 +718,8 @@ beauty and fame as a titled adventurer, it made sense. Standing next to her,
 with my messy hair, I felt a bit sorry for being so out of place.
 
 But why did Nina-san invite _me_? She could’ve gone with someone less gloomy and
-introverted. Someone like her best friend Caroline-san, her disciple Yurika-san…
-or even gone on a date with Zex-sama.
+introverted. Someone like her best friend Caroline-san, her disciple
+Yurika-san... or even gone on a date with Zex-sama.
 
 My questions lingered unanswered, and in the end, I couldn’t help but ask during
 our final stop—a meal at a diner Nina-san recommended.
@@ -749,7 +749,7 @@ Skia. Wanting to be independent for your family is admirable, and keeping up
 with Foranada’s grueling training is impressive. As for your magic skills, even
 Caron and Minerva have praised you.”
 
-“Wanting to be independent feels like a normal thing… Wait, those two praised
+“Wanting to be independent feels like a normal thing... Wait, those two praised
 me?” I asked, shocked.
 
 Caroline-sama, who drags me to the clinic every weekend for intense training,
@@ -765,7 +765,7 @@ terrible at teaching. I’ll talk to her later.”
 or it’ll cause problems later. Minerva will keep teaching others, and not
 praising her students is a fatal flaw. It needs fixing now.”
 
-“That’s… true,” I conceded.
+“That’s... true,” I conceded.
 
 I thought it wasn’t worth mentioning, but she shut me down easily.
 
@@ -816,7 +816,7 @@ fingers.
 Now that she mentioned it, for someone as bad at socializing as me, I guess I am
 getting along with them? But it’s mostly because they approach me first.
 
-“W-with Orca-kyu…sama and Marina, it’s because they’re so outgoing,” I said.
+“W-with Orca-kyu...sama and Marina, it’s because they’re so outgoing,” I said.
 
 Those two are so radiant, the complete opposite of me. They embody “light.”
 
@@ -861,7 +861,7 @@ strong.
 I couldn’t let her stay sprawled on the ground forever, so I called out,
 “Yurika, get up. We’re going to report the request’s completion to the guild.”
 
-“Just… a little break…” she pleaded.
+“Just... a little break...” she pleaded.
 
 “No way,” I said firmly. “The sun’s setting. It’s easier to get attacked by
 magical beasts in the dark. Move it.”
@@ -879,7 +879,7 @@ through. Compared to that, I’m just an ogre.
 As I recalled those old training days, my mind drifting, Yurika’s voice
 trembled. “Is the earl _that_ harsh?”
 
-“…Want to hear about it?” I asked.
+“...Want to hear about it?” I asked.
 
 “Uh, I’ll pass,” she said quickly.
 
@@ -919,7 +919,7 @@ noisy, but not so much that we couldn’t talk.
 
 “How was your first request?” I asked.
 
-“Exhausting…” Yurika sighed, her long ears drooping, clearly showing her
+“Exhausting...” Yurika sighed, her long ears drooping, clearly showing her
 fatigue.
 
 Then she shot me a half-lidded glance. “Isn’t taking on a pack of Gray Wolves
@@ -949,7 +949,7 @@ teary-eyed.
 
 “You came out unscathed,” I pointed out.
 
-“That’s true, but…” she trailed off.
+“That’s true, but...” she trailed off.
 
 “No change in plan,” I said. “Keep it up.”
 
@@ -1120,7 +1120,7 @@ helpful.”
 “I’m also using a weakening debuff that makes it hard to recognize weakening
 debuffs,” he explained. “So, it’d be more troubling if you _did_ notice.”
 
-“Huh? …Oh, forgive me\!” I said, bowing again as another slip escaped me.
+“Huh? ...Oh, forgive me\!” I said, bowing again as another slip escaped me.
 
 But Zex-sama responded with leniency. “Raise your head, Shion. I really don’t
 mind. Honestly, it’s a bit sad to be treated so formally when we’re alone.
@@ -1170,7 +1170,7 @@ spell—\[Hishiki\]—wouldn’t work.”
 
 “Depends on the person, but roughly a ten percent reduction,” he estimated.
 
-“Ten percent…” I murmured.
+“Ten percent...” I murmured.
 
 In combat, where small differences can be fatal, a ten percent reduction is
 massive. What’s scarier is that the target doesn’t even realize they’re

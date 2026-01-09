@@ -255,7 +255,7 @@ Well, that’s if I _formally_ accuse them, anyway.
 
 <br/>
 
-“Hahaha…”
+“Hahaha...”
 
 “What’s so funny?”
 
@@ -271,7 +271,7 @@ And the second—
 
 “When did I ever say I’d be filing a formal complaint?”
 
-“What!?”
+“What?!”
 
 For the first time, the king of the Forest Kingdom’s eyes widened in shock. His
 mouth hung open in disbelief.
@@ -321,7 +321,7 @@ They were likely preparing for a coordinated bombardment of spells.
 
 Dealing with this would be easy enough, but it would be a hassle to fight them
 all one by one. Killing them all when they didn’t even know the full situation
-seemed excessive… yeah, I’d hold back a bit.
+seemed excessive... yeah, I’d hold back a bit.
 
 I quickly sorted through my options and activated my magic as naturally as
 breathing.
@@ -355,7 +355,7 @@ protected by his Spirit King.
 Well, to be precise, I had deliberately spared him. After all, I had no
 intention of letting him off with just [Compression].
 
-“Is this… [Gravity Press]!?”
+“Is this... [Gravity Press]?!”
 
 “No, I don’t sense any trace of earth magic. Is this an unknown spell?!”
 
@@ -416,7 +416,7 @@ Both the quick-tempered king of the Forest Kingdom and the Spirit King were
 charging at me with their swords and spells, showing not the slightest awareness
 of their weakness.
 
-“Hah…”
+“Hah...”
 
 I sighed, then sprang into action.
 
@@ -454,7 +454,7 @@ It seems my past experience developing [Wings of Flight] for Noma had paid off.
 Thanks to that, I was able to create a spell effective against spirits on the
 spot.
 
-“Spirit King!?”
+“Spirit King?!”
 
 The King of the Forest Kingdom shouted in shock, stunned by his companion’s
 sudden fall.
@@ -473,7 +473,7 @@ weak, but because I had dispersed the impact throughout his body to avoid
 inflicting fatal damage. Right now, he was experiencing intense pain coursing
 through every nerve.
 
-“Ugh... Gah... Gahh…”
+“Ugh... Gah... Gahh...”
 
 The pain was so overwhelming that he couldn’t even scream. He wheezed, his
 breathing labored, his body slumping to the side.
@@ -488,7 +488,7 @@ I grabbed the king by the neck, hoisting him into the air.
 His face contorted in pain as he writhed in my grip, struggling to break free. I
 raised my other fist, preparing for what came next.
 
-“U-agh!?”
+“U-agh?!”
 
 He seemed to realize what was about to happen. His eyes went wide, and he began
 to thrash in a futile attempt to escape.
@@ -545,7 +545,7 @@ behind it.
 After all, the reason I’d enclosed the entire kingdom was to prevent the escape
 of the witch who was likely lurking in the shadows.
 
-“So, you… you’re a pawn of those Holy Kingdom monkeys, aren’t you?!”
+“So, you... you’re a pawn of those Holy Kingdom monkeys, aren’t you?!”
 
 “Enough of that. Just answer the question.”
 
@@ -581,7 +581,8 @@ I narrowed my eyes at the king’s words.
 
 They seemed to have decided that the sacrifices in this matter were necessary.
 After all, they claimed it was to protect the world. With no Light Mages or
-Light Spirits in their kingdom… they had no choice but to call one from outside.
+Light Spirits in their kingdom... they had no choice but to call one from
+outside.
 
 However, that didn’t justify kidnapping people from other countries. There had
 to be more peaceful options, but they probably thought they couldn’t afford to
@@ -597,10 +598,10 @@ years, would be challenging, but she seemed the least risky choice compared to
 the other two.”
 
 “To think you ended up stepping on such a massive landmine by process of
-elimination… there’s no other word for it but foolish. Did you not know that I
+elimination... there’s no other word for it but foolish. Did you not know that I
 have close ties with that noblewoman?”
 
-“Grr… as if I’d expect you to come charging in alone.”
+“Grr... as if I’d expect you to come charging in alone.”
 
 The king of the Forest Kingdom gritted his teeth, and his assessment was on
 point. No matter how skilled an A-rank with a title might be, it’s not normal
@@ -649,7 +650,7 @@ witch-made drug.”
 “Cursed items? ‘Leaf’? What are you saying? Are you mocking me? All I did was
 order the kidnapping of the Light Mage Caroline!”
 
-“…”
+“...”
 
 Though visibly shaken, he showed no signs of the nervousness typical of someone
 lying. It seemed he was telling the truth.
@@ -666,7 +667,7 @@ the worst kind of cycle.
 
 And the result of that cycle would be—
 
-“…the resurrection of the Demon King.”
+“...the resurrection of the Demon King.”
 
 I clicked my tongue softly.
 
@@ -706,7 +707,7 @@ The grand castle, adorned in white and green, crumbled under the deafening roar
 of destruction. It had stood for centuries, bearing witness to the kingdom’s
 long history—yet now, without a shred of mercy, it was reduced to rubble.
 
-“A-ah… aaahhhhhh!?!?”
+“A-ah... aaahhhhhh?!?!”
 
 The king of the Forest Kingdom cried out in near-hysterical agony.
 
@@ -755,7 +756,7 @@ was clearly desperate, but this went beyond any ordinary distress.
 The woman stood facing the trees on the Empire’s side, casting spells over and
 over. Though nothing was visible, waves of magic rippled out from her hands.
 
-“Why… why, why, why, why, why!?!?”
+“Why... why, why, why, why, why?!?!”
 
 Her voice, tinged with madness, reverberated through the dark forest. The silent
 woods, absent even the chirping of insects, trembled under her piercing screams.
@@ -797,10 +798,10 @@ to disaster. I had to stay calm.
 
 The witch made no effort to conceal her rage.
 
-…No, she wasn’t hiding it on purpose. It was a tactic—using the negative emotion
-of anger to amplify her curses. A limitless stream of curses emanated from her
-body, making her dark hair flow as though caught in a current. The density of
-the curses had intensified enough to become almost tangible.
+...No, she wasn’t hiding it on purpose. It was a tactic—using the negative
+emotion of anger to amplify her curses. A limitless stream of curses emanated
+from her body, making her dark hair flow as though caught in a current. The
+density of the curses had intensified enough to become almost tangible.
 
 Clearly, the witch hadn’t given up on escaping the barrier. She was trying to
 shatter it by increasing the power of her curses.
@@ -829,7 +830,7 @@ the barrier to me.
 
 However—
 
-“I can’t teleport!? What did you do this time!?”
+“I can’t teleport?! What did you do this time?!”
 
 As expected, she tried to make a break for it the moment my attention was
 diverted by the barrier’s release, attempting to flee with [Shadow Walk].
@@ -844,7 +845,7 @@ as she prepared for battle.
 
 “Die!”
 
-“This is…”
+“This is...”
 
 This wasn’t just an insult—it was a curse vocalized with deadly intent, capable
 of killing anyone who heard it. I was shielded with mental magic, so it didn’t
@@ -867,7 +868,7 @@ deliver the final blow.
 
 But my opponent wasn’t one to go down quietly.
 
-“Don’t… underestimate… meeee!!”
+“Don’t... underestimate... meeee!!”
 
 She activated the intermediate dark magic [Abyss Spike], causing two black
 stakes to shoot up from my shadow. The attack came from behind, aiming at my

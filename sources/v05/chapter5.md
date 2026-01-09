@@ -63,7 +63,7 @@ In response, I let out an awkward laugh.
 
 "Sorry. So, what was the discussion about?"
 
-"Were you not listening at all!?"
+"Were you not listening at all?!"
 
 Laurel exclaimed, her mouth agape in disbelief at my response.
 
@@ -246,7 +246,7 @@ their supervisor later. That’s not something you’d want, right?”
 
 “Hmm. If that’s the case, I understand.”
 
-“It’s wrong to take away someone else’s job…”
+“It’s wrong to take away someone else’s job...”
 
 The two of them nodded in agreement after hearing my reasoning and released
 their grip on their luggage.
@@ -484,7 +484,7 @@ sharp glare.
 
 “If it’s not harassment, then what would you call it?”
 
-“Wha—!?”
+“Wha—?!”
 
 Though her tone sounded somewhat absentminded, the emotions behind her words
 were cold. The red-haired guy, just an ordinary student, found himself at a loss
@@ -583,7 +583,7 @@ My territory wasn’t so fragile that a petty quarrel with commoners could
 undermine its strength. In fact, if anyone tried to mock us because of this
 incident, I believed we would crush them as if they were asking for it.
 
-…Though I also felt that was a bit too brutish, I could confidently say that
+...Though I also felt that was a bit too brutish, I could confidently say that
 Minerva’s worrying scenario wouldn’t come to pass.
 
 Moreover, this match would likely be far more brutal for Club C than any other
@@ -619,7 +619,7 @@ among the top clubs, it would likely be a struggle to overcome this handicap.
 The difference in numbers had a significant impact on the situation.
 
 That said, I—no, we—weren’t worried about their defeat. With Caron and Nina
-participating, the other three had trained alongside me… so I had complete
+participating, the other three had trained alongside me... so I had complete
 confidence.
 
 “Now, we will begin the simplified match of _Magical Piece_. I, Shion, will be
@@ -644,13 +644,13 @@ had become reality.
 I pressed my hand against my forehead and looked up to the sky, then glanced at
 Caron.
 
-“…I knew it.”
+“...I knew it.”
 
 My expectations hadn’t been betrayed. The scene I had envisioned lay before me.
 
-“What the hell is that…?”
+“What the hell is that...?”
 
-“Whoa…”
+“Whoa...”
 
 The stunned voices of Minerva and Orca echoed, followed by the members of Club
 C, the attendants on alert, and even Laurel and the others, who were supposed to
@@ -698,7 +698,7 @@ herself.
 
 After I finished explaining, Minerva buried her face in her hands.
 
-“When you and Noma get together, you don’t make anything decent, do you…?”
+“When you and Noma get together, you don’t make anything decent, do you...?”
 
 “How rude! We’ve produced some useful things, too.”
 
@@ -860,7 +860,7 @@ the building.
 There stood Laurel, holding her magical auxiliary staff, repeatedly practicing
 her debuff spells.
 
-This had been going on since the first day of camp… or rather, it was likely a
+This had been going on since the first day of camp... or rather, it was likely a
 routine she’d established since the match against the top club had been decided.
 I had seen her engaged in independent training before, so it was easy to imagine
 this.
@@ -963,7 +963,7 @@ beginning, right?”
 
 “Yeah. I watched the whole time during camp.”
 
-“Really…?”
+“Really...?”
 
 As I nodded, Laurel covered her face with her hands. Though it was dim, I could
 tell her cheeks were bright red. She was blushing.

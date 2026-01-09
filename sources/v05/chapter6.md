@@ -168,7 +168,7 @@ Wiemlay chuckled at my astonished reaction.
 “Is it really that surprising? Considering the popularity of Magical Piece at
 the academy, I think it’s a very feasible plan.”
 
-“That might be true, but… isn’t it a bit early?”
+“That might be true, but... isn’t it a bit early?”
 
 “That just shows how popular it is. There are even requests from graduates to
 establish places outside the academy where they can play Magical Piece.”
@@ -211,7 +211,7 @@ had been completed.
 
 I glanced over my shoulder and understood.
 
-“…I see. It didn’t work out, did it?”
+“...I see. It didn’t work out, did it?”
 
 Realizing the outcome of her investigation from Shion’s expression, a hint of
 disappointment crept into my voice.
@@ -227,7 +227,8 @@ disappointing, but I had to accept the reality.
 
 Suppressing the complex emotions swirling within me, I tried to comfort Shion.
 
-“Thank you for your hard work. I pushed you too hard. Just rest for today… Tch.”
+“Thank you for your hard work. I pushed you too hard. Just rest for today...
+Tch.”
 
 However, my words were interrupted halfway by an unpleasant presence detected by
 my sensing magic.
@@ -291,14 +292,14 @@ channel. Shion, you should rest without worry._”
 The issue had been resolved before it could escalate. As long as it didn’t cause
 a significant commotion, I wanted her to take a proper break.
 
-“_However…_”
+“_However..._”
 
 However, from Shion's perspective, she couldn't simply accept that. She seemed
 determined to press the issue.
 
 “_Please, just rest. I’m begging you._”
 
-“_Ugh… Understood._”
+“_Ugh... Understood._”
 
 Though it felt somewhat unfair, I decided to take advantage of her feelings. I
 gave her a slightly pleading look.
@@ -333,7 +334,7 @@ intentions.
 
 Thus, I opened a [Phase Connection]. I needed to make a few adjustments.
 
-And where would it lead…?
+And where would it lead...?
 
 <br/>
 
@@ -403,7 +404,7 @@ dwell on it. Such trivial matters pale in comparison to Onii-sama’s greatness.
 “You’re not nervous at all, even with the match right around the corner,” Yurika
 commented.
 
-“I envy your strong mental fortitude…” Laurel and Yurika complained. They both
+“I envy your strong mental fortitude...” Laurel and Yurika complained. They both
 looked somewhat pale, clearly tensed up.
 
 It was no surprise. For both of them, this was their first match. Aside from the
@@ -509,7 +510,7 @@ the constraints of my role card, it was impossible right now.
 
 “Closer! Hurry!”
 
-“What’s going on!?”
+“What’s going on?!”
 
 “It’s too cramped!”
 
@@ -534,14 +535,14 @@ We barely made it in time.
 
 As I felt a sense of relief within, Laurel raised her voice.
 
-“What’s that sound!?”
+“What’s that sound?!”
 
 “Enemy attack,” Nina replied flatly.
 
 “A barrage from the ‘Red Mage’ at the start. It’s likely an advanced water magic
 spell—[Hydro Rain].”
 
-“A starting barrage!? Is that even allowed!?”
+“A starting barrage?! Is that even allowed?!”
 
 “If we’re talking about whether it’s allowed or not, it is.”
 
@@ -627,7 +628,7 @@ members remain the same. Either way, we will have to endure some attacks.”
 as planned. While Caron and I can handle it, you two aren’t seasoned enough to
 improvise.”
 
-“Ugh, that’s true, but…”
+“Ugh, that’s true, but...”
 
 “Can you really take that attack multiple times?”
 
@@ -697,7 +698,7 @@ Aqua Arrows.
 
 The result was predictable.
 
-“No way!?”
+“No way?!”
 
 “Whoa, that’s amazing!”
 
@@ -804,8 +805,8 @@ damage. He hadn’t sustained as much harm as it appeared.
 It was infuriating. It grated on my nerves that someone could exhibit such
 behavior while still being so capable.
 
-…Let’s calm down. Getting heated won’t help us win this match. In a battle, it’s
-the one who loses their composure who ultimately loses.
+...Let’s calm down. Getting heated won’t help us win this match. In a battle,
+it’s the one who loses their composure who ultimately loses.
 
 Moreover, I wasn’t alone now. With two people I needed to protect, I had to
 fight steadily and responsibly.
@@ -872,7 +873,7 @@ And just as the torrent of magic was about to be unleashed from Jet’s sword—
 
 “[Magic Diffusion]!”
 
-“What!?”
+“What?!”
 
 Due to the effect of Laurel’s spell, the magic Jet had gathered dispersed into
 mist.
@@ -896,7 +897,7 @@ I seized this perfect opportunity without hesitation!
 
 “Take this!!!”
 
-“Gah!?”
+“Gah?!”
 
 With all my strength, I swung my “Sharuur,” sending Jet flying away.
 
@@ -995,7 +996,7 @@ Swallowing the unease that arose in my heart, I resolved to voice my thoughts.
 
 “Was it also a coincidence that you learned that curse?”
 
-“Wha—!?”
+“Wha—?!”
 
 Laurel’s shoulders jumped slightly, her eyes widening to the point of
 overflowing. Her reaction was tantamount to a confession.
@@ -1096,7 +1097,7 @@ trembling was changing. The fear in her was gradually being replaced by anger.
 
 In a low voice, she muttered,
 
-“...isn’t…”
+“...isn’t...”
 
 “What did you say?”
 
@@ -1124,7 +1125,7 @@ She continued with a piercing cry.
 “I’ve always been a failure. No matter what I did, I could only achieve the
 lowest results, and I was ridiculed by my peers. The teachers at the academy
 treated it as just a job, and I never felt any warmth from them. I thought that
-if I started attending school… if I could learn something, maybe things would
+if I started attending school... if I could learn something, maybe things would
 change, but in the end, I remained a failure. The only thing that increased was
 the number of people who looked down on me. I worked hard, harder than anyone
 else, but the results never followed. No one paid attention to me. Not a single
@@ -1140,7 +1141,7 @@ only person who loved me. When I heard that, how could I not lend my strength?
 What’s wrong with seeking my real mother, who exists in reality, over a fleeting
 dream that could never come true?!”
 
-“Laurel…”
+“Laurel...”
 
 So this is the tactic of the Forest Kingdom. If you place exquisite bait in
 front of a hungry beast, it’s only natural that it would bite.
@@ -1224,7 +1225,7 @@ Laurel wore a bitter smile.
 would fail. And once it failed, I would be useless. The contract would be void.
 So, I had to pay the price for betraying my friends.”
 
-“You used the curse with this in mind from the start… Tch.”
+“You used the curse with this in mind from the start... Tch.”
 
 I hurriedly used [Harmony Adjustment]. However, the outflow of magical power did
 not stop at all.
@@ -1250,18 +1251,19 @@ I bit my teeth in frustration at my own powerlessness to heal her immediately.
 running away! If you really want to take responsibility, then live and atone for
 it!”
 
-“Hahaha, Zex, you’re harsh. …I’m weak. Really weak. That’s why I couldn’t face
+“Hahaha, Zex, you’re harsh. ...I’m weak. Really weak. That’s why I couldn’t face
 the reality that awaits me. I can’t show my face to Caroline-san and the others,
 and I can’t accept that my mother is dead. So, this is the only option left,
 right? I wanted to at least help the club survive and fade away.”
 
-“You…”
+“You...”
 
-“Ah… I’m so sleepy…”
+“Ah... I’m so sleepy...”
 
 “Laurel!”
 
-“…If I could be… seen off by such a handsome guy… it wouldn’t be… so bad…”
+“...If I could be... seen off by such a handsome guy... it wouldn’t be... so
+bad...”
 
 “Hey, wake up! Laurel!”
 

@@ -41,7 +41,7 @@ kind heart. I’ve been steadily crushing the death flags related to Caron.
 Defeating the demon possessing her was, I believe, a particularly significant
 achievement.
 
-… I’ve digressed too much. Let’s get back on track.
+... I’ve digressed too much. Let’s get back on track.
 
 As mentioned earlier, there were two others besides me in the forest.
 
@@ -221,7 +221,7 @@ rival the others.
 
 Though not blood-related, we have an excellent relationship—perhaps too
 excellent. He’s not as intense as Caron, but he’s quite the brother-complex.
-Judging from his emotional cues… no, I shouldn’t assume.
+Judging from his emotional cues... no, I shouldn’t assume.
 
 In any case, he’s an important family member to me.
 
@@ -240,7 +240,7 @@ Adding Marina and me, these were the usual members who acted together. All of
 them, remarkably, have feelings for me, making me feel like an utterly
 deplorable scoundrel.
 
-… From an outsider’s perspective, I’m surrounded by multiple women and likely
+... From an outsider’s perspective, I’m surrounded by multiple women and likely
 will be in the future, so I can’t deny being called a woman’s enemy.
 
 That said, I’ll handle things properly. I have no intention of making them
@@ -275,7 +275,7 @@ who thinks she’s hiding it is Minerva herself.
 Gently peeling Caron and Nina off me, I answered their question. “I gathered
 everyone to introduce a new comrade.”
 
-“… You added another one?” Minerva said, her tone dripping with exasperation.
+“... You added another one?” Minerva said, her tone dripping with exasperation.
 
 “No restraint,” Nina added, her voice tinged with reproach.
 
@@ -294,7 +294,7 @@ to everyone.”
 
 “It’s only a matter of time,” Nina interjected.
 
-“Why does it always come to that\!?”
+“Why does it always come to that\?!”
 
 “‘Based on past precedents,’” they said in unison, cutting me down with their
 words.
@@ -432,7 +432,7 @@ For some reason, all three clutched their heads.
 “How many times will you repeat this pattern? Can I even keep up?” Minerva
 groaned.
 
-“Another rival…” Marina muttered.
+“Another rival...” Marina muttered.
 
 I felt like I was being unfairly judged. I don’t get it—I’m just acting with the
 future in mind.
@@ -589,7 +589,7 @@ has a kind heart, willing to put herself on the line for others.
 With Skia, who attends a different class, this forms Foranada’s academy
 contingent.
 
-… We’ve grown quite a bit. In less than a year, our group has nearly doubled.
+... We’ve grown quite a bit. In less than a year, our group has nearly doubled.
 
 That’s proof of how eventful this year has been. As the setting of the original
 game, there were plenty of events, and I got involved in issues outside the
@@ -618,7 +618,7 @@ this academy.
 
 In truth, she was known as the “Witch of Life,” a being who had lived for an
 extraordinarily long time—a loli-baba, if you will. Despite committing taboos,
-she was a true educator with an unwavering conviction to nurture the young. …
+she was a true educator with an unwavering conviction to nurture the young. ...
 Well, she’s also an utterly irredeemable pervert, but let’s set that aside for
 now.
 
@@ -640,8 +640,8 @@ She spoke.
 “What do you know? How far can you see?”
 
 It was an awfully abstract question. Her demeanor made it clear that this was a
-serious matter, but it wasn’t immediately obvious what she meant. … Under normal
-circumstances, that is.
+serious matter, but it wasn’t immediately obvious what she meant. ... Under
+normal circumstances, that is.
 
 Yes, I had a vague intuition about what the principal was asking.
 
@@ -677,7 +677,7 @@ she had likely deduced it from the sequence of events and my peculiarities.
 
 “What if I don’t answer?” I asked.
 
-“… I’ll take that as confirmation,” she replied.
+“... I’ll take that as confirmation,” she replied.
 
 Tch, she’s being bold. The principal, who knows my strength firsthand, wouldn’t
 usually press this hard. Her refusal to back down showed she was serious. The
@@ -723,13 +723,13 @@ stability relies on her strength as its head. Removing her could spark factional
 disputes over her position or leave the academy vulnerable to external forces.
 Having her—the “Witch of Life”—as principal was convenient for me.
 
-… Guess I’ll stick with the story I told Nina.
+... Guess I’ll stick with the story I told Nina.
 
 In short, I explained to the principal that I had foreseen certain futures
 through “divine revelations” and that, to achieve the best outcomes, I needed to
 let events unfold to some extent to ensure the Saintess’s growth.
 
-“…”
+“...”
 
 After hearing my explanation, the principal fell silent, her expression sullen
 and displeased. She was likely trying to process and understand my words in her
@@ -741,7 +741,8 @@ time passing by.
 Five minutes later—quicker than I expected—she seemed to come to terms with it
 and spoke.
 
-“Foresight… It’s an outrageous tale, but there’s no falsehood in it, is there?”
+“Foresight... It’s an outrageous tale, but there’s no falsehood in it, is
+there?”
 
 “I swear on our god and my family’s name,” I replied.
 
@@ -852,8 +853,8 @@ those who learn from their pain rarely take significant action. To rise to the
 position of principal and uphold her ideals requires extraordinary effort and
 resolve. In that regard, I think she should be proud.
 
-“… Thank you,” the principal said softly, her young cheeks faintly flushed with
-embarrassment.
+“... Thank you,” the principal said softly, her young cheeks faintly flushed
+with embarrassment.
 
 If she were always this charming, she’d be adorable, but in reality, she’s a
 pervert. Such a shame.
@@ -886,7 +887,7 @@ That promise was—
 
 “Onee-chan\!”
 
-“Rina…”
+“Rina...”
 
 The sight of the two wolf beastman sisters facing each other made it immediately
 clear.
@@ -962,7 +963,7 @@ Despite the heavy atmosphere, Marina’s words lightened the mood. As expected, 
 faith in her was well-placed. I hoped she’d keep the conversation flowing
 smoothly.
 
-What, am I not doing anything? … Of course not. Even though I set up this
+What, am I not doing anything? ... Of course not. Even though I set up this
 meeting, moving carelessly might make Rina go berserk. I’d stay quiet unless
 absolutely necessary.
 
@@ -1065,7 +1066,7 @@ and bright. Don’t lump them with _him_ or other nobles\!” Rina shouted.
 “Huh?” Nina replied, caught off guard with a dumbfounded sound. She clearly
 hadn’t expected to be put on the spot.
 
-“Um…” Nina said, trying to gather her thoughts.
+“Um...” Nina said, trying to gather her thoughts.
 
 I was impressed by Marina’s approach. I realized she was deliberately steering
 the conversation.
@@ -1138,7 +1139,7 @@ It’s ironic that the spoiled sister grew up un-noble-like, while the persecute
 sister developed a more enlightened perspective.
 
 Also, Rina’s a heroine in the original story, right? I haven’t seen any of her
-good qualities yet. In the game, she was supposed to be better than this…
+good qualities yet. In the game, she was supposed to be better than this...
 
 Thinking back, Rina’s route was about a “plucky girl longing to reunite with her
 mercilessly torn-apart family” turning into a “lover swearing vengeance for her
@@ -1181,7 +1182,8 @@ After several deep breaths, she spoke.
 
 “Not a single word was a lie,” Nina replied instantly.
 
-“… No way,” Rina said, her legs wobbling. Yudai quickly supported her shoulder.
+“... No way,” Rina said, her legs wobbling. Yudai quickly supported her
+shoulder.
 
 Watching her sisters, Nina continued.
 
@@ -1189,12 +1191,12 @@ Watching her sisters, Nina continued.
 during that civil war. The person here is Nina Goshirane Haneus, the adventurer
 with the title ‘Dragon Buster’ and Zex’s fiancée’s fiancée.”
 
-“Onee-chan… died…” Rina murmured.
+“Onee-chan... died...” Rina murmured.
 
 “Yes, she’s gone. I’m living my second life to the fullest. So, Rina, I want you
 to stop clinging to me and start a new life,” Nina said gently.
 
-“No, that’s impossible. You’re all I have left…” Rina said, trembling and
+“No, that’s impossible. You’re all I have left...” Rina said, trembling and
 shaking her head, convinced that being rejected by her sister left her with
 nothing.
 
@@ -1215,18 +1217,18 @@ Smiling brightly, she continued.
 
 “If you really had nothing, the guy next to you wouldn’t be here, right?”
 
-“… Next to me?” Rina said, looking at Yudai, who was supporting her.
+“... Next to me?” Rina said, looking at Yudai, who was supporting her.
 
 Yudai gave a wry smile, scratching his cheek.
 
-“Well… it seems you saw things differently, but I thought of you as a friend.
+“Well... it seems you saw things differently, but I thought of you as a friend.
 So, please don’t say such lonely things,” he said.
 
-“I’m… a friend?” Rina asked.
+“I’m... a friend?” Rina asked.
 
 “Yeah. Otherwise, like Marina said, I wouldn’t be here,” Yudai replied.
 
-“… Thank you,” Rina said.
+“... Thank you,” Rina said.
 
 “You’re welcome, I guess?” Yudai responded.
 
@@ -1235,7 +1237,7 @@ us.
 
 Nina shot Marina a half-lidded glance.
 
-“Pushing it onto a childhood friend… Marina, you’re cunning,” she said.
+“Pushing it onto a childhood friend... Marina, you’re cunning,” she said.
 
 Marina shrugged, still smiling. “That’s harsh. I’m just cheering on my childhood
 friend’s love life\! Though, he’s too dense to say ‘friend’ instead of something
@@ -1247,7 +1249,7 @@ more.”
 back at critical moments and lose sight of their surroundings in key situations,
 right?” Marina said.
 
-“… I won’t deny it,” Nina admitted.
+“... I won’t deny it,” Nina admitted.
 
 “So, I skipped some steps. It felt like we—especially you—couldn’t make progress
 by staying involved,” Marina explained.
@@ -1258,7 +1260,7 @@ to it. Scary.
 That said, I was also tired of the situation. We had exhausted our options, so
 leaving it to Yudai wasn’t wrong.
 
-But to toss a childhood friend into an obvious minefield without hesitation…
+But to toss a childhood friend into an obvious minefield without hesitation...
 Nina was right—Marina was cunning. Her usual fluffiness made this side of her
 unexpected.
 

@@ -40,14 +40,14 @@ remote region, you can expect a relaxed holiday season.
 
 We’re no exception. During the break, we’ll return to Foranada. Sure, with
 the 【Phase Connection Gate】, we frequently visit home anyway, but this feels
-like a proper homecoming. I’d love to stretch my wings and relax… if I can, that
-is.
+like a proper homecoming. I’d love to stretch my wings and relax... if I can,
+that is.
 
 Tomorrow, everyone except the standby staff will return to Foranada Castle. The
 annex was a bit hectic with preparations, but amidst the bustle, a visitor
 arrived.
 
-And that visitor was…
+And that visitor was...
 
 “Good day, Lady Skia. What brings you here today?”
 
@@ -56,7 +56,7 @@ Entering the reception room, I greeted the guest who had been shown in earlier.
 Indeed, the visitor was Skia Thornbull Yu Ga Tali Cheyni, a viscount’s daughter.
 A girl with peculiar tastes and a condition known as Phase Conflict Syndrome.
 
-“G-G-G-Good day, E-Earl Foranada… Y-Your Excellency…”
+“G-G-G-Good day, E-Earl Foranada... Y-Your Excellency...”
 
 As always, her interpersonal communication skills were lacking. Her eyes darted
 nervously, her words stumbled, and her idle fingers fidgeted restlessly.
@@ -69,19 +69,19 @@ However, her overly formal address needed correction.
 “Please, no ‘Your Excellency.’ This is practically a private setting. Feel free
 to call me by my name, as befits peers of the same year.”
 
-“T-T-T-Tch, t-that’s… t-too great an h-honor…”
+“T-T-T-Tch, t-that’s... t-too great an h-honor...”
 
 “At least drop the ‘Excellency.’”
 
-“…U-Understood, Earl Foranada.”
+“...U-Understood, Earl Foranada.”
 
 I had no intention of forcing familiarity, so this was probably the limit. The
 distance felt appropriate.
 
 As the conversation paused, Skia hesitantly moved to the main topic.
 
-“T-T-Tch, today, I c-came to… g-give my r-response to… y-your p-previous
-p-proposal…”
+“T-T-Tch, today, I c-came to... g-give my r-response to... y-your p-previous
+p-proposal...”
 
 As expected, that’s why she came. I’d asked out of formality, but there was no
 other reason for her to visit me.
@@ -101,16 +101,17 @@ concerns her future, I wanted her to think it over carefully.
 
 Skia, however, shook her head vigorously.
 
-“N-N-N-No… I-I’ve a-already… m-made my d-decision.”
+“N-N-N-No... I-I’ve a-already... m-made my d-decision.”
 
-“Hmm… If you’re confident in your choice, that’s fine. So, what’s your answer?”
+“Hmm... If you’re confident in your choice, that’s fine. So, what’s your
+answer?”
 
 It’s easy to forget while talking to her, but Skia is exceptionally intelligent.
 If she says she’s decided, it’s likely a well-considered conclusion.
 
 At my prompting, she took several deep breaths before speaking slowly.
 
-“I-I… w-would like to… a-accept the t-treatment.”
+“I-I... w-would like to... a-accept the t-treatment.”
 
 “And you agree to join Foranada as well?”
 
@@ -130,7 +131,7 @@ With that, I promptly summoned my magical energy.
 
 Skia, sensing the shift in my demeanor, widened her eyes.
 
-“W-W-Wha\!? R-R-Right now\!?”
+“W-W-Wha\?! R-R-Right now\?!”
 
 “Exactly. It’s not a complex procedure, so let’s get it over with.”
 
@@ -161,13 +162,13 @@ Skia muttered, stunned.
 I nodded.
 
 “For the first session, yes. The treatment will require multiple sessions, so
-you’re not fully cured yet. Let’s do the next one… after the winter break. Doing
-it too frequently could strain your body.”
+you’re not fully cured yet. Let’s do the next one... after the winter break.
+Doing it too frequently could strain your body.”
 
 Altering one’s innate magical ratios isn’t without risks. Since this is her
 first treatment, we’ll monitor her progress carefully.
 
-“…”
+“...”
 
 Skia remained dazed, staring at her hands with a puzzled tilt of her head. She
 didn’t seem to feel the change.
@@ -184,7 +185,7 @@ certainty—a clever choice, as expected.
 The spell succeeded. A 【Dark Sphere】 floated above her palms. It was small and
 crude, her first attempt at magic, but it was undeniably active.
 
-“U-U-Uhh…”
+“U-U-Uhh...”
 
 Tears welled in Skia’s eyes at her first successful magic.
 
@@ -254,7 +255,7 @@ late for embarrassment. Returning my gaze, I smiled and spoke honestly.
 
 “I was just admiring how adorable my fiancée is.”
 
-“C-Cute\!? Admiring\!?”
+“C-Cute\?! Admiring\?!”
 
 My straightforward words hit Minerva’s weak spot. Her face flushed red in an
 instant, and she stammered, mouth opening and closing. In a manga, steam would
@@ -264,7 +265,7 @@ Savoring her endearing reaction, I waited for her to recover.
 
 Soon, she began deep breathing.
 
-“You’re such a flirt…” she said, her cheeks still flushed but her ability to
+“You’re such a flirt...” she said, her cheeks still flushed but her ability to
 speak restored.
 
 I gave a wry smile. “A flirt? I was just being honest.”
@@ -296,7 +297,7 @@ enrolled at the academy.”
 
 “But Marina fell for you.”
 
-“Well, that’s…”
+“Well, that’s...”
 
 That stung. Marina developing feelings for me was entirely my oversight.
 
@@ -318,7 +319,7 @@ courageous. Even if she ends up as a concubine, she’ll manage just fine.”
 “But you’ll probably accept her eventually, right? I can tell you’re drawn to
 her.”
 
-“Well…”
+“Well...”
 
 I was at a loss for words. It was true I was growing fond of Marina, and the
 likelihood of accepting her was high.
@@ -339,8 +340,8 @@ time for Minerva and the others. I’d felt guilty about that, but according to
 her, I’m already doing more than enough. If I save Caron, what awaits is likely
 “love beyond measure.” I can already sense my restraint slipping.
 
-Still, having my fiancée encourage me to take more lovers feels… questionable. I
-wouldn’t mind a little jealousy, even if it’s selfish of me to think so.
+Still, having my fiancée encourage me to take more lovers feels... questionable.
+I wouldn’t mind a little jealousy, even if it’s selfish of me to think so.
 
 I must have looked conflicted, as Minerva laughed again. She’s been laughing a
 lot today.
@@ -362,7 +363,7 @@ It was a brief kiss, but I poured my affection into it.
 
 It seemed to reach her. She turned away, her face red again.
 
-“You’re so unfair… But don’t worry, I’ll do my best as your wife.”
+“You’re so unfair... But don’t worry, I’ll do my best as your wife.”
 
 No more words passed between us.
 

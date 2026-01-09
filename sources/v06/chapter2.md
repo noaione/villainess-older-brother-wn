@@ -25,7 +25,7 @@ could begin. That is both true and false.
 After all, we are already strong enough. Aside from our daily training, there’s
 no need to specifically train for the tournament.
 
-I figured Minerva must have some kind of plan in mind, but…
+I figured Minerva must have some kind of plan in mind, but...
 
 As I pondered this, Minerva responded with a hint of exasperation.
 
@@ -40,7 +40,7 @@ up, their shoulders trembling.
 “R-right! Onii-sama is participating too! There’s no time to sip tea leisurely!”
 
 “If we don’t directly clash and lose, then it’s already set that we’ll have to
-fight Zex-niisan, right? …We really don’t have enough time.”
+fight Zex-niisan, right? ...We really don’t have enough time.”
 
 “Shion, you take care of the opponent!”
 
@@ -72,7 +72,7 @@ difficult thing to achieve, but it’s still a desire we can’t give up on.”
 “I don’t think that’s what we mean. Caron and the others want to be acknowledged
 as reliable figures, not just someone to be protected.”
 
-“…I see.”
+“...I see.”
 
 Her words, tinged with a hint of sorrow, stirred my heart.
 
@@ -166,12 +166,12 @@ However, it wasn’t as if Marina had nothing to do with the tournament.
 
 “Marina.”
 
-“Y-yes!?”
+“Y-yes?!”
 
 She hadn’t expected to be called and jumped slightly. It seemed she bit her
 tongue at a bad moment, as she pressed her mouth and looked ready to cry.
 
-“Ah… Are you okay?”
+“Ah... Are you okay?”
 
 “Y-yes, I’m fine!”
 
@@ -193,7 +193,7 @@ I nodded at Marina's words.
 “That’s right. It seems Caron and the others are going to train individually, so
 I thought I’d personally supervise your training.”
 
-“Eh!?”
+“Eh?!”
 
 Marina let out a strange sound that mixed surprise and fear, along with a hint
 of joy. Her expression reflected a complex swirl of emotions.
@@ -204,7 +204,7 @@ had only known me for less than six months, would have such an understanding.
 I considered changing the subject but quickly dismissed the idea. If I made the
 training too easy, it would inevitably backfire. This was non-negotiable.
 
-“W-why is Zex going to supervise directly…?”
+“W-why is Zex going to supervise directly...?”
 
 Marina asked cautiously.
 
@@ -213,7 +213,7 @@ With a slight sigh of exasperation, I answered her question.
 “That’s a reasonable question. At the same time, the answer is quite simple. If
 you perform well in this tournament, you might end up being my classmate.”
 
-“Is that true!?”
+“Is that true?!”
 
 Marina shook off her earlier fear and her eyes sparkled with excitement.
 
@@ -296,7 +296,7 @@ If I left them to their own devices, it seemed unlikely we would achieve our
 goal. I gathered magic into both of my hands and clapped them together. The
 magic burst forth with a dry, loud sound.
 
-“‘Eek!?’”
+“‘Eek?!’”
 
 Hearing that, the two of them snapped back to reality with a cute shriek. It was
 quite effective.
@@ -498,9 +498,9 @@ My hesitation lasted no longer than ten seconds.
 In situations like this, overthinking wouldn’t lead to a conclusion. So, it was
 best to decide quickly based on my instincts.
 
-I silently approached Marina and lifted her up effortlessly… like a princess.
+I silently approached Marina and lifted her up effortlessly... like a princess.
 
-“W-wait, what!? Your highness!?”
+“W-wait, what?! Your highness?!”
 
 Startled by the sudden turn of events, Marina spoke in a voice like a broken
 record, her face flushing bright red.
@@ -516,7 +516,7 @@ reward, though.”
 “Is that so?”
 
 I often wondered if saying “thank you” in the context of a reward was trending
-among the women in our group. It seemed to pop up frequently. …Well, I guess I
+among the women in our group. It seemed to pop up frequently. ...Well, I guess I
 was just avoiding reality. I understood the meaning behind it.
 
 With a dry smile on my face, I carried Marina back home. For now, I thought it
@@ -594,7 +594,7 @@ range.
 
 I chuckled self-deprecatingly.
 
-…Though I said it myself, it was quite an unflattering title. I vowed never to
+...Though I said it myself, it was quite an unflattering title. I vowed never to
 speak those words again.
 
 Having completely copied the royal capital, the visible scenery remained
@@ -693,7 +693,7 @@ three days prior.
 This was the new stage for the magical beast, Magical Piece. Commissioned by
 Foranada, construction had been underway since spring.
 
-I was given free rein to decide the stage's design, so… I may have gone a bit
+I was given free rein to decide the stage's design, so... I may have gone a bit
 overboard. The theme was a near-future urban landscape, and I fully replicated
 the skyscrapers reminiscent of a city from my previous life.
 
@@ -754,11 +754,11 @@ they could lose to those who were lagging behind. In a team battle, it might be
 a different story, but with the current one-on-one format, that was even less
 likely.
 
-That said…
+That said...
 
 "Can't Dan find a better way to fight?"
 
-"Haha… that's just so typical of him," Orca chuckled.
+"Haha... that's just so typical of him," Orca chuckled.
 
 "Charging in headfirst."
 
@@ -868,14 +868,14 @@ She noticed me looking and flashed a bright smile.
 
 There was no doubt—the light from earlier was her doing. And she was also the
 one who had taken down the remaining members of the top club. An all-range
-attack that could distinguish between friend and foe… she’d created a truly
+attack that could distinguish between friend and foe... she’d created a truly
 extraordinary spell.
 
 And with that unimaginable strike, the match drew to a close.
 
 ---
 
-“That spell… isn’t it a bit too underhanded?”
+“That spell... isn’t it a bit too underhanded?”
 
 In the post-match review, the first thing out of Minerva’s mouth as we gathered
 in our usual rundown clubroom was that.
@@ -910,8 +910,8 @@ everything in the area, including her.
 But in reality, only the opponents were wiped out, and the structures on the
 stage remained untouched.
 
-It probably meant she could select her targets, but… it was hard to see how she
-managed it. Caron’s not particularly adept at precise magical control.
+It probably meant she could select her targets, but... it was hard to see how
+she managed it. Caron’s not particularly adept at precise magical control.
 
 In her usual calm manner, Caron began to explain.
 
@@ -938,7 +938,7 @@ depends on the caster’s mind. And with original spells, it requires even more
 creativity.
 
 What I’m getting at is that to take something as opposite as healing and
-wide-area destruction and synchronize effects between the two… that level of
+wide-area destruction and synchronize effects between the two... that level of
 thinking is highly unusual. Normally, it would be far easier to imagine a new
 spell from scratch.
 
@@ -977,7 +977,7 @@ Meanwhile, the commoner group was blissfully unfazed.
 
 Are their IQs dropping or something?
 
-…Well, Dan and Miria have always been like this. Yurika seems to be just going
+...Well, Dan and Miria have always been like this. Yurika seems to be just going
 along with the flow.
 
 Well, if you’re not knowledgeable about magic, you might only grasp that
@@ -1013,7 +1013,7 @@ planned.
 The four of them, excluding Dan, received positive evaluations. Each had shown
 progress from their training, so their areas for improvement were mostly minor.
 
-As for Dan… well, he could only be described as a wild boar, and everyone was
+As for Dan... well, he could only be described as a wild boar, and everyone was
 giving him some hard truths. He had that look of “Why?” on his face, but it was
 a natural conclusion.
 
@@ -1044,7 +1044,7 @@ surely create a piece of art admired for generations.
 It was a scene that could make anyone stop and stare, but I couldn’t stay idle
 forever. Feeling a bit intrusive, I quietly walked over to stand beside her.
 
-"…"
+"..."
 
 Even when I came to her side, she didn’t react. She simply kept her eyes fixed
 straight ahead, looking up at the sky, fully aware of my presence.
@@ -1061,10 +1061,10 @@ Moments like these make me realize how much I care about Minerva. After these
 past few years together, I knew I had truly fallen for her.
 
 Considering I still held memories of my previous life, I couldn’t help but laugh
-at myself for being so fickle. But, well, emotions are just like that… You can’t
-always control them, which is why you try to respect and honor them.
+at myself for being so fickle. But, well, emotions are just like that... You
+can’t always control them, which is why you try to respect and honor them.
 
-…Not exactly the words of a saint, I suppose. If I were in Japan, I’d probably
+...Not exactly the words of a saint, I suppose. If I were in Japan, I’d probably
 be called a scumbag.
 
 But for now, I set aside my own thoughts. Tonight, I was here for Minerva.
@@ -1078,7 +1078,7 @@ was troubled.
 
 The silence between us lingered for a while until, suddenly, Minerva spoke up.
 
-“…What do you want?”
+“...What do you want?”
 
 She asked, still looking at the sky, in a voice that carried a hint of
 sulkiness.
@@ -1104,7 +1104,7 @@ Alright, time for the direct approach.
 
 I pretended to sniffle, covering my eyes with my hand.
 
-“If you’re just going to joke around, maybe you should leave…” she snapped,
+“If you’re just going to joke around, maybe you should leave...” she snapped,
 finally turning to look at me, a hint of irritation showing.
 
 This was the moment I’d been waiting for. Not missing my chance, I quickly took
@@ -1126,7 +1126,7 @@ We’re engaged, aren’t we?"
 "Still, just let me hear it. I promise I won’t try to force any solutions.
 Sometimes, just talking to someone can help ease things."
 
-"…"
+"..."
 
 "Minerva."
 
@@ -1153,11 +1153,11 @@ forceful, she didn’t seem genuinely angry. That was a relief.
 After I let go of her hands, Minerva adjusted her posture and continued.
 
 "Lately, I’ve been painfully aware of my lack of skill. Orca has her magical
-control, Nina her swordsmanship, Shion her stealth, Marina her spirit magic… and
-Caroline her light magic. Each of them has a remarkable strength they excel at.
-But I… don’t. Sure, I’m adept at all five elemental attributes and can handle
-them skillfully, but I don’t stand out like they do. When it comes to magic,
-Caroline and Orca are much more specialized."
+control, Nina her swordsmanship, Shion her stealth, Marina her spirit magic...
+and Caroline her light magic. Each of them has a remarkable strength they excel
+at. But I... don’t. Sure, I’m adept at all five elemental attributes and can
+handle them skillfully, but I don’t stand out like they do. When it comes to
+magic, Caroline and Orca are much more specialized."
 
 It was true — Minerva didn’t have a sharply defined talent. Her strength was in
 her ability to excel across all areas at a consistently high level.
@@ -1186,7 +1186,7 @@ I’ll help however I can."
 "But having someone to talk to doesn’t hurt, right? Sometimes discussing things
 can help clarify your thoughts."
 
-"Well, that’s… true…"
+"Well, that’s... true..."
 
 If she was working hard to find her "something," I wanted to support her fully.
 I was prepared to help her every step of the way.
@@ -1199,7 +1199,7 @@ Every now and then, I might ask for your advice."
 
 "Gladly."
 
-"Thank you. …You really are pushy."
+"Thank you. ...You really are pushy."
 
 Minerva pursed her lips slightly.
 
@@ -1207,7 +1207,7 @@ I shrugged in response.
 
 "Is that a problem?"
 
-"…You’re such a troublesome fiancé. I hate that about you."
+"...You’re such a troublesome fiancé. I hate that about you."
 
 "Sorry, sorry."
 

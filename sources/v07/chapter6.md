@@ -56,9 +56,9 @@ hair, clearly nervous.
 Though puzzled, I gesture for her to sit on the sofa and take a seat across from
 her.
 
-“…”
+“...”
 
-“…”
+“...”
 
 For a while, we sit in silence.
 
@@ -71,7 +71,7 @@ Maimu is one half of the composite spirit Marina contracted. She’s quite timid
 and spends most of her daily life with Marina, but she doesn’t seem to be here
 now.
 
-Marina stumbles over her words with an “Uh, well…”
+Marina stumbles over her words with an “Uh, well...”
 
 “She’s with Noma-chan. You know, Maimu-chan and the others are like kids, right?
 They lack some common sense as spirits, so Noma-chan’s teaching them the ropes.”
@@ -130,7 +130,7 @@ Waiting for her to calm down, I steer toward the main topic.
 
 “So, what did you want to talk about?”
 
-“It’s… well…”
+“It’s... well...”
 
 She hesitates for a moment.
 
@@ -138,7 +138,7 @@ But after taking a deep breath, she continues.
 
 “It’s about my status as your concubine. I wanted to discuss it properly.”
 
-“…I see.”
+“...I see.”
 
 I nod in understanding, though inwardly, I’m surprised. Honestly, I thought
 Marina would let the current ambiguous relationship slide, gradually cementing
@@ -163,7 +163,7 @@ I ask, a bit teasingly, though I don’t think that’s her intent.
 She seems to catch the playful jab and shakes her head calmly.
 
 “No\~ My wish hasn’t changed from the start. I want to stay by your side,
-Prince… Zex-sama. I want to love you and be loved by you. It’s the dream I’ve
+Prince... Zex-sama. I want to love you and be loved by you. It’s the dream I’ve
 held since I was a child.”
 
 Her words carry a powerful resolve. An unshakable conviction and unrelenting
@@ -203,7 +203,7 @@ but I hold steady.
 
 “I can’t return your feelings right now.”
 
-“I… see…”
+“I... see...”
 
 Disappointment flickers across her face. It hurts, but this is a line I can’t
 cross. Until I overcome Caron’s fated death, I have no room to look elsewhere.
@@ -216,7 +216,7 @@ I gently take Marina’s right hand and press my lips to its back.
 “But I promise. By the time we graduate from the academy, I’ll give you my
 answer.”
 
-“…”
+“...”
 
 Marina’s eyes widen, and she freezes in shock.
 
@@ -224,7 +224,7 @@ Gradually, comprehension dawns. Her face flushes bright red, and her mouth opens
 and closes with soft “ah, ah” sounds. Then, large tears begin to stream down her
 cheeks.
 
-“Huh\!?”
+“Huh\?!”
 
 Her sudden sobbing catches even me off guard.
 
@@ -233,7 +233,7 @@ nonetheless.
 
 While I flounder, Marina laughs through her tearful sobs.
 
-“Thank you, Zex-sama. I’m… I’m so happy…”
+“Thank you, Zex-sama. I’m... I’m so happy...”
 
 I stay by her side, comforting her until her tears subside.
 

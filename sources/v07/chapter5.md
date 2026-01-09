@@ -8,9 +8,9 @@ When she’d seized her chance, I’d sensed the potential for tremendous growth
 That’s why I didn’t force her to stop and instead let her act as she saw fit.
 
 Even so, this outcome is astonishing. To form a contract with the two souls
-residing within the composite spirit and perfectly control their power… The use
-of \[Composite Spirit Magic\], a feat supposedly reserved for the Spirit King,
-displayed breathtaking might.
+residing within the composite spirit and perfectly control their power... The
+use of \[Composite Spirit Magic\], a feat supposedly reserved for the Spirit
+King, displayed breathtaking might.
 
 To clarify one thing, even I didn’t know there was another soul inside Maimu. No
 matter how skilled I am with mental magic, detecting a soul buried deep within
@@ -27,7 +27,7 @@ because it was her that she could tame two spirits and overwhelmingly defeat a
 dungeon boss in the level-ninety range. Sure, there were some dicey moments, but
 once she wakes up, I’ll have to shower her with praise.
 
-Now, putting my thoughts on Marina aside for the moment…
+Now, putting my thoughts on Marina aside for the moment...
 
 “Guess I’ll deal with some overtime.”
 
@@ -96,7 +96,7 @@ reverse diagonal cut.
 The black knight can’t keep up with my spinning slash. It tries to dodge, but I
 carve a gash from its flank to its chest.
 
-“…”
+“...”
 
 Yet, there’s no joy in my heart. Frowning, I use the momentum of my spin to
 deliver a mid-level kick. Unable to evade, the black knight is sent flying
@@ -105,7 +105,7 @@ backward.
 I glance at the enemy tumbling across the ground while steadying my own
 faltering stance.
 
-The sensation of that attack was… bizarre. I know I hit the enemy’s body, but
+The sensation of that attack was... bizarre. I know I hit the enemy’s body, but
 there was no resistance. It’s a contradictory statement, I know, but I can’t
 describe it any other way.
 
@@ -136,7 +136,7 @@ A white flame ignites in my right eye. The pupil transforms, its red rim framing
 a white sclera with three red lines at the center. \[Blazing Flame Heaven
 Eye\]—a Magic Eye that burns all I deem unworthy until nothingness.
 
-And my left eye… gleams. Divine, radiant, and pure white, it illuminates the
+And my left eye... gleams. Divine, radiant, and pure white, it illuminates the
 surroundings. Its name is \[Magic Eye of White Radiance\]. This, my second Magic
 Eye, possesses the fundamental ability to see through all.
 
@@ -160,7 +160,7 @@ its nullification resistance couldn’t block my Magic Eyes.
 
 Thanks to the \[White Radiance Magic Eye\], I already know the black knight’s
 true nature. Still, it could serve as a test subject for countermeasures against
-this kind of magic… so it’s not entirely useless.
+this kind of magic... so it’s not entirely useless.
 
 Yes, the black knight is magic—or rather, a byproduct of magic. It’s a
 counterfeit of the dungeon boss, created by the light magic spell \[Extreme
@@ -216,7 +216,7 @@ the dungeon’s conquest isn’t here.
 
 The man who greeted me first was, of all people, Earl Roeme.
 
-…No, “of all people” might not be accurate. I had a bad feeling the moment I
+...No, “of all people” might not be accurate. I had a bad feeling the moment I
 heard about another research facility.
 
 I produce faux mithril wires infused with magic, letting them autonomously bind
@@ -255,7 +255,7 @@ The battle seems to be at its climax, with most magical beasts already defeated.
 In the city of Dijott, cheers of victory are rising. At the center are Yudai and
 Princess Arianorth, who likely led the charge to turn the tide.
 
-The Saintess… ah, there she is. She’s tending to the wounded from the front
+The Saintess... ah, there she is. She’s tending to the wounded from the front
 lines. The treatment center is abuzz with “Saintess” chants. Oh, Skia’s here
 too, looking as flustered as ever.
 
@@ -263,7 +263,7 @@ The areas outside Dijott are fine, too. As per my prior instructions, Caron and
 the others have done their part, reducing the remaining magical beasts to fewer
 than a thousand.
 
-It should be safe now, but… maybe I’ll wrap things up to let them know I’m
+It should be safe now, but... maybe I’ll wrap things up to let them know I’m
 alive. Since the far-seeing device is operational, I can use its pathway.
 
 I scan the device and hijack the \[Far Vision\] circuit. From there, I unleash
@@ -293,7 +293,7 @@ _“Seriously\! I wish you’d come back a bit sooner.”_
 _“My bad. My sense of time got messed up. I thought it’d only been about five
 hours.”_
 
-_“I knew it…”_
+_“I knew it...”_
 
 _“Someone predicted that?”_
 
@@ -380,7 +380,7 @@ pinnacle of their assigned hue, they can wield any magic within the bounds of
 the world’s laws. For those driven by an insatiable thirst for knowledge, this
 is the ultimate reward.
 
-_…Omitted…_
+_...Omitted..._
 
 The path to becoming a Magic Administrator requires offering one’s entire body
 to the world. By dedicating oneself wholly to a chosen “color,” one can ascend
@@ -392,7 +392,7 @@ Administrator cannot be claimed. This is an immutable law of the world.
 
 _Related Topics: Ritual Magic, Magic Eyes_
 
-_…Omitted…_
+_...Omitted..._
 
 _Current List of Magic Administrators:_
 
@@ -425,14 +425,14 @@ Error: All Magic Administrators have abandoned their duties.
 Countermeasure: No disruption to magical energy circulation. Shift dungeon
 operations to energy-saving mode.
 
-…Omitted…
+...Omitted...
 
 Error: Collapse in the balance of magical essence and magical energy purity.
 Confirmed to be the work of the Gold Magic Administrator.
 
 Countermeasure: None.
 
-…Omitted…
+...Omitted...
 
 Error: Localized surge in “white” detected.
 
@@ -451,7 +451,7 @@ Error: Error. Error. Error. Error—
 
 ---
 
-“Ugh…”
+“Ugh...”
 
 After skimming through the data, I let out an awkward groan.
 
@@ -474,7 +474,7 @@ knows what state the world would be in now?
 Did I overdo my self-enhancement? Hmm, maybe. But I wouldn’t be where I am
 without pushing myself this far. It’s all results in hindsight.
 
-…Dwelling on “_what-ifs_” is pointless. Let’s focus on the future.
+...Dwelling on “_what-ifs_” is pointless. Let’s focus on the future.
 
 Some of the terminology was vague, but I’ve got a rough grasp of what Magic
 Administrators are. In broad terms, they’re like an advanced version of Magic
@@ -503,7 +503,7 @@ future strategies.
 That said, a few doubts have cropped up as well.
 
 First: referring to elemental magic as “colors.” It could just be a different
-term, but… I might need Minerva’s help to investigate. We’ll run some
+term, but... I might need Minerva’s help to investigate. We’ll run some
 experiments when I get back.
 
 Second: Septem, the demon, called the Western Demon King the “Great Magic
@@ -516,8 +516,8 @@ Akatsuki-sensei, they vanished long ago, but the data suggests they’re still
 alive. And the Blue Magic Administrator is none other than the infamous witch
 Leviathan.
 
-I was shocked to learn she’s been alive for so long, but… we’ll need to keep an
-eye on the other Magic Administrators’ movements. They didn’t appear in the
+I was shocked to learn she’s been alive for so long, but... we’ll need to keep
+an eye on the other Magic Administrators’ movements. They didn’t appear in the
 original story, but that doesn’t mean they won’t show up in reality.
 
 Ugh. I’ve solved some mysteries, but it feels like I’ve ended up with more

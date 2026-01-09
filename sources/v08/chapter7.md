@@ -57,7 +57,7 @@ fine” bit by bit until I ended up using it every time I interacted with someon
 The end result would be a literal puppet regime.
 
 A tyrant route that would make my family hate me? No thanks. If I went down that
-path, would I even use mental magic to twist their values? …Yeah, I might
+path, would I even use mental magic to twist their values? ...Yeah, I might
 actually do that. I need to be really careful.
 
 “Let’s take a break,” I said aloud.
@@ -86,7 +86,7 @@ As I finished, Orca appeared in the training grounds. Spotting me, he flashed a
 smile and approached.
 
 Lately, Orca’s attitude toward me felt softer than before. He’d always been
-attached, but now it was almost… squishy, for lack of a better word.
+attached, but now it was almost... squishy, for lack of a better word.
 
 Oh, I know the reason. Even now, waves of overflowing affection were radiating
 from him.
@@ -111,7 +111,7 @@ Perhaps sensing my thoughts, Orca gave a wry smile.
 
 “Eclara’s case is already over,” he said.
 
-“Yeah… now that you mention it, what’s there to talk about?” I conceded.
+“Yeah... now that you mention it, what’s there to talk about?” I conceded.
 
 It made sense. There was nothing left to discuss. She’d already been executed.
 At most, it’d be reminiscing.
@@ -188,13 +188,13 @@ It seemed he’d only intended to declare his resolve. Heh, he underestimated me
 Chuckling, I said, “Don’t be silly. What kind of brother doesn’t support his
 younger brother? Besides, I’m a non-attribute holder myself. I’ll gladly help.”
 
-“Zex-nii… thank you\!” Orca exclaimed, his cheeks flushing as he beamed with
+“Zex-nii... thank you\!” Orca exclaimed, his cheeks flushing as he beamed with
 gratitude. He looked every bit like a lovestruck maiden. Well, despite being a
 guy.
 
-“…” I faltered, momentarily speechless at his overwhelming cuteness.
+“...” I faltered, momentarily speechless at his overwhelming cuteness.
 
-…Maybe my heart would fall sooner than I thought.
+...Maybe my heart would fall sooner than I thought.
 
 After that, we discussed plans for the future. For now, we’d focus on gathering
 information until graduation, when we could start moving in earnest.

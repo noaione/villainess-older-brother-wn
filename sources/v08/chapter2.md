@@ -5,9 +5,9 @@ a lecture held in the classroom, so we began moving to the designated room.
 
 The second period was also a mandatory subject, so our classmates were attending
 the same lecture. However, as we walked, I couldn’t shake the feeling that there
-was slightly more distance between us and the others than usual. …No, it wasn’t
-my imagination. It was obvious that the earlier incident was still lingering in
-their minds.
+was slightly more distance between us and the others than usual. ...No, it
+wasn’t my imagination. It was obvious that the earlier incident was still
+lingering in their minds.
 
 There was nothing to be done about it. I’d just have to wait for the tension to
 cool off with time. Fortunately, Caron and the others didn’t seem to care at
@@ -36,9 +36,9 @@ feelings about their tardiness.
 
 At his question, both Dan and Miria wore sheepish expressions.
 
-“Well, you’re not wrong about the oversleeping part…” Dan mumbled.
+“Well, you’re not wrong about the oversleeping part...” Dan mumbled.
 
-“It’s just that this time, it couldn’t be helped…” Miria added.
+“It’s just that this time, it couldn’t be helped...” Miria added.
 
 For a pair as straightforward as they usually were, their responses were
 unusually vague. What happened?
@@ -49,7 +49,7 @@ elaborate.
 After a brief pause, Miria spoke up.
 
 “Yesterday, we were getting lectured by Tara-chan until late at night. You know,
-since our grades last year were… well, \*_that_\*.”
+since our grades last year were... well, \*_that_\*.”
 
 Miria let out a dry laugh.
 
@@ -58,7 +58,7 @@ those who didn’t. The former group consisted of the long-time Foranada
 members—myself, Caron, Orca, Nina, Minerva, and Shion. The latter included
 Marina, who tilted her head curiously.
 
-“Um… Tara-chan is Dan-kun’s little sister, right?” Marina asked.
+“Um... Tara-chan is Dan-kun’s little sister, right?” Marina asked.
 
 “That’s right,” I replied simply.
 
@@ -70,15 +70,15 @@ oversleep?” Yurika asked, her tone laced with doubt.
 Dan and Miria shrank even further under her gaze.
 
 It was a fair question. It’s hard to imagine a younger girl lecturing her older
-siblings until midnight. Maybe it’s a lack of imagination on their part… though,
-I noticed Skia, who had been silent, had a distant look in her eyes, as if she
-understood perfectly.
+siblings until midnight. Maybe it’s a lack of imagination on their part...
+though, I noticed Skia, who had been silent, had a distant look in her eyes, as
+if she understood perfectly.
 
 \*\*Oh, I get it.\*\*
 
 “Yurika, are you an only child, by any chance?” I asked.
 
-“N-No, I have a younger brother… ten years younger,” she replied.
+“N-No, I have a younger brother... ten years younger,” she replied.
 
 “Got it. That makes sense.”
 
@@ -185,7 +185,7 @@ Orca nodded at her surprised tone.
 still rooted in a class system. Not everyone can switch their mindset so easily.
 That’s why A-Class commoners like Yurika are likely to be targeted first.”
 
-“That’s…” Caron covered her mouth with both hands, her expression heavy with
+“That’s...” Caron covered her mouth with both hands, her expression heavy with
 concern.
 
 I reached out and ruffled her hair gently. “It’s not that serious, so don’t
@@ -278,15 +278,15 @@ love to hear about Zex-sama’s childhood sometime\!” she said with a grin.
 Zex-san’s past? Can’t you just ask Caron-san and the others?”
 
 Marina gave a wry smile. “Well, you know, when it’s Caron-chan and the others,
-they… get a bit \*_too_\* enthusiastic.”
+they... get a bit \*_too_\* enthusiastic.”
 
-“Oh…” Tara’s eyes grew distant as she let out a sound of understanding.
+“Oh...” Tara’s eyes grew distant as she let out a sound of understanding.
 
 Wait, what? Are Caron and the others going overboard when they talk about me?
 
 I rarely get the chance to hear others discuss my childhood, so this was news to
 me. While part of me was curious about what they said, another part felt a
-creeping dread. …Maybe it’s better if I don’t know.
+creeping dread. ...Maybe it’s better if I don’t know.
 
 As I tried to shut down that train of thought and escape reality, someone
 interrupted the conversation. Naturally, it was the two who apparently got “too
@@ -343,7 +343,7 @@ Unlike Arianorth, he hasn’t drawn much attention from intelligence reports.
 Meeting him face-to-face confirmed it: he seemed the very picture of
 harmlessness.
 
-Yet, there was something… off about him. It’s hard to describe—a kind of
+Yet, there was something... off about him. It’s hard to describe—a kind of
 prickling sensation, like catching something flickering at the edge of your
 vision, only to find nothing when you look directly at it.
 
@@ -380,7 +380,7 @@ His expression was cheerful, but his eyes were sharp, studying us closely.
 
 Hmm. The information he mentioned checks out, not that I doubted it.
 
-Prince Negro’s reputation is… average. He’s less capable than First Prince
+Prince Negro’s reputation is... average. He’s less capable than First Prince
 Wiemlay but broad-minded, less skilled in combat than Second Prince Gray but
 still adept, and less politically savvy than First Princess Arianorth but
 competent enough. He’s above average compared to most but unremarkable among
@@ -404,7 +404,7 @@ make my point clear.
 Someone as sharp as Negro would pick up on it. I’m not keen on seeing my
 childhood friend dragged into the kingdom’s murky politics.
 
-“…I see. Playing in the castle town sounds enviable. We royals weren’t allowed
+“...I see. Playing in the castle town sounds enviable. We royals weren’t allowed
 such freedoms,” Negro replied.
 
 “I wasn’t either, believe it or not. I was quite the mischievous kid,” I said.
@@ -473,8 +473,8 @@ Well, as the son of a viscount, he \*\*is\*\* part of the elite, but his
 attitude toward Marina, who’s closely tied to an earl’s family, spoke volumes
 about his warped personality. As a noble, he’d score a failing grade.
 
-“Uh…” Marina said, her expression one of bewilderment as Idio stormed out of the
-classroom.
+“Uh...” Marina said, her expression one of bewilderment as Idio stormed out of
+the classroom.
 
 I turned to her and said, “Do what you want, Marina.”
 
@@ -518,7 +518,7 @@ was unmistakable.
 
 Shion and Skia, though silent, were likely cheering for her in their hearts.
 
-\*\*Three, two, one… Begin the battle.\*\*
+\*\*Three, two, one... Begin the battle.\*\*
 
 The signal to start rang out.
 
@@ -552,7 +552,7 @@ Idio didn’t hesitate, thrusting his spear mercilessly.
 
 But—
 
-“What\!?”
+“What\?!”
 
 The spear missed. Without moving her feet, Marina tilted her upper body just
 enough to dodge by a hair’s breadth.
@@ -578,7 +578,7 @@ Idio attacked with full force, while Marina dodged with minimal effort. Given
 the stamina difference between a frontliner and a backliner, the outcome was
 obvious.
 
-“Haa… huff…” Idio panted, his steps faltering.
+“Haa... huff...” Idio panted, his steps faltering.
 
 Marina, meanwhile, hadn’t broken a sweat. The victor was clear.
 
@@ -657,7 +657,7 @@ first five years shuffled between owners as a slave before being purchased by
 the Iraka barony. Her enrollment in the academy suggests she’s been freed, but
 her life up to now must have been grueling.
 
-“Eclara-sama…” Orca murmured beside me.
+“Eclara-sama...” Orca murmured beside me.
 
 As his words suggested, Orca and Eclara were old acquaintances. Unlike Nina, who
 was under house arrest and had no contact, Orca had played with Eclara a few
@@ -716,8 +716,8 @@ Raising her head, she turned her gaze to Orca.
 
 Orca’s expression remained steady, but his shoulders trembled slightly.
 
-“It’s been a while, Orca… Oh, I should address you properly, as you now outrank
-me. My apologies, Orca-sama,” Eclara said.
+“It’s been a while, Orca... Oh, I should address you properly, as you now
+outrank me. My apologies, Orca-sama,” Eclara said.
 
 “Please, no honorifics, Eclara-sama,” Orca replied. “Even if it’s old history,
 it feels wrong to be addressed so formally by someone from a family once equal
@@ -726,7 +726,7 @@ to my former guardians. It’s bad for my heart.”
 “I could say the same,” Eclara countered. “Being addressed with an honorific by
 an active noble makes \*_me_\* uneasy.”
 
-“…Fine, Eclara. Is this alright?” Orca asked.
+“...Fine, Eclara. Is this alright?” Orca asked.
 
 “Yes, that will do, Orca. Please forgive my formal speech—it’s my default,” she
 replied.
@@ -754,7 +754,7 @@ Nina answered, her expression sour.
 
 “From Eclara-jou?”
 
-“Yeah. Not my type… no, I \*_dislike_\* her type.”
+“Yeah. Not my type... no, I \*_dislike_\* her type.”
 
 “That’s rare for you,” I said.
 
@@ -763,7 +763,7 @@ declare she disliked someone was surprising.
 
 She continued matter-of-factly.
 
-“It’s like… something dark. Hidden. Malicious intent, maybe.”
+“It’s like... something dark. Hidden. Malicious intent, maybe.”
 
 “Your gut feeling?”
 
@@ -820,7 +820,7 @@ chat in the nearly empty classroom.
 
 Then, a voice spoke up beside me.
 
-“A-Are you… jealous?”
+“A-Are you... jealous?”
 
 I turned, puzzled, to find Skia there, her breathing heavy with excitement.
 Since it was just me, Orca, and Eclara in the room, she seemed less hesitant
@@ -831,7 +831,7 @@ and made no sense. Jealous of \*what\*?
 
 Skia, however, grew even more animated.
 
-“U-Unaware\! Tch, this… this is a classic trope\! It’s perfect\!”
+“U-Unaware\! Tch, this... this is a classic trope\! It’s perfect\!”
 
 Her words didn’t seem directed at me anymore. They were more like a monologue,
 and I was clearly no longer in her focus. Come on, \*_she’s_\* the one who spoke
@@ -854,7 +854,7 @@ pure bliss. A third party swooping in to steal the “heroine,” sparking jealo
 in the “hero”—yep, as she said, a classic trope. I’ll admit, I kind of like
 those stories too.
 
-…Except it’s all a misunderstanding on her part.
+...Except it’s all a misunderstanding on her part.
 
 I don’t have anything against same-sex relationships. It’s possible to love
 someone regardless of gender. But right now, I didn’t have \*those\* kinds of
@@ -956,7 +956,7 @@ was \*that\* dense.
 Orca gave a wistful smile.
 
 “I’m glad an old friend is alive, and it’s true we’ve been hitting it off. I do
-want to be friends with her. But it doesn’t feel like she’s on the same page…”
+want to be friends with her. But it doesn’t feel like she’s on the same page...”
 
 “I see,” I said.
 

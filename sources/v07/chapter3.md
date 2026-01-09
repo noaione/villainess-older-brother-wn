@@ -109,7 +109,7 @@ At first, she was disoriented, but she gradually recalled the events before
 she’d passed out. After listening to my explanation of our situation, she bowed
 her head apologetically.
 
-“I-I’m so sorry, Lord Zex. It’s my fault you’ve been dragged into this mess…”
+“I-I’m so sorry, Lord Zex. It’s my fault you’ve been dragged into this mess...”
 
 She seemed to think our current predicament was her responsibility. Her brows
 furrowed, and she bit her lip slightly.
@@ -118,7 +118,7 @@ Having a strong sense of duty is admirable, but she was overthinking this.
 
 I ruffled her hair roughly.
 
-“Wah\!? Wh-What are you doing\!?”
+“Wah\?! Wh-What are you doing\?!”
 
 Her hair now a mess, Marina hurriedly pressed it down with her hands.
 
@@ -127,7 +127,7 @@ I shrugged.
 “You’re too tense. You were trying to protect your childhood friend, right? Do
 you regret what you did?”
 
-“…No, I don’t.”
+“...No, I don’t.”
 
 “Then hold your head high. I couldn’t fully react when Chimera attacked Yudai in
 time. Because you acted, we gained a moment’s reprieve—and that’s why I made it
@@ -142,7 +142,7 @@ I met her gaze.
 “You saved his life, Marina. That’s a big deal. So there’s no need to feel
 burdened.”
 
-“Thank you…”
+“Thank you...”
 
 Her eyes glistened slightly as she expressed her gratitude. The tension in her
 seemed to ease, and I figured she’d be fine moving forward without slipping up.
@@ -158,9 +158,9 @@ With Marina’s spirited reply as our cue, we set off to explore the dungeon.
 The dungeon exploration went mostly smoothly. We didn’t encounter any absurdly
 powerful magical beasts like that chimera—just enemies typical of each layer.
 
-…That’s how it’s supposed to be, of course. But after experiencing something so
-out of the ordinary, I couldn’t help but stay on guard. It felt like a harbinger
-of something, and that unease lingered.
+...That’s how it’s supposed to be, of course. But after experiencing something
+so out of the ordinary, I couldn’t help but stay on guard. It felt like a
+harbinger of something, and that unease lingered.
 
 Despite our wariness, no major issues cropped up, and we reached the seventieth
 layer without incident.
@@ -173,14 +173,14 @@ picked up something odd: an unfamiliar space. Tucked away in a corner of the
 floor was a small room that felt distinct from the dungeon itself, despite being
 within it.
 
-“There’s a strange room…” I murmured.
+“There’s a strange room...” I murmured.
 
 “Strange?” Marina echoed.
 
 “Yeah. It’s hard to put into words, but it gives off a vibe that doesn’t feel
 like part of the dungeon.”
 
-“Inside the dungeon, but not part of it…?”
+“Inside the dungeon, but not part of it...?”
 
 Having grown more relaxed around me during our journey, Marina tilted her head,
 her natural curiosity peeking through.
@@ -207,7 +207,7 @@ She blinked, snapping out of her reverie, then gave a small nod.
 
 “I asked if the room’s got you curious.”
 
-“Oh…”
+“Oh...”
 
 She’d clearly been deep in thought. Her response came absently, her gaze
 drifting into space.
@@ -218,7 +218,7 @@ After a moment of staring into the void, she spoke up unexpectedly.
 
 “Not necessarily. But why?”
 
-“I feel… called to it. That’s the sense I’m getting.”
+“I feel... called to it. That’s the sense I’m getting.”
 
 “Hmm.”
 
@@ -260,7 +260,7 @@ Marina and I exchanged a glance.
 
 “What now?” I asked.
 
-“…Let’s open it,” she replied.
+“...Let’s open it,” she replied.
 
 Just to be sure, I deferred to her—the one who’d suggested this detour—before
 carefully placing my hand on the door. I channeled magic through it, checking
@@ -284,7 +284,7 @@ A dull clatter echoed as it slid inward. Once I confirmed it had fully detached
 from its frame, I swiftly stored it in my \[Phase Concealment\]. In an instant,
 the door vanished, revealing the room’s interior.
 
-It was almost… completely empty. The small, cubic space—roughly five meters on
+It was almost... completely empty. The small, cubic space—roughly five meters on
 each side—was barren. Bare stone walls, similar in texture to the dungeon’s
 caves, were all that greeted us. A desolate, unremarkable place.
 
@@ -313,7 +313,7 @@ presence.
 I got the sense this might turn into a hassle, but turning back now wasn’t an
 option. Steeling myself, I spoke up.
 
-“Uh… excuse me, spirit over there?”
+“Uh... excuse me, spirit over there?”
 
 “Huh?”
 
@@ -340,7 +340,7 @@ I tilted my head inwardly. All I’d done was speak to her—why did this feel l
 a scene where a pitiful citizen cowered before a tyrannical demon lord? I didn’t
 get it at all.
 
-“Um, I’m not here to harm you… so could you please not be so scared?”
+“Um, I’m not here to harm you... so could you please not be so scared?”
 
 “Eek\!”
 
@@ -372,12 +372,12 @@ I deemed it unavoidable this time. As a fallback, I’d keep my guard up.
 
 “Hello there, spirit-san,” Marina said, radiating a calm, friendly vibe.
 
-“…”
+“...”
 
 The response was silence, but it felt different from how she’d reacted to me.
 When she stole a glance at Marina, her eyes held something beyond fear.
 
-Was it… familiarity?
+Was it... familiarity?
 
 Thanks to observing the spirits that hung around Noma and Foranada, reading
 their emotions came easily to me. This assessment felt solid. Without a doubt,
@@ -404,7 +404,7 @@ The relationship between spirits and spirit mages might lean even more on gut
 feeling than I’d imagined. If these two were fated partners, it’d be less a
 mystery and more a downright supernatural phenomenon.
 
-…For some reason, I felt like someone, somewhere, was snarking, “You’re one to
+...For some reason, I felt like someone, somewhere, was snarking, “You’re one to
 talk,” but it was probably my imagination.
 
 While I mulled this over in silence, Marina kept talking to the water spirit.
@@ -463,7 +463,7 @@ I let out a relieved breath and started to ask, “Hey, I’ve got a question—
 
 “Eek\!”
 
-“…”
+“...”
 
 The moment I spoke, Maimu let out a yelp. Her face contorted in the same terror
 as before, and she clung desperately to Marina.
@@ -476,7 +476,7 @@ As I wrestled with this oddly disheartening feeling, Marina gave a wry smile.
 “Um, Maimu-chan, this big brother’s a really nice guy, so you don’t have to be
 so scared, okay?”
 
-“…”
+“...”
 
 Marina tried to reassure her, but Maimu just shook her head, stubbornly
 rejecting me.
@@ -527,7 +527,7 @@ Speaking of which, leaving Noma behind to guard the surface was a misstep. If
 I’d stashed her in \[Phase Concealment\], I could’ve gotten her take on Maimu
 right now.
 
-…No point dwelling on what I didn’t have. The decision was already clear.
+...No point dwelling on what I didn’t have. The decision was already clear.
 
 “If you’re both on board, I’ve got no objections.”
 
@@ -794,7 +794,7 @@ Marina spoke.
 
 “Could you let me talk to Maimu?”
 
-“…Right now?” I asked.
+“...Right now?” I asked.
 
 “Yes,” she replied promptly.
 
@@ -819,13 +819,13 @@ to Maimu-chan right now.”
 Marina paused for a breath before answering.
 
 “When Maimu-chan went berserk, I felt her heart flow into me. It was painful,
-agonizing, sad… and lonely. I think Maimu-chan needs someone to be there for her
-right now. And I believe that’s my role as her contractor.”
+agonizing, sad... and lonely. I think Maimu-chan needs someone to be there for
+her right now. And I believe that’s my role as her contractor.”
 
 She continued, “The enemy waiting ahead—we’ll defeat it. I’m certain this is our
 trial. It’s the wall we must overcome to truly become partners.”
 
-“…You noticed, huh?” I said.
+“...You noticed, huh?” I said.
 
 “Yes. Maybe it’s a benefit of my contract with Maimu-chan, but my sensory
 abilities have improved, even if not as much as hers,” Marina said with a

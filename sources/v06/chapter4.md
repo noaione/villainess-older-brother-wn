@@ -194,7 +194,7 @@ The referee seemed to come to the same conclusion, speaking quickly.
 “But there’s no rule against it, right? I made sure to review the match
 regulations.”
 
-“That’s…”
+“That’s...”
 
 The referee stumbled over his words, having been hit in a sensitive spot.
 
@@ -291,7 +291,7 @@ training ground to a pristine state.
 
 “Teacher, I would appreciate it if you kept this matter confidential.”
 
-“I don’t mind, but… why?”
+“I don’t mind, but... why?”
 
 “If this incident becomes public, his family will be implicated as well. That
 would be absurd, wouldn’t it?”
@@ -423,7 +423,7 @@ wouldn’t change anything.
 
 However, it appeared I was the only one able to brush it off.
 
-“F-Father\!?” Minerva exclaimed, her face flushed with embarrassment as she
+“F-Father\?!” Minerva exclaimed, her face flushed with embarrassment as she
 protested.
 
 Seeing this, the duke’s smile widened even further, and he let out a hearty
@@ -499,9 +499,10 @@ After some light banter, we decided to part ways, as the final tournament
 awaited us, along with the duke’s observation of it.
 
 That said, we were cutting it pretty close on time, so the three of us decided
-to use 【Phase Connection】 to travel. During that process, I was somewhat… no,
-completely taken aback by Duke Loramberg’s level of excitement. It truly struck
-me how intense a person could become when they dedicated their life to magic.
+to use 【Phase Connection】 to travel. During that process, I was somewhat...
+no, completely taken aback by Duke Loramberg’s level of excitement. It truly
+struck me how intense a person could become when they dedicated their life to
+magic.
 
 ---
 
@@ -995,7 +996,7 @@ She looked up at me suddenly, her eyes filled with strong suspicion.
 "Whether you choose to believe me or doubt me is up to you. I’ll just proceed as
 I see fit."
 
-"…"
+"..."
 
 Lina seemed to ponder something and once again looked down.
 
@@ -1023,13 +1024,13 @@ The only unpredictable match was between Caron and Nina, but ultimately, Caron
 emerged victorious. Once again, Caron’s magical firepower was extraordinary, and
 it seemed that Nina, who struggled with magic, couldn’t defend against it.
 
-Caron claimed victory through sheer force, just like in the first round. Hmmm…
+Caron claimed victory through sheer force, just like in the first round. Hmmm...
 While it's good to push through with one’s strengths, I couldn’t help but wish
 he’d pay a bit more attention to tactics. His reliance on brute force made him
 come off as somewhat villainous.
 
 That would be a future challenge. After the individual tournament, I’d need to
-reevaluate the training regimen. Plus, it was a good opportunity…
+reevaluate the training regimen. Plus, it was a good opportunity...
 
 Now, back to the topic at hand.
 
@@ -1121,11 +1122,11 @@ Consider it a form of training.
 "Such a monotonous attack will never catch up to me, no matter how long you
 try."
 
-"Wh-\!?"
+"Wh-\?!"
 
 I spoke lightly to Caron, who gasped at having her magic disrupted.
 
-She widened her eyes and displayed an expression of despair. …Why?
+She widened her eyes and displayed an expression of despair. ...Why?
 
 I would address my questions later. For now, I wanted to prioritize the match.
 
@@ -1145,7 +1146,7 @@ spell considering the power of my attack.
 
 Thus, my next move would take effect.
 
-"Kya\!?"
+"Kya\?!"
 
 As Caron successfully blocked the magical blades, a short scream escaped her
 lips.
@@ -1162,11 +1163,11 @@ considering she was focused on withstanding the high-power magic, she likely
 hadn’t been able to stay vigilant about the finer details. Well, that had been
 my intention.
 
-Having her use the wall-type magic played a part in that, too… For instance, if
-she had used a full-dimension defensive spell like \[Light Cocoon,\] my binding
-would not have succeeded. I had deliberately struck with a level of power that
-could only be countered by a spell specialized for one-directional defense to
-eliminate that option.
+Having her use the wall-type magic played a part in that, too... For instance,
+if she had used a full-dimension defensive spell like \[Light Cocoon,\] my
+binding would not have succeeded. I had deliberately struck with a level of
+power that could only be countered by a spell specialized for one-directional
+defense to eliminate that option.
 
 While it’s great to push through with firepower, it’s also necessary to devise
 strategies that use one’s strengths as bait; otherwise, you might find yourself
@@ -1226,7 +1227,7 @@ She opened her mouth.
 
 "It might be difficult, but please do your best not to hold back."
 
-"…I’ll do my best."
+"...I’ll do my best."
 
 Our conversation flowed smoothly, with a lightness in our voices that made it
 seem as though we were merely planning a tea party.
@@ -1271,7 +1272,7 @@ her with a nod, knowing her heart always reached me.
 
 In response, she let out a small sigh.
 
-"…Hah. Your immediate response without a hint of embarrassment is so very you.
+"...Hah. Your immediate response without a hint of embarrassment is so very you.
 Well, that’s fine. Regardless, I like you. I don’t want a partner in life who is
 just ‘carried along.’ So, no matter what, I will catch up to you. It may be
 impossible now, but someday, I will. That’s why, to take that first step, I need
@@ -1455,7 +1456,7 @@ in advance.
 
 A colorless, transparent box enveloped Minerva, rapidly shrinking in size.
 
-"\!? \[Pressure\] \[Pressure\]\!"
+"\?! \[Pressure\] \[Pressure\]\!"
 
 It seemed that the effect of her previous "Double Chant" spell was still in
 effect, as she layered the advanced earth magic "Pressure" on top of it. Thanks
@@ -1470,9 +1471,9 @@ I held off on the follow-up attack. Perhaps she was aware she was being
 targeted, as she unleashed a countering spell. By the time I was addressing
 that, her feet were back on the ground.
 
-"…"
+"..."
 
-"…"
+"..."
 
 Silence.
 
@@ -1624,8 +1625,8 @@ time.
 
 However, everything must come to an end.
 
-“Hah… Hah… I can’t take it anymore. If I cast one more spell, I’ll pass out,”
-Minerva gasped.
+“Hah... Hah... I can’t take it anymore. If I cast one more spell, I’ll pass
+out,” Minerva gasped.
 
 The disparity in our magical power was insurmountable. Exhausted and battered,
 she ultimately declared her retirement due to running out of magic.

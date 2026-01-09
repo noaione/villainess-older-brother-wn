@@ -74,7 +74,7 @@ are meeting us for the first time. Nice to meet you!”
 
 “Exactly. We’re friends with Caron, but we’re pure commoners, so don’t worry.”
 
-“Uh, okay…”
+“Uh, okay...”
 
 Utilizing their friendly nature, Dan and Miria are already chatting with Yurika,
 who seems a bit overwhelmed. But that’s typical, so they’ll likely become
@@ -127,7 +127,7 @@ So, why bring them in now? Surprisingly, it was Orca's suggestion.
 “From now on, we’ll set aside time for studying either before or after club
 activities. Don’t run away, you two!”
 
-““Whaaaaaat!?””
+““Whaaaaaat?!””
 
 Dan and Miria screamed in response to Orca’s cheerful announcement.
 
@@ -175,7 +175,7 @@ intensity has increased since she entered the academy. I’m only watching over
 her since it doesn’t seem to be going in a bad direction, but I am a little
 worried.
 
-…Well, since Zex isn’t doing anything either, maybe I’m just overthinking it.
+...Well, since Zex isn’t doing anything either, maybe I’m just overthinking it.
 That guy is observant and will surely take care of us, especially since we’re
 his fiancées.
 
@@ -212,7 +212,7 @@ like for the rest of the time.”
 Since I had the opportunity, I wanted to immerse myself in a book as well. With
 so many available, there must be something that piques my interest.
 
-As I made my way toward the bookshelf with a bit of bounce in my step… wait,
+As I made my way toward the bookshelf with a bit of bounce in my step... wait,
 before that,
 
 “Teria, stay with Minerva-chan.”
@@ -226,7 +226,8 @@ focused on her reading.
 
 Alright then. With that settled, I’m off to seek out an interesting book!
 
-“Hmmm. There are just too many to choose from; it’s making it harder to decide…”
+“Hmmm. There are just too many to choose from; it’s making it harder to
+decide...”
 
 Standing in front of the numerous bookshelves, I crossed my arms and groaned.
 
@@ -239,9 +240,9 @@ to tackle them. There were only so many books I could get through in one day.
 That said, if I continued like this, I wouldn’t end up reading a single book
 before time ran out. That would defeat the purpose entirely.
 
-“Hmmm…”
+“Hmmm...”
 
-“Oh, it’s you…”
+“Oh, it’s you...”
 
 “Hm?”
 
@@ -253,7 +254,7 @@ actually speak to me.
 I turned to face the source of the voice, revealing a woman with golden hair and
 olive-green eyes—the current saintess.
 
-“Um… it’s Seira, right?”
+“Um... it’s Seira, right?”
 
 I wracked my brain to recall her name. Though she was my classmate, we hadn’t
 interacted much, so it took a moment to jog my memory. I hoped I hadn’t made her
@@ -301,7 +302,7 @@ some reason for doing so. Was I mistaken?
 As I pondered this in my mind, she frantically waved her hands.
 
 “Oh, I’m sorry. It wasn’t that I needed anything. I just happened to see a
-familiar face and called out without thinking…”
+familiar face and called out without thinking...”
 
 “Oh, I see.”
 
@@ -353,7 +354,7 @@ I tilted my head in confusion. “Aren’t you supposed to be researching?”
 
 “What are you talking about? The sun has already set,” she pointed out.
 
-“Wait, what!?”
+“Wait, what?!”
 
 I hurriedly checked my Magic Communication Device in my pocket, which also had a
 clock function.
@@ -380,7 +381,7 @@ Though we are classmates, I suppose it’s more appropriate to say ‘nice to me
 you’ for the first time.”
 
 “Oh, yes, nice to meet you. I’m Seira Isente Horight. Um, please don’t be so
-formal; it makes me nervous…”
+formal; it makes me nervous...”
 
 “Is that so? Then I won’t hold back.”
 
@@ -396,13 +397,13 @@ giving me a slightly narrowed look.
 
 “For hours?”
 
-“Uh, when you put it that way…”
+“Uh, when you put it that way...”
 
 “W-Well, I initiated the conversation!”
 
 “So, it was reverse flirting?”
 
-“Eh!?”
+“Eh?!”
 
 Seira, who had tried to defend me, was swiftly taken down by Minerva’s strong
 comeback. She was too sharp.
@@ -444,7 +445,7 @@ feeling, but I couldn’t help but accept it as part of who the saintess was.
 Still, there was something slightly lacking.
 
 Maybe it was because I knew a sense of comfort that surpassed what I felt for
-her. There was that person… with their broad back and overwhelming sense of
+her. There was that person... with their broad back and overwhelming sense of
 security that could not be matched.
 
 So, I couldn’t quite picture Seira as a romantic partner. I thought she was a
@@ -689,7 +690,7 @@ power.
 
 As I slightly eased my strength, a shocking turn of events awaited me.
 
-“What!?”
+“What?!”
 
 In contrast to my limited power, Zex cranked up his output. I was left stunned.
 
@@ -716,7 +717,7 @@ attack.
 The night sky, filled with countless stars, faintly illuminated the dark
 grassland where I lay sprawled out.
 
-“Hahhh…”
+“Hahhh...”
 
 Normally, one would feel rejuvenated by the beauty of nature, but at this
 moment, that was impossible. I had just lost a mock battle.
@@ -741,12 +742,12 @@ I was shocked not just by his ability to prevent collateral damage but also by
 his nonchalant attitude about it. Was his brain a few screws loose?
 
 Seeing my astonished expression, he shrugged. “From the start, I planned to
-adjust it this way. In manga… or stories, there are plenty of scenarios where
+adjust it this way. In manga... or stories, there are plenty of scenarios where
 power inflation makes it impossible to go all out. Originally, I’ve been
 training to protect Caron, so causing damage to the surroundings would be
 counterproductive.”
 
-“I get that, but…”
+“I get that, but...”
 
 Even so, I still thought it was insane to achieve that. It was like trying to
 recover stamina while sprinting at full speed. It was a paradoxical task to
@@ -764,7 +765,7 @@ huh?”
 “You caught on, huh?”
 
 “It’s hard not to notice. How do you manage to hide the fact that you have more
-magic power than me? I can’t feel any of it…”
+magic power than me? I can’t feel any of it...”
 
 Right after the mock battle, I had noticed that I couldn’t sense Zex’s magic
 power at all. Initially, I thought I was just too disoriented from losing so
@@ -781,7 +782,7 @@ techniques that I thought were exclusive to me. So, I anticipated that some
 might learn magic detection and started practicing magic concealment. If I can
 fool not just the Spirit King but also Akatsuki, that would be perfect.”
 
-“Ah, you really don’t need to worry. I mean… well…”
+“Ah, you really don’t need to worry. I mean... well...”
 
 Is this really just ambition I’m witnessing in Zex? Sure, I develop magic too,
 but his direction feels utterly off the rails. I mean, most people would be
@@ -789,7 +790,7 @@ satisfied just being able to defeat a divine apostle, right? He’s already the
 strongest in the world; there’s no need to get any stronger than that.
 
 Zex’s potential seemed limitless. Thanks to that, my own authority as a teacher
-was practically non-existent. …Huh? Wasn’t it always non-existent? Ha, not
+was practically non-existent. ...Huh? Wasn’t it always non-existent? Ha, not
 funny.
 
 Well, at least it looked like I wouldn’t have to worry about a worst-case
@@ -894,7 +895,7 @@ After a while of internally groaning, my master suddenly spoke up.
 
 “Noma, there’s no need to overthink things.”
 
-“…What do you mean?”
+“...What do you mean?”
 
 His words were so timely that I stumbled momentarily over my response.
 
@@ -909,7 +910,7 @@ let out a wry smile.
 not being yourself. If you have even a little time to think, it’s easy to guess
 what you’re going through.”
 
-“Does this mean that I was called here because…?”
+“Does this mean that I was called here because...?”
 
 “As you might have guessed, it’s to discuss things with you.”
 
@@ -952,7 +953,7 @@ weren’t finished yet.
 “It doesn’t change the fact that you’re my partner, Noma. No matter how many
 spirits come, you’re the one I want to work with.”
 
-“Ah…”
+“Ah...”
 
 What my master said next was meant to alleviate my anxiety.
 
@@ -1073,9 +1074,9 @@ decorated for the party, and there were more tables set up for a buffet-style
 gathering. Naturally, there was an abundance of food and drinks.
 
 It was clear that a lot of effort had gone into the preparations. To go to such
-lengths for us… I realized that I was more loved by everyone than I had thought.
-It was a world apart from my days as a noble. I could feel my eyes getting a bit
-teary.
+lengths for us... I realized that I was more loved by everyone than I had
+thought. It was a world apart from my days as a noble. I could feel my eyes
+getting a bit teary.
 
 Then, Zex gently patted my head. His affectionate gesture surprisingly brought
 me a sense of calm.
@@ -1149,7 +1150,7 @@ After a brief pause, Rhiote asked again.
 such a close relationship with the lord. What was the deciding factor? Does age
 really matter?”
 
-“Uh…”
+“Uh...”
 
 Currently, Sis’s true identity remained a secret. So I had somewhat expected
 this question to come up. After all, it’s a common trope for a life-saving
@@ -1173,7 +1174,7 @@ question.
 
 “You’ll answer this one, right? How far have you two gone?”
 
-“…”
+“...”
 
 I was curious why she thought I would answer.
 
@@ -1188,7 +1189,7 @@ now.
 
 Upon hearing my response, Rhiote tilted her head.
 
-“Engaged…? Isn’t ‘engaged’ one term too many?”
+“Engaged...? Isn’t ‘engaged’ one term too many?”
 
 “If being engaged means promising to marry, then I’m the one who has made a
 reservation for engagement. So, I’m the ‘engaged person.’”
@@ -1196,11 +1197,11 @@ reservation for engagement. So, I’m the ‘engaged person.’”
 As I relayed the explanation I had previously shared with Zex, Rhiote blinked in
 surprise. Then, she let out an incredulous sound.
 
-“Wait, you two aren’t officially engaged yet!?”
+“Wait, you two aren’t officially engaged yet?!”
 
 “Yeah. But we’re getting married after graduation.”
 
-“Uh, um… doesn’t that still count as being engaged?”
+“Uh, um... doesn’t that still count as being engaged?”
 
 “I’ve made a reservation for engagement.”
 
