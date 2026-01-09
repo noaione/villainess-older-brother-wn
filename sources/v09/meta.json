@@ -1,0 +1,34 @@
+{
+    "title": "I Was Reincarnated As The Older Brother Of A Villainess Destined to Die, So I Want To Change The Future By Raising My Younger Sister With My Own Hands: Volume 8",
+    "volume": 8,
+    "identifier": "villainess-older-brother-v08",
+    "cover": "Cover.jpg",
+    "year": 2026,
+    "version": "1.0.0",
+    "toc": [
+        {
+            "title": "Cover",
+            "type": "frontmatter",
+            "filename": "cover.md"
+        },
+        {
+            "title": "Table of Contents",
+            "type": "frontmatter",
+            "filename": "toc.md",
+            "landmark": "toc"
+        },
+        {
+            "title": "Chapter 1: The Cheyni Family",
+            "type": "chapter",
+            "filename": "chapter1.md",
+            "landmark": "bodymatter",
+            "break": true
+        },
+        {
+            "title": "Colophon",
+            "type": "backmatter",
+            "filename": "colophon.md",
+            "break": true
+        }
+    ]
+}
