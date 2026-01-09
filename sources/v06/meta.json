@@ -1,0 +1,65 @@
+{
+    "title": "I Was Reincarnated As The Older Brother Of A Villainess Destined to Die, So I Want To Change The Future By Raising My Younger Sister With My Own Hands: Volume 6",
+    "volume": 6,
+    "identifier": "villainess-older-brother-v06",
+    "cover": "Cover.jpg",
+    "year": 2025,
+    "version": "1.0.0",
+    "toc": [
+        {
+            "title": "Cover",
+            "type": "frontmatter",
+            "filename": "cover.md"
+        },
+        {
+            "title": "Table of Contents",
+            "type": "frontmatter",
+            "filename": "toc.md",
+            "landmark": "toc"
+        },
+        {
+            "title": "Chapter 1: The Suspicious Honor Student",
+            "type": "chapter",
+            "filename": "chapter1.md",
+            "landmark": "bodymatter",
+            "break": true
+        },
+        {
+            "title": "Chapter 2: Towards the Tournament",
+            "type": "chapter",
+            "filename": "chapter2.md"
+        },
+        {
+            "title": "Chapter 3: Protagonists",
+            "type": "chapter",
+            "filename": "chapter3.md"
+        },
+        {
+            "title": "Chapter 4: Individual Competition",
+            "type": "chapter",
+            "filename": "chapter4.md"
+        },
+        {
+            "title": "Chapter 5: The Demon Invasion",
+            "type": "chapter",
+            "filename": "chapter5.md"
+        },
+        {
+            "title": "Epilogue: Honestly",
+            "type": "chapter",
+            "filename": "chapter6.md"
+        },
+        {
+            "title": "Interludes",
+            "type": "chapter",
+            "filename": "interludes.md",
+            "numbering": "padzero"
+        },
+        {
+            "title": "Colophon",
+            "type": "backmatter",
+            "filename": "colophon.md",
+            "break": true
+        }
+    ]
+}
