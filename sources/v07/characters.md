@@ -3,7 +3,7 @@
 _Please be aware that this contains certain spoilers._
 
 _Also, for characters already introduced in 'Character Introduction (after
-Chapter 3),' only new information or changes since Chapter 4 are listed._
+Volume 3),' only new information or changes since Volume 4 are listed._
 
 _Unless otherwise specified, please assume the content is the same as the
 previous character introduction._

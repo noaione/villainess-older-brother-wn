@@ -6,7 +6,7 @@ numbering: padzero
 
 ## Light Blinds All
 
-_Timeline: Immediately following the conclusion of Chapter 7_
+_Timeline: Immediately following the conclusion of this volume_
 
 ---
 
@@ -1258,7 +1258,7 @@ As expected of Onii-sama’s disciple. My dear friend was unreasonably strong.
 _We’ve reached the milestone of 300 chapters and over one million characters.
 Thank you for your continued support moving forward\!_
 
-_Additionally, I plan to post the first chapter of Chapter 8 around 1:00 p.m.
+_Additionally, I plan to post the first chapter of Volume 8 around 1:00 p.m.
 today._
 
 ---

@@ -825,8 +825,6 @@ she might even extend the match by healing them.
 In the third training ground, the ground-shaking roar of the hammer clashing and
 numerous pained screams echoed throughout.
 
-Chapter 5-5 Training Camp (5)
-
 Since the commotion on the first day, the training camp had proceeded without
 any significant troubles. By dusk, Laurel and Yurika were utterly exhausted but
 wore satisfied expressions, so there was no issue.

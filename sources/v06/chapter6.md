@@ -370,5 +370,5 @@ Yet, the air between us was warm—not physically, but emotionally.
 
 I sincerely wished for our bond to remain like this forever.
 
-> And with that, Chapter 6 comes to a close. Following an interlude, Chapter 7
+> And with that, Volume 6 comes to a close. Following an interlude, Volume 7
 > will begin on August 5\. Thank you for your continued support\!

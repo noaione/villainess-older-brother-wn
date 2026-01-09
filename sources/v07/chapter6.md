@@ -240,5 +240,5 @@ I stay by her side, comforting her until her tears subside.
 As a result, our return to the royal capital is slightly delayed, and Caron and
 the others grill me relentlessly—a charming consequence.
 
-> And with that, Chapter 7 comes to a close. Interludes will begin tomorrow, and
-> Chapter 8 will start on September 11. Thank you for your continued support\!
+> And with that, Volume 7 comes to a close. Interludes will begin tomorrow, and
+> Volume 8 will start on September 11. Thank you for your continued support\!
